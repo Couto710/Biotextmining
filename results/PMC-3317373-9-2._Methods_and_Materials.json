@@ -1,0 +1,21 @@
+denotations: 2
+[[u'mmp9', [570, 574]], u'Protein']
+[[u'mmp9', [826, 830]], u'Protein']
+
+
+geniatagger: 2
+[[u'mmp9', [570, 574]], u'Protein']
+[[u'mmp9', [826, 830]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'mmp9', [570, 574]], u'Protein']
+[[u'mmp9', [826, 830]], u'Protein']
+
+
+total: 2
+[[u'mmp9', [570, 574]], u'Protein']
+[[u'mmp9', [826, 830]], u'Protein']

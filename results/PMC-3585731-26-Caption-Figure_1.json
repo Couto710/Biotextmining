@@ -1,0 +1,22 @@
+denotations: 4
+[[u'bfgf', [0, 4]], u'Protein']
+[[u'igf-1', [9, 14]], u'Protein']
+[[u'tnf\u03b1', [94, 98]], u'Protein']
+[[u'tnf\u03b1', [701, 705]], u'Protein']
+
+
+geniatagger: 2
+[[u'bfgf', [0, 4]], u'Protein']
+[[u'igf-1', [9, 14]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'igf-1', [9, 14]], u'Protein']
+
+
+total: 2
+[[u'bfgf', [0, 4]], u'Protein']
+[[u'igf-1', [9, 14]], u'Protein']

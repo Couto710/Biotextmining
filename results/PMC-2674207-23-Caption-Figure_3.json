@@ -1,0 +1,69 @@
+denotations: 20
+[[u'associated', [95, 105]], u'Regulation']
+[[u'down-regulation', [120, 135]], u'Negative_regulation']
+[[u'gata-3', [139, 145]], u'Protein']
+[[u'serine', [146, 152]], u'Entity']
+[[u'phosphorylation', [153, 168]], u'Phosphorylation']
+[[u'effect', [379, 385]], u'Regulation']
+[[u'phosphorylation', [404, 419]], u'Phosphorylation']
+[[u'activated transcription factor 2', [423, 455]], u'Protein']
+[[u'atf-2', [457, 462]], u'Protein']
+[[u'decrease', [567, 575]], u'Negative_regulation']
+[[u'induced', [608, 615]], u'Positive_regulation']
+[[u'serine', [616, 622]], u'Entity']
+[[u'phosphorylation', [623, 638]], u'Phosphorylation']
+[[u'gata-3', [650, 656]], u'Protein']
+[[u'induced', [886, 893]], u'Positive_regulation']
+[[u'mkp-1', [894, 899]], u'Protein']
+[[u'dependent', [924, 933]], u'Regulation']
+[[u'induces', [1077, 1084]], u'Positive_regulation']
+[[u'mkp-1', [1085, 1090]], u'Protein']
+[[u'dependent', [1106, 1115]], u'Regulation']
+
+
+geniatagger: 5
+[[u'gata-3', [139, 145]], u'Protein']
+[[u'atf-2', [457, 462]], u'Protein']
+[[u'gata-3', [650, 656]], u'Protein']
+[[u'mkp-1', [894, 899]], u'Protein']
+[[u'mkp-1', [1085, 1090]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 15
+[[u'gata-3', [139, 145]], u'Protein']
+[[u'serine', [146, 152]], u'Entity']
+[[u'phosphorylation', [153, 168]], u'Phosphorylation']
+[[u'effect', [379, 385]], u'Regulation']
+[[u'phosphorylation', [404, 419]], u'Phosphorylation']
+[[u'decrease', [567, 575]], u'Negative_regulation']
+[[u'induced', [608, 615]], u'Positive_regulation']
+[[u'serine', [616, 622]], u'Entity']
+[[u'phosphorylation', [623, 638]], u'Phosphorylation']
+[[u'gata-3', [650, 656]], u'Protein']
+[[u'induced', [886, 893]], u'Positive_regulation']
+[[u'mkp-1', [894, 899]], u'Protein']
+[[u'dependent', [924, 933]], u'Regulation']
+[[u'mkp-1', [1085, 1090]], u'Protein']
+[[u'dependent', [1106, 1115]], u'Regulation']
+
+
+total: 16
+[[u'gata-3', [139, 145]], u'Protein']
+[[u'atf-2', [457, 462]], u'Protein']
+[[u'gata-3', [650, 656]], u'Protein']
+[[u'mkp-1', [894, 899]], u'Protein']
+[[u'mkp-1', [1085, 1090]], u'Protein']
+[[u'serine', [146, 152]], u'Entity']
+[[u'phosphorylation', [153, 168]], u'Phosphorylation']
+[[u'effect', [379, 385]], u'Regulation']
+[[u'phosphorylation', [404, 419]], u'Phosphorylation']
+[[u'decrease', [567, 575]], u'Negative_regulation']
+[[u'induced', [608, 615]], u'Positive_regulation']
+[[u'serine', [616, 622]], u'Entity']
+[[u'phosphorylation', [623, 638]], u'Phosphorylation']
+[[u'induced', [886, 893]], u'Positive_regulation']
+[[u'dependent', [924, 933]], u'Regulation']
+[[u'dependent', [1106, 1115]], u'Regulation']

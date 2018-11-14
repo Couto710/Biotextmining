@@ -1,0 +1,49 @@
+denotations: 13
+[[u'c/ebp-\u03b2', [0, 7]], u'Protein']
+[[u'serpinb2', [54, 62]], u'Protein']
+[[u'serpinb2', [95, 103]], u'Protein']
+[[u'cebpb', [136, 141]], u'Protein']
+[[u'cebpb', [162, 167]], u'Protein']
+[[u'serpinb2', [236, 244]], u'Protein']
+[[u'cebpb', [274, 279]], u'Protein']
+[[u'cebpb', [287, 292]], u'Protein']
+[[u'serpinb2', [384, 392]], u'Protein']
+[[u'c/ebp-\u03b2', [420, 427]], u'Protein']
+[[u'cebpb', [675, 680]], u'Protein']
+[[u'c/ebp-\u03b2', [846, 853]], u'Protein']
+[[u'serpinb2', [956, 964]], u'Protein']
+
+
+geniatagger: 3
+[[u'serpinb2', [236, 244]], u'Protein']
+[[u'cebpb', [675, 680]], u'Protein']
+[[u'serpinb2', [956, 964]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'serpinb2', [54, 62]], u'Protein']
+[[u'serpinb2', [95, 103]], u'Protein']
+[[u'cebpb', [136, 141]], u'Protein']
+[[u'cebpb', [162, 167]], u'Protein']
+[[u'serpinb2', [236, 244]], u'Protein']
+[[u'cebpb', [274, 279]], u'Protein']
+[[u'cebpb', [287, 292]], u'Protein']
+[[u'serpinb2', [384, 392]], u'Protein']
+[[u'cebpb', [675, 680]], u'Protein']
+[[u'serpinb2', [956, 964]], u'Protein']
+
+
+total: 10
+[[u'serpinb2', [236, 244]], u'Protein']
+[[u'cebpb', [675, 680]], u'Protein']
+[[u'serpinb2', [956, 964]], u'Protein']
+[[u'serpinb2', [54, 62]], u'Protein']
+[[u'serpinb2', [95, 103]], u'Protein']
+[[u'cebpb', [136, 141]], u'Protein']
+[[u'cebpb', [162, 167]], u'Protein']
+[[u'cebpb', [274, 279]], u'Protein']
+[[u'cebpb', [287, 292]], u'Protein']
+[[u'serpinb2', [384, 392]], u'Protein']

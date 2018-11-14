@@ -1,0 +1,32 @@
+denotations: 13
+[[u'produce', [31, 38]], u'Gene_expression']
+[[u'il-1\u03b2', [62, 67]], u'Protein']
+[[u'in response to', [68, 82]], u'Positive_regulation']
+[[u'contribute', [472, 482]], u'Positive_regulation']
+[[u'increased', [490, 499]], u'Positive_regulation']
+[[u'il-1\u03b2', [500, 505]], u'Protein']
+[[u'production', [506, 516]], u'Gene_expression']
+[[u'il-1\u03b2', [690, 695]], u'Protein']
+[[u'increased', [749, 758]], u'Positive_regulation']
+[[u'increase', [828, 836]], u'Positive_regulation']
+[[u'il-1\u03b2', [840, 845]], u'Protein']
+[[u'production', [846, 856]], u'Gene_expression']
+[[u'il-1\u03b2', [1048, 1053]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'increased', [490, 499]], u'Positive_regulation']
+[[u'increased', [749, 758]], u'Positive_regulation']
+[[u'increase', [828, 836]], u'Positive_regulation']
+
+
+total: 3
+[[u'increased', [490, 499]], u'Positive_regulation']
+[[u'increased', [749, 758]], u'Positive_regulation']
+[[u'increase', [828, 836]], u'Positive_regulation']

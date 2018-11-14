@@ -1,0 +1,39 @@
+denotations: 11
+[[u'tat', [0, 3]], u'Protein']
+[[u'gata3', [4, 9]], u'Protein']
+[[u'cd4', [24, 27]], u'Protein']
+[[u'cd45ra', [28, 34]], u'Protein']
+[[u'gata3', [143, 148]], u'Protein']
+[[u'cd3', [238, 241]], u'Protein']
+[[u'cd28', [251, 255]], u'Protein']
+[[u'tgf-\u03b2', [260, 265]], u'Protein']
+[[u'tat', [292, 295]], u'Protein']
+[[u'foxp3', [339, 344]], u'Protein']
+[[u'expression', [345, 355]], u'Gene_expression']
+
+
+geniatagger: 3
+[[u'gata3', [143, 148]], u'Protein']
+[[u'tat', [292, 295]], u'Protein']
+[[u'foxp3', [339, 344]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'tat', [0, 3]], u'Protein']
+[[u'gata3', [4, 9]], u'Protein']
+[[u'gata3', [143, 148]], u'Protein']
+[[u'tat', [292, 295]], u'Protein']
+[[u'foxp3', [339, 344]], u'Protein']
+[[u'expression', [345, 355]], u'Gene_expression']
+
+
+total: 6
+[[u'gata3', [143, 148]], u'Protein']
+[[u'tat', [292, 295]], u'Protein']
+[[u'foxp3', [339, 344]], u'Protein']
+[[u'tat', [0, 3]], u'Protein']
+[[u'gata3', [4, 9]], u'Protein']
+[[u'expression', [345, 355]], u'Gene_expression']

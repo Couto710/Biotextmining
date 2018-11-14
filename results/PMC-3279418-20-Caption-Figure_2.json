@@ -1,0 +1,19 @@
+denotations: 2
+[[u'sharpin', [10, 17]], u'Protein']
+[[u'mutation', [18, 26]], u'Negative_regulation']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'sharpin', [10, 17]], u'Protein']
+[[u'mutation', [18, 26]], u'Negative_regulation']
+
+
+total: 2
+[[u'sharpin', [10, 17]], u'Protein']
+[[u'mutation', [18, 26]], u'Negative_regulation']

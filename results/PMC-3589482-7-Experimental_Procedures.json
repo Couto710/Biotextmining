@@ -1,0 +1,47 @@
+denotations: 11
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [149, 159]], u'Protein']
+[[u'thymidine kinase', [204, 220]], u'Protein']
+[[u'tk', [222, 224]], u'Protein']
+[[u'luciferase', [830, 840]], u'Protein']
+[[u'luciferase', [876, 886]], u'Protein']
+[[u'luciferase', [1058, 1068]], u'Protein']
+[[u'tk', [1106, 1108]], u'Protein']
+[[u'luciferase', [1117, 1127]], u'Protein']
+[[u'c/ebp-\u03b2', [1199, 1206]], u'Protein']
+[[u'tk', [1227, 1229]], u'Protein']
+
+
+geniatagger: 5
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [149, 159]], u'Protein']
+[[u'luciferase', [830, 840]], u'Protein']
+[[u'luciferase', [1058, 1068]], u'Protein']
+[[u'luciferase', [1117, 1127]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [149, 159]], u'Protein']
+[[u'tk', [222, 224]], u'Protein']
+[[u'luciferase', [830, 840]], u'Protein']
+[[u'luciferase', [876, 886]], u'Protein']
+[[u'luciferase', [1058, 1068]], u'Protein']
+[[u'tk', [1106, 1108]], u'Protein']
+[[u'luciferase', [1117, 1127]], u'Protein']
+[[u'tk', [1227, 1229]], u'Protein']
+
+
+total: 9
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [149, 159]], u'Protein']
+[[u'luciferase', [830, 840]], u'Protein']
+[[u'luciferase', [1058, 1068]], u'Protein']
+[[u'luciferase', [1117, 1127]], u'Protein']
+[[u'tk', [222, 224]], u'Protein']
+[[u'luciferase', [876, 886]], u'Protein']
+[[u'tk', [1106, 1108]], u'Protein']
+[[u'tk', [1227, 1229]], u'Protein']

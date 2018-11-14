@@ -1,0 +1,17 @@
+denotations: 2
+[[u'tnfp55r', [40, 47]], u'Protein']
+[[u'p65', [432, 435]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [432, 435]], u'Protein']
+
+
+total: 1
+[[u'p65', [432, 435]], u'Protein']

@@ -1,0 +1,49 @@
+denotations: 13
+[[u'expression', [275, 285]], u'Transcription']
+[[u'il6', [289, 292]], u'Protein']
+[[u'il12p40', [294, 301]], u'Protein']
+[[u'gmcsf', [303, 308]], u'Protein']
+[[u'sharpin', [314, 321]], u'Protein']
+[[u'm-mlv reverse transcriptase', [642, 669]], u'Protein']
+[[u'actb', [1004, 1008]], u'Protein']
+[[u'il6', [1010, 1013]], u'Protein']
+[[u'il12p40', [1015, 1022]], u'Protein']
+[[u'ifn\u03b2', [1024, 1028]], u'Protein']
+[[u'gmcsf', [1030, 1035]], u'Protein']
+[[u'sharpin', [1041, 1048]], u'Protein']
+[[u'\u03b2-actin', [1156, 1163]], u'Protein']
+
+
+geniatagger: 7
+[[u'il6', [289, 292]], u'Protein']
+[[u'il12p40', [294, 301]], u'Protein']
+[[u'gmcsf', [303, 308]], u'Protein']
+[[u'sharpin', [314, 321]], u'Protein']
+[[u'il6', [1010, 1013]], u'Protein']
+[[u'il12p40', [1015, 1022]], u'Protein']
+[[u'gmcsf', [1030, 1035]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'expression', [275, 285]], u'Transcription']
+[[u'il6', [289, 292]], u'Protein']
+[[u'sharpin', [314, 321]], u'Protein']
+[[u'actb', [1004, 1008]], u'Protein']
+[[u'il6', [1010, 1013]], u'Protein']
+[[u'sharpin', [1041, 1048]], u'Protein']
+
+
+total: 10
+[[u'il6', [289, 292]], u'Protein']
+[[u'il12p40', [294, 301]], u'Protein']
+[[u'gmcsf', [303, 308]], u'Protein']
+[[u'sharpin', [314, 321]], u'Protein']
+[[u'il6', [1010, 1013]], u'Protein']
+[[u'il12p40', [1015, 1022]], u'Protein']
+[[u'gmcsf', [1030, 1035]], u'Protein']
+[[u'expression', [275, 285]], u'Transcription']
+[[u'actb', [1004, 1008]], u'Protein']
+[[u'sharpin', [1041, 1048]], u'Protein']

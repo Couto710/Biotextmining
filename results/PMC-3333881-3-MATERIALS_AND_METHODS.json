@@ -1,0 +1,42 @@
+denotations: 14
+[[u'luciferase', [36, 46]], u'Protein']
+[[u'p50', [59, 62]], u'Protein']
+[[u'p65', [65, 68]], u'Protein']
+[[u'p50', [453, 456]], u'Protein']
+[[u'p65', [459, 462]], u'Protein']
+[[u'tumor necrosis factor-\u03b1', [866, 889]], u'Protein']
+[[u'tnf-\u03b1', [891, 896]], u'Protein']
+[[u'luciferase', [1010, 1020]], u'Protein']
+[[u'\u03b2-gal', [1033, 1038]], u'Protein']
+[[u'luciferase', [1193, 1203]], u'Protein']
+[[u'luciferase', [1246, 1256]], u'Protein']
+[[u'\u03b2-galactosidase', [1261, 1276]], u'Protein']
+[[u'luciferase', [1431, 1441]], u'Protein']
+[[u'\u03b2-galactosidase', [1454, 1469]], u'Protein']
+
+
+geniatagger: 5
+[[u'luciferase', [36, 46]], u'Protein']
+[[u'luciferase', [1010, 1020]], u'Protein']
+[[u'luciferase', [1193, 1203]], u'Protein']
+[[u'luciferase', [1246, 1256]], u'Protein']
+[[u'luciferase', [1431, 1441]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'luciferase', [36, 46]], u'Protein']
+[[u'luciferase', [1010, 1020]], u'Protein']
+[[u'luciferase', [1193, 1203]], u'Protein']
+[[u'luciferase', [1246, 1256]], u'Protein']
+[[u'luciferase', [1431, 1441]], u'Protein']
+
+
+total: 5
+[[u'luciferase', [36, 46]], u'Protein']
+[[u'luciferase', [1010, 1020]], u'Protein']
+[[u'luciferase', [1193, 1203]], u'Protein']
+[[u'luciferase', [1246, 1256]], u'Protein']
+[[u'luciferase', [1431, 1441]], u'Protein']

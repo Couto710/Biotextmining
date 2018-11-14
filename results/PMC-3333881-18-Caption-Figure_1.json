@@ -1,0 +1,51 @@
+denotations: 13
+[[u'tat', [0, 3]], u'Protein']
+[[u'sirna tat', [132, 141]], u'Protein']
+[[u'p24', [280, 283]], u'Protein']
+[[u'tat', [326, 329]], u'Protein']
+[[u'expression', [330, 340]], u'Gene_expression']
+[[u'luciferase', [395, 405]], u'Protein']
+[[u'p65', [503, 506]], u'Protein']
+[[u'p50', [511, 514]], u'Protein']
+[[u'binding', [515, 522]], u'Binding']
+[[u'expression', [639, 649]], u'Gene_expression']
+[[u'p65', [653, 656]], u'Protein']
+[[u'i\u03bab-\u03b1', [661, 666]], u'Protein']
+[[u'hexokinase ii', [815, 828]], u'Protein']
+
+
+geniatagger: 7
+[[u'tat', [0, 3]], u'Protein']
+[[u'p24', [280, 283]], u'Protein']
+[[u'tat', [326, 329]], u'Protein']
+[[u'luciferase', [395, 405]], u'Protein']
+[[u'p65', [503, 506]], u'Protein']
+[[u'p50', [511, 514]], u'Protein']
+[[u'p65', [653, 656]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'tat', [0, 3]], u'Protein']
+[[u'p24', [280, 283]], u'Protein']
+[[u'tat', [326, 329]], u'Protein']
+[[u'expression', [330, 340]], u'Gene_expression']
+[[u'p65', [503, 506]], u'Protein']
+[[u'expression', [639, 649]], u'Gene_expression']
+[[u'p65', [653, 656]], u'Protein']
+[[u'hexokinase ii', [815, 828]], u'Protein']
+
+
+total: 10
+[[u'tat', [0, 3]], u'Protein']
+[[u'p24', [280, 283]], u'Protein']
+[[u'tat', [326, 329]], u'Protein']
+[[u'luciferase', [395, 405]], u'Protein']
+[[u'p65', [503, 506]], u'Protein']
+[[u'p50', [511, 514]], u'Protein']
+[[u'p65', [653, 656]], u'Protein']
+[[u'expression', [330, 340]], u'Gene_expression']
+[[u'expression', [639, 649]], u'Gene_expression']
+[[u'hexokinase ii', [815, 828]], u'Protein']

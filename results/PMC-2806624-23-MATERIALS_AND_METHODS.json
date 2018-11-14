@@ -1,0 +1,35 @@
+denotations: 8
+[[u'il-4', [35, 39]], u'Protein']
+[[u'il-5', [41, 45]], u'Protein']
+[[u'il-6', [47, 51]], u'Protein']
+[[u'il-10', [53, 58]], u'Protein']
+[[u'il-13', [60, 65]], u'Protein']
+[[u'il-17', [67, 72]], u'Protein']
+[[u'ifn-\u03b3', [78, 83]], u'Protein']
+[[u'secretion', [84, 93]], u'Localization']
+
+
+geniatagger: 6
+[[u'il-4', [35, 39]], u'Protein']
+[[u'il-5', [41, 45]], u'Protein']
+[[u'il-6', [47, 51]], u'Protein']
+[[u'il-10', [53, 58]], u'Protein']
+[[u'il-13', [60, 65]], u'Protein']
+[[u'il-17', [67, 72]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'secretion', [84, 93]], u'Localization']
+
+
+total: 7
+[[u'il-4', [35, 39]], u'Protein']
+[[u'il-5', [41, 45]], u'Protein']
+[[u'il-6', [47, 51]], u'Protein']
+[[u'il-10', [53, 58]], u'Protein']
+[[u'il-13', [60, 65]], u'Protein']
+[[u'il-17', [67, 72]], u'Protein']
+[[u'secretion', [84, 93]], u'Localization']

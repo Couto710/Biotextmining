@@ -1,0 +1,36 @@
+denotations: 8
+[[u'stat', [183, 187]], u'Protein']
+[[u'deficient', [188, 197]], u'Negative_regulation']
+[[u'ova', [268, 271]], u'Protein']
+[[u'ova', [450, 453]], u'Protein']
+[[u'kj1-26', [653, 659]], u'Protein']
+[[u'cd4', [672, 675]], u'Protein']
+[[u'ifn-\u03b3', [698, 703]], u'Protein']
+[[u'il-10', [708, 713]], u'Protein']
+
+
+geniatagger: 3
+[[u'ova', [268, 271]], u'Protein']
+[[u'ova', [450, 453]], u'Protein']
+[[u'il-10', [708, 713]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'stat', [183, 187]], u'Protein']
+[[u'deficient', [188, 197]], u'Negative_regulation']
+[[u'ova', [268, 271]], u'Protein']
+[[u'ova', [450, 453]], u'Protein']
+[[u'cd4', [672, 675]], u'Protein']
+[[u'il-10', [708, 713]], u'Protein']
+
+
+total: 6
+[[u'ova', [268, 271]], u'Protein']
+[[u'ova', [450, 453]], u'Protein']
+[[u'il-10', [708, 713]], u'Protein']
+[[u'stat', [183, 187]], u'Protein']
+[[u'deficient', [188, 197]], u'Negative_regulation']
+[[u'cd4', [672, 675]], u'Protein']

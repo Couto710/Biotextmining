@@ -1,0 +1,69 @@
+denotations: 30
+[[u'required', [20, 28]], u'Positive_regulation']
+[[u'il-1\u03b2', [33, 38]], u'Protein']
+[[u'responses', [48, 57]], u'Regulation']
+[[u'dependence', [92, 102]], u'Regulation']
+[[u'induced', [111, 118]], u'Positive_regulation']
+[[u'il-1\u03b2', [119, 124]], u'Protein']
+[[u'production', [134, 144]], u'Gene_expression']
+[[u'il-1\u03b2', [467, 472]], u'Protein']
+[[u'secreted', [478, 486]], u'Localization']
+[[u'il-1\u03b2', [674, 679]], u'Protein']
+[[u'production', [680, 690]], u'Gene_expression']
+[[u'augmented', [703, 712]], u'Positive_regulation']
+[[u'sufficient', [869, 879]], u'Positive_regulation']
+[[u'il-1\u03b2', [892, 897]], u'Protein']
+[[u'secretion', [898, 907]], u'Localization']
+[[u'il-1\u03b2', [965, 970]], u'Protein']
+[[u'inhibitor', [1138, 1147]], u'Negative_regulation']
+[[u'i\u03bab\u03b1', [1151, 1155]], u'Protein']
+[[u'phosphorylation', [1156, 1171]], u'Phosphorylation']
+[[u'reduced', [1193, 1200]], u'Negative_regulation']
+[[u'production', [1262, 1272]], u'Gene_expression']
+[[u'il-1\u03b2', [1304, 1309]], u'Protein']
+[[u'in response to', [1330, 1344]], u'Positive_regulation']
+[[u'modulator', [1545, 1554]], u'Regulation']
+[[u'il-1\u03b2', [1558, 1563]], u'Protein']
+[[u'production', [1564, 1574]], u'Gene_expression']
+[[u'augments', [1614, 1622]], u'Positive_regulation']
+[[u'mediated', [1636, 1644]], u'Positive_regulation']
+[[u'production', [1645, 1655]], u'Gene_expression']
+[[u'il-1\u03b2', [1659, 1664]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'responses', [48, 57]], u'Regulation']
+[[u'dependence', [92, 102]], u'Regulation']
+[[u'induced', [111, 118]], u'Positive_regulation']
+[[u'production', [134, 144]], u'Gene_expression']
+[[u'production', [680, 690]], u'Gene_expression']
+[[u'secretion', [898, 907]], u'Localization']
+[[u'inhibitor', [1138, 1147]], u'Negative_regulation']
+[[u'phosphorylation', [1156, 1171]], u'Phosphorylation']
+[[u'production', [1262, 1272]], u'Gene_expression']
+[[u'modulator', [1545, 1554]], u'Regulation']
+[[u'production', [1564, 1574]], u'Gene_expression']
+[[u'mediated', [1636, 1644]], u'Positive_regulation']
+[[u'production', [1645, 1655]], u'Gene_expression']
+
+
+total: 13
+[[u'responses', [48, 57]], u'Regulation']
+[[u'dependence', [92, 102]], u'Regulation']
+[[u'induced', [111, 118]], u'Positive_regulation']
+[[u'production', [134, 144]], u'Gene_expression']
+[[u'production', [680, 690]], u'Gene_expression']
+[[u'secretion', [898, 907]], u'Localization']
+[[u'inhibitor', [1138, 1147]], u'Negative_regulation']
+[[u'phosphorylation', [1156, 1171]], u'Phosphorylation']
+[[u'production', [1262, 1272]], u'Gene_expression']
+[[u'modulator', [1545, 1554]], u'Regulation']
+[[u'production', [1564, 1574]], u'Gene_expression']
+[[u'mediated', [1636, 1644]], u'Positive_regulation']
+[[u'production', [1645, 1655]], u'Gene_expression']

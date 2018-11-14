@@ -1,0 +1,66 @@
+denotations: 21
+[[u'silencing', [0, 9]], u'Negative_regulation']
+[[u'sp1', [13, 16]], u'Protein']
+[[u'sp3', [21, 24]], u'Protein']
+[[u'a3g', [33, 36]], u'Protein']
+[[u'sp1', [123, 126]], u'Protein']
+[[u'sp3', [139, 142]], u'Protein']
+[[u'sp1', [196, 199]], u'Protein']
+[[u'sp3', [204, 207]], u'Protein']
+[[u'tubulin', [295, 302]], u'Protein']
+[[u'a3g', [413, 416]], u'Protein']
+[[u'sp1', [485, 488]], u'Protein']
+[[u'sp1', [505, 508]], u'Protein']
+[[u'sp3', [511, 514]], u'Protein']
+[[u'sp3', [531, 534]], u'Protein']
+[[u'sp1', [558, 561]], u'Protein']
+[[u'sp3', [582, 585]], u'Protein']
+[[u'sp1', [602, 605]], u'Protein']
+[[u'sp3', [606, 609]], u'Protein']
+[[u'luciferase', [630, 640]], u'Protein']
+[[u'coexpressed', [682, 693]], u'Gene_expression']
+[[u'luciferase', [702, 712]], u'Protein']
+
+
+geniatagger: 9
+[[u'sp1', [13, 16]], u'Protein']
+[[u'sp3', [21, 24]], u'Protein']
+[[u'a3g', [33, 36]], u'Protein']
+[[u'sp1', [123, 126]], u'Protein']
+[[u'sp3', [139, 142]], u'Protein']
+[[u'tubulin', [295, 302]], u'Protein']
+[[u'a3g', [413, 416]], u'Protein']
+[[u'sp1', [485, 488]], u'Protein']
+[[u'sp3', [511, 514]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'sp3', [21, 24]], u'Protein']
+[[u'a3g', [33, 36]], u'Protein']
+[[u'sp3', [139, 142]], u'Protein']
+[[u'sp3', [204, 207]], u'Protein']
+[[u'tubulin', [295, 302]], u'Protein']
+[[u'a3g', [413, 416]], u'Protein']
+[[u'sp3', [511, 514]], u'Protein']
+[[u'sp3', [531, 534]], u'Protein']
+[[u'sp3', [582, 585]], u'Protein']
+[[u'sp3', [606, 609]], u'Protein']
+
+
+total: 13
+[[u'sp1', [13, 16]], u'Protein']
+[[u'sp3', [21, 24]], u'Protein']
+[[u'a3g', [33, 36]], u'Protein']
+[[u'sp1', [123, 126]], u'Protein']
+[[u'sp3', [139, 142]], u'Protein']
+[[u'tubulin', [295, 302]], u'Protein']
+[[u'a3g', [413, 416]], u'Protein']
+[[u'sp1', [485, 488]], u'Protein']
+[[u'sp3', [511, 514]], u'Protein']
+[[u'sp3', [204, 207]], u'Protein']
+[[u'sp3', [531, 534]], u'Protein']
+[[u'sp3', [582, 585]], u'Protein']
+[[u'sp3', [606, 609]], u'Protein']

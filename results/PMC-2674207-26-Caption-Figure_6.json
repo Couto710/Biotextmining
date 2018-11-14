@@ -1,0 +1,51 @@
+denotations: 12
+[[u'impairs', [23, 30]], u'Negative_regulation']
+[[u'gata-3', [31, 37]], u'Protein']
+[[u'interaction', [38, 49]], u'Binding']
+[[u'gata-3', [70, 76]], u'Protein']
+[[u'nuclear', [77, 84]], u'Entity']
+[[u'localization', [85, 97]], u'Localization']
+[[u'impaired', [243, 251]], u'Negative_regulation']
+[[u'interaction', [252, 263]], u'Binding']
+[[u'gata-3', [272, 278]], u'Protein']
+[[u'decreased', [623, 632]], u'Negative_regulation']
+[[u'association', [633, 644]], u'Binding']
+[[u'gata-3', [653, 659]], u'Protein']
+
+
+geniatagger: 4
+[[u'gata-3', [31, 37]], u'Protein']
+[[u'gata-3', [70, 76]], u'Protein']
+[[u'gata-3', [272, 278]], u'Protein']
+[[u'gata-3', [653, 659]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'gata-3', [31, 37]], u'Protein']
+[[u'interaction', [38, 49]], u'Binding']
+[[u'gata-3', [70, 76]], u'Protein']
+[[u'nuclear', [77, 84]], u'Entity']
+[[u'localization', [85, 97]], u'Localization']
+[[u'impaired', [243, 251]], u'Negative_regulation']
+[[u'interaction', [252, 263]], u'Binding']
+[[u'gata-3', [272, 278]], u'Protein']
+[[u'decreased', [623, 632]], u'Negative_regulation']
+[[u'association', [633, 644]], u'Binding']
+[[u'gata-3', [653, 659]], u'Protein']
+
+
+total: 11
+[[u'gata-3', [31, 37]], u'Protein']
+[[u'gata-3', [70, 76]], u'Protein']
+[[u'gata-3', [272, 278]], u'Protein']
+[[u'gata-3', [653, 659]], u'Protein']
+[[u'interaction', [38, 49]], u'Binding']
+[[u'nuclear', [77, 84]], u'Entity']
+[[u'localization', [85, 97]], u'Localization']
+[[u'impaired', [243, 251]], u'Negative_regulation']
+[[u'interaction', [252, 263]], u'Binding']
+[[u'decreased', [623, 632]], u'Negative_regulation']
+[[u'association', [633, 644]], u'Binding']

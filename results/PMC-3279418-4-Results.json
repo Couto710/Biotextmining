@@ -1,0 +1,53 @@
+denotations: 14
+[[u'resulted', [97, 105]], u'Positive_regulation']
+[[u'secretion', [109, 118]], u'Gene_expression']
+[[u'il6', [122, 125]], u'Protein']
+[[u'gmcsf', [140, 145]], u'Protein']
+[[u'produced', [203, 211]], u'Gene_expression']
+[[u'less', [226, 230]], u'Positive_regulation']
+[[u'sharpin', [486, 493]], u'Protein']
+[[u'deficient', [494, 503]], u'Negative_regulation']
+[[u'sharpin', [541, 548]], u'Protein']
+[[u'sharpin', [762, 769]], u'Protein']
+[[u'il6', [866, 869]], u'Protein']
+[[u'il12p40', [871, 878]], u'Protein']
+[[u'gmcsf', [880, 885]], u'Protein']
+[[u'ifnb', [891, 895]], u'Protein']
+
+
+geniatagger: 7
+[[u'il6', [122, 125]], u'Protein']
+[[u'gmcsf', [140, 145]], u'Protein']
+[[u'sharpin', [762, 769]], u'Protein']
+[[u'il6', [866, 869]], u'Protein']
+[[u'il12p40', [871, 878]], u'Protein']
+[[u'gmcsf', [880, 885]], u'Protein']
+[[u'ifnb', [891, 895]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'secretion', [109, 118]], u'Gene_expression']
+[[u'il6', [122, 125]], u'Protein']
+[[u'sharpin', [486, 493]], u'Protein']
+[[u'deficient', [494, 503]], u'Negative_regulation']
+[[u'sharpin', [541, 548]], u'Protein']
+[[u'sharpin', [762, 769]], u'Protein']
+[[u'il6', [866, 869]], u'Protein']
+[[u'ifnb', [891, 895]], u'Protein']
+
+
+total: 11
+[[u'il6', [122, 125]], u'Protein']
+[[u'gmcsf', [140, 145]], u'Protein']
+[[u'sharpin', [762, 769]], u'Protein']
+[[u'il6', [866, 869]], u'Protein']
+[[u'il12p40', [871, 878]], u'Protein']
+[[u'gmcsf', [880, 885]], u'Protein']
+[[u'ifnb', [891, 895]], u'Protein']
+[[u'secretion', [109, 118]], u'Gene_expression']
+[[u'sharpin', [486, 493]], u'Protein']
+[[u'deficient', [494, 503]], u'Negative_regulation']
+[[u'sharpin', [541, 548]], u'Protein']

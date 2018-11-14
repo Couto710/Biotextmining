@@ -1,0 +1,23 @@
+denotations: 4
+[[u'cd40', [50, 54]], u'Protein']
+[[u'expressing', [109, 119]], u'Gene_expression']
+[[u'cd154', [126, 131]], u'Protein']
+[[u'cd40 ligand', [133, 144]], u'Protein']
+
+
+geniatagger: 1
+[[u'cd40', [50, 54]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cd154', [126, 131]], u'Protein']
+[[u'cd40 ligand', [133, 144]], u'Protein']
+
+
+total: 3
+[[u'cd40', [50, 54]], u'Protein']
+[[u'cd154', [126, 131]], u'Protein']
+[[u'cd40 ligand', [133, 144]], u'Protein']

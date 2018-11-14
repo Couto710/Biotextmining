@@ -1,0 +1,24 @@
+denotations: 4
+[[u'myeloperoxidase', [1041, 1056]], u'Protein']
+[[u'mpo', [1058, 1061]], u'Protein']
+[[u'mpo', [1117, 1120]], u'Protein']
+[[u'expressed', [1129, 1138]], u'Gene_expression']
+
+
+geniatagger: 3
+[[u'myeloperoxidase', [1041, 1056]], u'Protein']
+[[u'mpo', [1058, 1061]], u'Protein']
+[[u'mpo', [1117, 1120]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'myeloperoxidase', [1041, 1056]], u'Protein']
+
+
+total: 3
+[[u'myeloperoxidase', [1041, 1056]], u'Protein']
+[[u'mpo', [1058, 1061]], u'Protein']
+[[u'mpo', [1117, 1120]], u'Protein']

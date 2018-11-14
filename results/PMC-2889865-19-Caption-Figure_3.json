@@ -1,0 +1,32 @@
+denotations: 6
+[[u'cxcl8', [0, 5]], u'Protein']
+[[u'il-6', [7, 11]], u'Protein']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'following', [31, 40]], u'Positive_regulation']
+[[u'cxcl8', [354, 359]], u'Protein']
+[[u'il-6', [365, 369]], u'Protein']
+
+
+geniatagger: 3
+[[u'cxcl8', [0, 5]], u'Protein']
+[[u'il-6', [7, 11]], u'Protein']
+[[u'il-6', [365, 369]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'cxcl8', [0, 5]], u'Protein']
+[[u'il-6', [7, 11]], u'Protein']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'cxcl8', [354, 359]], u'Protein']
+[[u'il-6', [365, 369]], u'Protein']
+
+
+total: 5
+[[u'cxcl8', [0, 5]], u'Protein']
+[[u'il-6', [7, 11]], u'Protein']
+[[u'il-6', [365, 369]], u'Protein']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'cxcl8', [354, 359]], u'Protein']

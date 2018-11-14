@@ -1,0 +1,42 @@
+denotations: 9
+[[u'il-4', [182, 186]], u'Protein']
+[[u'il-4', [235, 239]], u'Protein']
+[[u'il-4', [256, 260]], u'Protein']
+[[u'cd3', [368, 371]], u'Protein']
+[[u'cd4', [373, 376]], u'Protein']
+[[u'cd25', [382, 386]], u'Protein']
+[[u'expression', [387, 397]], u'Gene_expression']
+[[u'il-4', [414, 418]], u'Protein']
+[[u'il-4', [483, 487]], u'Protein']
+
+
+geniatagger: 3
+[[u'cd3', [368, 371]], u'Protein']
+[[u'cd4', [373, 376]], u'Protein']
+[[u'cd25', [382, 386]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'il-4', [182, 186]], u'Protein']
+[[u'il-4', [235, 239]], u'Protein']
+[[u'il-4', [256, 260]], u'Protein']
+[[u'cd3', [368, 371]], u'Protein']
+[[u'cd4', [373, 376]], u'Protein']
+[[u'expression', [387, 397]], u'Gene_expression']
+[[u'il-4', [414, 418]], u'Protein']
+[[u'il-4', [483, 487]], u'Protein']
+
+
+total: 9
+[[u'cd3', [368, 371]], u'Protein']
+[[u'cd4', [373, 376]], u'Protein']
+[[u'cd25', [382, 386]], u'Protein']
+[[u'il-4', [182, 186]], u'Protein']
+[[u'il-4', [235, 239]], u'Protein']
+[[u'il-4', [256, 260]], u'Protein']
+[[u'expression', [387, 397]], u'Gene_expression']
+[[u'il-4', [414, 418]], u'Protein']
+[[u'il-4', [483, 487]], u'Protein']

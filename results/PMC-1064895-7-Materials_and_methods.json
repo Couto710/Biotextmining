@@ -1,0 +1,58 @@
+denotations: 12
+[[u'il-17', [18, 23]], u'Protein']
+[[u'taq', [595, 598]], u'Protein']
+[[u'il-17', [858, 863]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [966, 1006]], u'Protein']
+[[u'gapdh', [1008, 1013]], u'Protein']
+[[u'gapdh', [1055, 1060]], u'Protein']
+[[u'gapdh', [1274, 1279]], u'Protein']
+[[u'il-17', [1284, 1289]], u'Protein']
+[[u'gapdh', [1385, 1390]], u'Protein']
+[[u'il-17', [1395, 1400]], u'Protein']
+[[u'il-17', [1555, 1560]], u'Protein']
+[[u'gapdh', [1578, 1583]], u'Protein']
+
+
+geniatagger: 10
+[[u'il-17', [18, 23]], u'Protein']
+[[u'taq', [595, 598]], u'Protein']
+[[u'il-17', [858, 863]], u'Protein']
+[[u'gapdh', [1008, 1013]], u'Protein']
+[[u'gapdh', [1055, 1060]], u'Protein']
+[[u'il-17', [1284, 1289]], u'Protein']
+[[u'gapdh', [1385, 1390]], u'Protein']
+[[u'il-17', [1395, 1400]], u'Protein']
+[[u'il-17', [1555, 1560]], u'Protein']
+[[u'gapdh', [1578, 1583]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'il-17', [18, 23]], u'Protein']
+[[u'il-17', [858, 863]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [966, 1006]], u'Protein']
+[[u'gapdh', [1008, 1013]], u'Protein']
+[[u'gapdh', [1055, 1060]], u'Protein']
+[[u'gapdh', [1274, 1279]], u'Protein']
+[[u'il-17', [1284, 1289]], u'Protein']
+[[u'gapdh', [1385, 1390]], u'Protein']
+[[u'il-17', [1395, 1400]], u'Protein']
+[[u'il-17', [1555, 1560]], u'Protein']
+[[u'gapdh', [1578, 1583]], u'Protein']
+
+
+total: 12
+[[u'il-17', [18, 23]], u'Protein']
+[[u'taq', [595, 598]], u'Protein']
+[[u'il-17', [858, 863]], u'Protein']
+[[u'gapdh', [1008, 1013]], u'Protein']
+[[u'gapdh', [1055, 1060]], u'Protein']
+[[u'il-17', [1284, 1289]], u'Protein']
+[[u'gapdh', [1385, 1390]], u'Protein']
+[[u'il-17', [1395, 1400]], u'Protein']
+[[u'il-17', [1555, 1560]], u'Protein']
+[[u'gapdh', [1578, 1583]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [966, 1006]], u'Protein']
+[[u'gapdh', [1274, 1279]], u'Protein']

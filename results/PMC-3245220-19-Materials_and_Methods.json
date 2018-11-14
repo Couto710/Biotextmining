@@ -1,0 +1,29 @@
+denotations: 5
+[[u'annexin v', [0, 9]], u'Protein']
+[[u'annexin v', [103, 112]], u'Protein']
+[[u'm-csf', [302, 307]], u'Protein']
+[[u'annexin v', [425, 434]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']
+
+
+geniatagger: 1
+[[u'm-csf', [302, 307]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'annexin v', [0, 9]], u'Protein']
+[[u'annexin v', [103, 112]], u'Protein']
+[[u'm-csf', [302, 307]], u'Protein']
+[[u'annexin v', [425, 434]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']
+
+
+total: 5
+[[u'm-csf', [302, 307]], u'Protein']
+[[u'annexin v', [0, 9]], u'Protein']
+[[u'annexin v', [103, 112]], u'Protein']
+[[u'annexin v', [425, 434]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']

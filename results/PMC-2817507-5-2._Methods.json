@@ -1,0 +1,19 @@
+denotations: 2
+[[u'tlr4', [53, 57]], u'Protein']
+[[u'avidin', [225, 231]], u'Protein']
+
+
+geniatagger: 1
+[[u'tlr4', [53, 57]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'avidin', [225, 231]], u'Protein']
+
+
+total: 2
+[[u'tlr4', [53, 57]], u'Protein']
+[[u'avidin', [225, 231]], u'Protein']

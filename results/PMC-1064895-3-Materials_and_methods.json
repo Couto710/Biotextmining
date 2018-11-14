@@ -1,0 +1,53 @@
+denotations: 15
+[[u'il-17', [21, 26]], u'Protein']
+[[u'il-18', [28, 33]], u'Protein']
+[[u'il-15', [35, 40]], u'Protein']
+[[u'monocyte chemoattractant protein-1', [42, 76]], u'Protein']
+[[u'mcp-1', [78, 83]], u'Protein']
+[[u'macrophage inflammatory protein (mip)-1\u03b1', [86, 126]], u'Protein']
+[[u'mip-1\u03b2', [128, 134]], u'Protein']
+[[u'il-6', [136, 140]], u'Protein']
+[[u'il-8', [145, 149]], u'Protein']
+[[u'transforming growth factor (tgf)-\u03b2', [220, 254]], u'Protein']
+[[u'tnf-\u03b1', [310, 315]], u'Protein']
+[[u'il-1', [320, 324]], u'Protein']
+[[u'phytohemagglutinin', [444, 462]], u'Protein']
+[[u'pha', [464, 467]], u'Protein']
+[[u'cd28', [649, 653]], u'Protein']
+
+
+geniatagger: 9
+[[u'il-17', [21, 26]], u'Protein']
+[[u'il-18', [28, 33]], u'Protein']
+[[u'il-15', [35, 40]], u'Protein']
+[[u'mcp-1', [78, 83]], u'Protein']
+[[u'il-6', [136, 140]], u'Protein']
+[[u'il-8', [145, 149]], u'Protein']
+[[u'il-1', [320, 324]], u'Protein']
+[[u'phytohemagglutinin', [444, 462]], u'Protein']
+[[u'pha', [464, 467]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'il-17', [21, 26]], u'Protein']
+[[u'il-18', [28, 33]], u'Protein']
+[[u'il-15', [35, 40]], u'Protein']
+[[u'monocyte chemoattractant protein-1', [42, 76]], u'Protein']
+[[u'phytohemagglutinin', [444, 462]], u'Protein']
+[[u'pha', [464, 467]], u'Protein']
+
+
+total: 10
+[[u'il-17', [21, 26]], u'Protein']
+[[u'il-18', [28, 33]], u'Protein']
+[[u'il-15', [35, 40]], u'Protein']
+[[u'mcp-1', [78, 83]], u'Protein']
+[[u'il-6', [136, 140]], u'Protein']
+[[u'il-8', [145, 149]], u'Protein']
+[[u'il-1', [320, 324]], u'Protein']
+[[u'phytohemagglutinin', [444, 462]], u'Protein']
+[[u'pha', [464, 467]], u'Protein']
+[[u'monocyte chemoattractant protein-1', [42, 76]], u'Protein']

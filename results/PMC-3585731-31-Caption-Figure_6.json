@@ -1,0 +1,26 @@
+denotations: 8
+[[u'tnf\u03b1', [33, 37]], u'Protein']
+[[u'bfgf', [143, 147]], u'Protein']
+[[u'mtnf\u03b1', [223, 228]], u'Protein']
+[[u'18s', [259, 262]], u'Protein']
+[[u'tnf\u03b1', [311, 315]], u'Protein']
+[[u'tnf\u03b1', [417, 421]], u'Protein']
+[[u'tnf\u03b1', [542, 546]], u'Protein']
+[[u'mtnf\u03b1', [589, 594]], u'Protein']
+
+
+geniatagger: 2
+[[u'bfgf', [143, 147]], u'Protein']
+[[u'18s', [259, 262]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'bfgf', [143, 147]], u'Protein']
+
+
+total: 2
+[[u'bfgf', [143, 147]], u'Protein']
+[[u'18s', [259, 262]], u'Protein']

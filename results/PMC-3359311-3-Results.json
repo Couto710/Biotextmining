@@ -1,0 +1,27 @@
+denotations: 8
+[[u'altered', [538, 545]], u'Regulation']
+[[u'dependent', [552, 561]], u'Regulation']
+[[u'il-6', [562, 566]], u'Protein']
+[[u'production', [567, 577]], u'Gene_expression']
+[[u'in response to', [578, 592]], u'Positive_regulation']
+[[u'decrease', [682, 690]], u'Negative_regulation']
+[[u'il-6', [691, 695]], u'Protein']
+[[u'secretion', [696, 705]], u'Localization']
+
+
+geniatagger: 2
+[[u'il-6', [562, 566]], u'Protein']
+[[u'il-6', [691, 695]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'dependent', [552, 561]], u'Regulation']
+
+
+total: 3
+[[u'il-6', [562, 566]], u'Protein']
+[[u'il-6', [691, 695]], u'Protein']
+[[u'dependent', [552, 561]], u'Regulation']

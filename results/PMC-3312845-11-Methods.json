@@ -1,0 +1,16 @@
+denotations: 1
+[[u'p65', [257, 260]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [257, 260]], u'Protein']
+
+
+total: 1
+[[u'p65', [257, 260]], u'Protein']

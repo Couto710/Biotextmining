@@ -1,0 +1,16 @@
+genia tagger: 2('\xe2\x80\x93', 1)
+('if', 1)
+
+
+spacy + metamap: 4('answer', 1)
+('renal mass', 1)
+('question', 1)
+('biomarkers', 1)
+
+
+total: 6('\xe2\x80\x93', 1)
+('question', 1)
+('biomarkers', 1)
+('answer', 1)
+('renal mass', 1)
+('if', 1)

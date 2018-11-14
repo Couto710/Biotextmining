@@ -1,0 +1,1 @@
+Bottom Up: A Modular View of Immunology In this issue of Immunity , Chaussabel et al. (2008) apply an inductive approach to pathway discovery identifying modular units that govern human immune biology. 

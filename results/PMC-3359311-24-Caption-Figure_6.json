@@ -1,0 +1,29 @@
+denotations: 10
+[[u'potentiates', [17, 28]], u'Positive_regulation']
+[[u'il-1\u03b2', [43, 48]], u'Protein']
+[[u'production', [49, 59]], u'Gene_expression']
+[[u'secretion', [64, 73]], u'Localization']
+[[u'upon', [74, 78]], u'Positive_regulation']
+[[u'il-1\u03b2', [381, 386]], u'Protein']
+[[u'secretion', [387, 396]], u'Localization']
+[[u'il-1\u03b2', [662, 667]], u'Protein']
+[[u'secretion', [668, 677]], u'Localization']
+[[u'il-1\u03b2', [929, 934]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'secretion', [64, 73]], u'Localization']
+[[u'secretion', [387, 396]], u'Localization']
+[[u'secretion', [668, 677]], u'Localization']
+
+
+total: 3
+[[u'secretion', [64, 73]], u'Localization']
+[[u'secretion', [387, 396]], u'Localization']
+[[u'secretion', [668, 677]], u'Localization']

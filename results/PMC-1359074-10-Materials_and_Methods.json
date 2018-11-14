@@ -1,0 +1,26 @@
+denotations: 7
+[[u'\u025by globin', [239, 248]], u'Protein']
+[[u'\u03b6 globin', [330, 338]], u'Protein']
+[[u'\u03b2h1 globin', [419, 429]], u'Protein']
+[[u'\u03b2maj', [509, 513]], u'Protein']
+[[u'min globin', [514, 524]], u'Protein']
+[[u'gapdh', [912, 917]], u'Protein']
+[[u'gapdh', [1215, 1220]], u'Protein']
+
+
+geniatagger: 2
+[[u'gapdh', [912, 917]], u'Protein']
+[[u'gapdh', [1215, 1220]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'gapdh', [912, 917]], u'Protein']
+[[u'gapdh', [1215, 1220]], u'Protein']
+
+
+total: 2
+[[u'gapdh', [912, 917]], u'Protein']
+[[u'gapdh', [1215, 1220]], u'Protein']

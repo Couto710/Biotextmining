@@ -1,0 +1,53 @@
+denotations: 18
+[[u'affect', [32, 38]], u'Regulation']
+[[u'gata-3', [39, 45]], u'Protein']
+[[u'export', [54, 60]], u'Localization']
+[[u'affect', [159, 165]], u'Regulation']
+[[u'prevent', [196, 203]], u'Negative_regulation']
+[[u'stimulated', [218, 228]], u'Positive_regulation']
+[[u'gata-3', [229, 235]], u'Protein']
+[[u'nuclear', [236, 243]], u'Entity']
+[[u'localization', [244, 256]], u'Localization']
+[[u'affect', [435, 441]], u'Regulation']
+[[u'gata-3', [453, 459]], u'Protein']
+[[u'degradation', [460, 471]], u'Protein_catabolism']
+[[u'gata-3', [498, 504]], u'Protein']
+[[u'prevent', [715, 722]], u'Negative_regulation']
+[[u'stimulated', [737, 747]], u'Positive_regulation']
+[[u'p65', [748, 751]], u'Protein']
+[[u'nuclear', [752, 759]], u'Entity']
+[[u'translocation', [760, 773]], u'Localization']
+
+
+geniatagger: 4
+[[u'gata-3', [39, 45]], u'Protein']
+[[u'gata-3', [229, 235]], u'Protein']
+[[u'gata-3', [453, 459]], u'Protein']
+[[u'gata-3', [498, 504]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'gata-3', [39, 45]], u'Protein']
+[[u'gata-3', [229, 235]], u'Protein']
+[[u'nuclear', [236, 243]], u'Entity']
+[[u'localization', [244, 256]], u'Localization']
+[[u'gata-3', [453, 459]], u'Protein']
+[[u'degradation', [460, 471]], u'Protein_catabolism']
+[[u'gata-3', [498, 504]], u'Protein']
+[[u'p65', [748, 751]], u'Protein']
+[[u'nuclear', [752, 759]], u'Entity']
+
+
+total: 9
+[[u'gata-3', [39, 45]], u'Protein']
+[[u'gata-3', [229, 235]], u'Protein']
+[[u'gata-3', [453, 459]], u'Protein']
+[[u'gata-3', [498, 504]], u'Protein']
+[[u'nuclear', [236, 243]], u'Entity']
+[[u'localization', [244, 256]], u'Localization']
+[[u'degradation', [460, 471]], u'Protein_catabolism']
+[[u'p65', [748, 751]], u'Protein']
+[[u'nuclear', [752, 759]], u'Entity']

@@ -1,0 +1,21 @@
+denotations: 4
+[[u'ikk\u03b2', [48, 52]], u'Protein']
+[[u'ikk\u03b1', [57, 61]], u'Protein']
+[[u'gst-rps3', [222, 230]], u'Protein']
+[[u'rps3', [235, 239]], u'Protein']
+
+
+geniatagger: 1
+[[u'gst-rps3', [222, 230]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'rps3', [235, 239]], u'Protein']
+
+
+total: 2
+[[u'gst-rps3', [222, 230]], u'Protein']
+[[u'rps3', [235, 239]], u'Protein']

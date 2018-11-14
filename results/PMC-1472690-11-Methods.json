@@ -1,0 +1,21 @@
+denotations: 2
+[[u'tsst-1', [321, 327]], u'Protein']
+[[u'tsst-1', [569, 575]], u'Protein']
+
+
+geniatagger: 2
+[[u'tsst-1', [321, 327]], u'Protein']
+[[u'tsst-1', [569, 575]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'tsst-1', [321, 327]], u'Protein']
+[[u'tsst-1', [569, 575]], u'Protein']
+
+
+total: 2
+[[u'tsst-1', [321, 327]], u'Protein']
+[[u'tsst-1', [569, 575]], u'Protein']

@@ -1,0 +1,34 @@
+denotations: 10
+[[u'foxp3', [22, 27]], u'Protein']
+[[u'cd4', [67, 70]], u'Protein']
+[[u'cd25', [71, 75]], u'Protein']
+[[u'foxp3', [406, 411]], u'Protein']
+[[u'gata3', [696, 701]], u'Protein']
+[[u't-bet', [743, 748]], u'Protein']
+[[u'gapdh', [788, 793]], u'Protein']
+[[u'smad2', [822, 827]], u'Protein']
+[[u'stat6', [850, 855]], u'Protein']
+[[u'stat6', [872, 877]], u'Protein']
+
+
+geniatagger: 1
+[[u'foxp3', [22, 27]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'foxp3', [22, 27]], u'Protein']
+[[u'foxp3', [406, 411]], u'Protein']
+[[u'gapdh', [788, 793]], u'Protein']
+[[u'stat6', [850, 855]], u'Protein']
+[[u'stat6', [872, 877]], u'Protein']
+
+
+total: 5
+[[u'foxp3', [22, 27]], u'Protein']
+[[u'foxp3', [406, 411]], u'Protein']
+[[u'gapdh', [788, 793]], u'Protein']
+[[u'stat6', [850, 855]], u'Protein']
+[[u'stat6', [872, 877]], u'Protein']

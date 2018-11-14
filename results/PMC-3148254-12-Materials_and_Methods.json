@@ -1,0 +1,45 @@
+denotations: 13
+[[u'gl\u03b5', [0, 3]], u'Protein']
+[[u'cd40', [25, 29]], u'Protein']
+[[u'simulated', [30, 39]], u'Positive_regulation']
+[[u'activation', [40, 50]], u'Positive_regulation']
+[[u'gl\u03b5', [54, 57]], u'Protein']
+[[u'transcription', [58, 71]], u'Transcription']
+[[u'il-4', [260, 264]], u'Protein']
+[[u'gl\u03b5', [407, 410]], u'Protein']
+[[u'hprt1', [415, 420]], u'Protein']
+[[u'expression', [549, 559]], u'Gene_expression']
+[[u'gl\u03b5', [563, 566]], u'Protein']
+[[u'expression', [604, 614]], u'Gene_expression']
+[[u'hprt1', [618, 623]], u'Protein']
+
+
+geniatagger: 3
+[[u'il-4', [260, 264]], u'Protein']
+[[u'hprt1', [415, 420]], u'Protein']
+[[u'hprt1', [618, 623]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'simulated', [30, 39]], u'Positive_regulation']
+[[u'activation', [40, 50]], u'Positive_regulation']
+[[u'transcription', [58, 71]], u'Transcription']
+[[u'il-4', [260, 264]], u'Protein']
+[[u'hprt1', [415, 420]], u'Protein']
+[[u'expression', [549, 559]], u'Gene_expression']
+[[u'expression', [604, 614]], u'Gene_expression']
+[[u'hprt1', [618, 623]], u'Protein']
+
+
+total: 8
+[[u'il-4', [260, 264]], u'Protein']
+[[u'hprt1', [415, 420]], u'Protein']
+[[u'hprt1', [618, 623]], u'Protein']
+[[u'simulated', [30, 39]], u'Positive_regulation']
+[[u'activation', [40, 50]], u'Positive_regulation']
+[[u'transcription', [58, 71]], u'Transcription']
+[[u'expression', [549, 559]], u'Gene_expression']
+[[u'expression', [604, 614]], u'Gene_expression']

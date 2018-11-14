@@ -1,0 +1,70 @@
+denotations: 20
+[[u'activator protein-1', [28, 47]], u'Protein']
+[[u'ap-1', [49, 53]], u'Protein']
+[[u'il-17', [70, 75]], u'Protein']
+[[u'cd28', [183, 187]], u'Protein']
+[[u'pha', [205, 208]], u'Protein']
+[[u'il-15', [213, 218]], u'Protein']
+[[u'il-17', [249, 254]], u'Protein']
+[[u'il-17', [374, 379]], u'Protein']
+[[u'cd28', [467, 471]], u'Protein']
+[[u'il-17', [524, 529]], u'Protein']
+[[u'p65', [635, 638]], u'Protein']
+[[u'p50', [643, 646]], u'Protein']
+[[u'c-rel', [670, 675]], u'Protein']
+[[u'cd28', [789, 793]], u'Protein']
+[[u'il-17', [1051, 1056]], u'Protein']
+[[u'i\u03bab-\u03b1', [1098, 1103]], u'Protein']
+[[u'i\u03bab-\u03b1', [1140, 1145]], u'Protein']
+[[u'ap-1', [1212, 1216]], u'Protein']
+[[u'cd28', [1282, 1286]], u'Protein']
+[[u'il-17', [1377, 1382]], u'Protein']
+
+
+geniatagger: 13
+[[u'ap-1', [49, 53]], u'Protein']
+[[u'il-17', [70, 75]], u'Protein']
+[[u'pha', [205, 208]], u'Protein']
+[[u'il-15', [213, 218]], u'Protein']
+[[u'il-17', [249, 254]], u'Protein']
+[[u'il-17', [374, 379]], u'Protein']
+[[u'il-17', [524, 529]], u'Protein']
+[[u'p65', [635, 638]], u'Protein']
+[[u'p50', [643, 646]], u'Protein']
+[[u'c-rel', [670, 675]], u'Protein']
+[[u'il-17', [1051, 1056]], u'Protein']
+[[u'ap-1', [1212, 1216]], u'Protein']
+[[u'il-17', [1377, 1382]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'activator protein-1', [28, 47]], u'Protein']
+[[u'il-17', [70, 75]], u'Protein']
+[[u'pha', [205, 208]], u'Protein']
+[[u'il-17', [249, 254]], u'Protein']
+[[u'il-17', [374, 379]], u'Protein']
+[[u'il-17', [524, 529]], u'Protein']
+[[u'p65', [635, 638]], u'Protein']
+[[u'c-rel', [670, 675]], u'Protein']
+[[u'il-17', [1051, 1056]], u'Protein']
+[[u'il-17', [1377, 1382]], u'Protein']
+
+
+total: 14
+[[u'ap-1', [49, 53]], u'Protein']
+[[u'il-17', [70, 75]], u'Protein']
+[[u'pha', [205, 208]], u'Protein']
+[[u'il-15', [213, 218]], u'Protein']
+[[u'il-17', [249, 254]], u'Protein']
+[[u'il-17', [374, 379]], u'Protein']
+[[u'il-17', [524, 529]], u'Protein']
+[[u'p65', [635, 638]], u'Protein']
+[[u'p50', [643, 646]], u'Protein']
+[[u'c-rel', [670, 675]], u'Protein']
+[[u'il-17', [1051, 1056]], u'Protein']
+[[u'ap-1', [1212, 1216]], u'Protein']
+[[u'il-17', [1377, 1382]], u'Protein']
+[[u'activator protein-1', [28, 47]], u'Protein']

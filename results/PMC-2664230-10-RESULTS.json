@@ -1,0 +1,55 @@
+denotations: 21
+[[u'leads', [65, 70]], u'Positive_regulation']
+[[u'degradation', [93, 104]], u'Protein_catabolism']
+[[u'i-\u03bab\u03b1', [108, 113]], u'Protein']
+[[u'effects', [183, 190]], u'Regulation']
+[[u'i-\u03bab\u03b1', [201, 206]], u'Protein']
+[[u'i-\u03bab\u03b1', [220, 225]], u'Protein']
+[[u'phosphorylation', [226, 241]], u'Phosphorylation']
+[[u'increased', [255, 264]], u'Positive_regulation']
+[[u'following', [265, 274]], u'Positive_regulation']
+[[u'downregulated', [383, 396]], u'Negative_regulation']
+[[u'induced', [401, 408]], u'Positive_regulation']
+[[u'i-\u03bab\u03b1', [409, 414]], u'Protein']
+[[u'phosphorylation', [415, 430]], u'Phosphorylation']
+[[u'p65', [488, 491]], u'Protein']
+[[u'phosphorylation', [492, 507]], u'Phosphorylation']
+[[u'increased', [512, 521]], u'Positive_regulation']
+[[u'following', [522, 531]], u'Positive_regulation']
+[[u'decreased', [595, 604]], u'Negative_regulation']
+[[u'induced', [609, 616]], u'Positive_regulation']
+[[u'p65', [623, 626]], u'Protein']
+[[u'phosphorylation', [635, 650]], u'Phosphorylation']
+
+
+geniatagger: 1
+[[u'p65', [488, 491]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'degradation', [93, 104]], u'Protein_catabolism']
+[[u'effects', [183, 190]], u'Regulation']
+[[u'phosphorylation', [226, 241]], u'Phosphorylation']
+[[u'induced', [401, 408]], u'Positive_regulation']
+[[u'phosphorylation', [415, 430]], u'Phosphorylation']
+[[u'p65', [488, 491]], u'Protein']
+[[u'phosphorylation', [492, 507]], u'Phosphorylation']
+[[u'induced', [609, 616]], u'Positive_regulation']
+[[u'p65', [623, 626]], u'Protein']
+[[u'phosphorylation', [635, 650]], u'Phosphorylation']
+
+
+total: 10
+[[u'p65', [488, 491]], u'Protein']
+[[u'degradation', [93, 104]], u'Protein_catabolism']
+[[u'effects', [183, 190]], u'Regulation']
+[[u'phosphorylation', [226, 241]], u'Phosphorylation']
+[[u'induced', [401, 408]], u'Positive_regulation']
+[[u'phosphorylation', [415, 430]], u'Phosphorylation']
+[[u'phosphorylation', [492, 507]], u'Phosphorylation']
+[[u'induced', [609, 616]], u'Positive_regulation']
+[[u'p65', [623, 626]], u'Protein']
+[[u'phosphorylation', [635, 650]], u'Phosphorylation']

@@ -1,0 +1,65 @@
+denotations: 27
+[[u'regulation', [18, 28]], u'Regulation']
+[[u'tnf-\u03b1', [32, 37]], u'Protein']
+[[u'production', [38, 48]], u'Gene_expression']
+[[u'effect', [193, 199]], u'Regulation']
+[[u'tumor necrosis factor-alpha', [283, 310]], u'Protein']
+[[u'tnf-\u03b1', [312, 317]], u'Protein']
+[[u'production', [319, 329]], u'Gene_expression']
+[[u'production', [411, 421]], u'Gene_expression']
+[[u'tnf-\u03b1', [425, 430]], u'Protein']
+[[u'following', [431, 440]], u'Positive_regulation']
+[[u'alters', [571, 577]], u'Regulation']
+[[u'tnf-\u03b1', [578, 583]], u'Protein']
+[[u'production', [584, 594]], u'Gene_expression']
+[[u'in the presence of', [595, 613]], u'Positive_regulation']
+[[u'phosphorylated', [826, 840]], u'Phosphorylation']
+[[u'i-\u03bab\u03b1', [853, 858]], u'Protein']
+[[u'p65', [878, 881]], u'Protein']
+[[u'tnf-\u03b1', [1047, 1052]], u'Protein']
+[[u'reduce', [1266, 1272]], u'Negative_regulation']
+[[u'i-\u03bab\u03b1', [1285, 1290]], u'Protein']
+[[u'phosphorylation', [1291, 1306]], u'Phosphorylation']
+[[u'p65', [1316, 1319]], u'Protein']
+[[u'phosphorylation', [1320, 1335]], u'Phosphorylation']
+[[u'secreted', [1510, 1518]], u'Localization']
+[[u'tnf-\u03b1', [1537, 1542]], u'Protein']
+[[u'presence', [1550, 1558]], u'Regulation']
+[[u'absence', [1563, 1570]], u'Regulation']
+
+
+geniatagger: 1
+[[u'p65', [1316, 1319]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 12
+[[u'regulation', [18, 28]], u'Regulation']
+[[u'production', [38, 48]], u'Gene_expression']
+[[u'effect', [193, 199]], u'Regulation']
+[[u'production', [319, 329]], u'Gene_expression']
+[[u'production', [411, 421]], u'Gene_expression']
+[[u'production', [584, 594]], u'Gene_expression']
+[[u'p65', [878, 881]], u'Protein']
+[[u'phosphorylation', [1291, 1306]], u'Phosphorylation']
+[[u'p65', [1316, 1319]], u'Protein']
+[[u'phosphorylation', [1320, 1335]], u'Phosphorylation']
+[[u'presence', [1550, 1558]], u'Regulation']
+[[u'absence', [1563, 1570]], u'Regulation']
+
+
+total: 12
+[[u'p65', [1316, 1319]], u'Protein']
+[[u'regulation', [18, 28]], u'Regulation']
+[[u'production', [38, 48]], u'Gene_expression']
+[[u'effect', [193, 199]], u'Regulation']
+[[u'production', [319, 329]], u'Gene_expression']
+[[u'production', [411, 421]], u'Gene_expression']
+[[u'production', [584, 594]], u'Gene_expression']
+[[u'p65', [878, 881]], u'Protein']
+[[u'phosphorylation', [1291, 1306]], u'Phosphorylation']
+[[u'phosphorylation', [1320, 1335]], u'Phosphorylation']
+[[u'presence', [1550, 1558]], u'Regulation']
+[[u'absence', [1563, 1570]], u'Regulation']

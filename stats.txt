@@ -1,0 +1,27 @@
+Denotations: 17350
+{'Protein_domain': 1, 'Gene_expression': 1048, 'DNA': 1, 'Localization': 222, 'Acetylation': 2, 'Transcription': 140, 'Binding': 439, 'Phosphorylation': 250, 'Entity': 438, 'Regulation': 433, 'Protein_catabolism': 52, 'Deacetylation': 3, 'Protein_modification': 9, 'Positive_regulation': 1243, 'Protein': 12211, 'Negative_regulation': 854, 'Ubiquitination': 4}
+
+
+Genia total: 31271
+Genia relevant: 6762
+Genia precision: 0.389740634006
+{'Protein_domain': 0, 'Gene_expression': 17, 'DNA': 0, 'Localization': 0, 'Acetylation': 0, 'Transcription': 14, 'Binding': 5, 'Phosphorylation': 3, 'Entity': 97, 'Regulation': 2, 'Protein_catabolism': 0, 'Deacetylation': 0, 'Protein_modification': 0, 'Positive_regulation': 6, 'Protein': 6604, 'Negative_regulation': 14, 'Ubiquitination': 0}
+
+
+meta total: 75188
+meta relevant: 1465
+meta precision: 0.0844380403458
+{'Protein_domain': 0, 'Gene_expression': 94, 'DNA': 0, 'Localization': 1, 'Acetylation': 0, 'Transcription': 3, 'Binding': 14, 'Phosphorylation': 28, 'Entity': 22, 'Regulation': 8, 'Protein_catabolism': 0, 'Deacetylation': 0, 'Protein_modification': 0, 'Positive_regulation': 57, 'Protein': 1215, 'Negative_regulation': 23, 'Ubiquitination': 0}
+
+
+spacy total: 84531
+spacy relevant: 10542
+spacy precision: 0.607608069164
+{'Protein_domain': 0, 'Gene_expression': 676, 'DNA': 0, 'Localization': 101, 'Acetylation': 2, 'Transcription': 109, 'Binding': 251, 'Phosphorylation': 169, 'Entity': 192, 'Regulation': 222, 'Protein_catabolism': 40, 'Deacetylation': 3, 'Protein_modification': 2, 'Positive_regulation': 605, 'Protein': 7766, 'Negative_regulation': 402, 'Ubiquitination': 2}
+
+
+returned: 170420
+total: 12012
+recall: 0.692334293948
+precision: 0.0704846848961
+{'Protein_domain': 0, 'Gene_expression': 690, 'DNA': 0, 'Localization': 101, 'Acetylation': 2, 'Transcription': 110, 'Binding': 255, 'Phosphorylation': 171, 'Entity': 223, 'Regulation': 224, 'Protein_catabolism': 40, 'Deacetylation': 3, 'Protein_modification': 2, 'Positive_regulation': 623, 'Protein': 9149, 'Negative_regulation': 417, 'Ubiquitination': 2}

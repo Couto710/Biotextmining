@@ -1,0 +1,22 @@
+denotations: 5
+[[u'cd3', [104, 107]], u'Protein']
+[[u'cd28', [128, 132]], u'Protein']
+[[u'ubiquitin', [500, 509]], u'Protein']
+[[u'hprt', [513, 517]], u'Protein']
+[[u'mrna levels', [518, 529]], u'Transcription']
+
+
+geniatagger: 2
+[[u'ubiquitin', [500, 509]], u'Protein']
+[[u'hprt', [513, 517]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 2
+[[u'ubiquitin', [500, 509]], u'Protein']
+[[u'hprt', [513, 517]], u'Protein']

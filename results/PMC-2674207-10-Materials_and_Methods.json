@@ -1,0 +1,16 @@
+denotations: 1
+[[u'gr', [332, 334]], u'Protein']
+
+
+geniatagger: 1
+[[u'gr', [332, 334]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'gr', [332, 334]], u'Protein']

@@ -1,0 +1,62 @@
+denotations: 21
+[[u'cd40', [0, 4]], u'Protein']
+[[u'hoip', [57, 61]], u'Protein']
+[[u'deficient', [62, 71]], u'Negative_regulation']
+[[u'cd40', [79, 83]], u'Protein']
+[[u'hoip', [120, 124]], u'Protein']
+[[u'deficient', [125, 134]], u'Negative_regulation']
+[[u'hoip', [254, 258]], u'Protein']
+[[u'deficient', [259, 268]], u'Negative_regulation']
+[[u'hoip', [320, 324]], u'Protein']
+[[u'hoip', [326, 330]], u'Protein']
+[[u'hoip', [336, 340]], u'Protein']
+[[u'cd154', [369, 374]], u'Protein']
+[[u'expressing', [375, 385]], u'Gene_expression']
+[[u'lacking', [487, 494]], u'Negative_regulation']
+[[u'cd154', [495, 500]], u'Protein']
+[[u'phospho-i\u03bab\u03b1', [608, 620]], u'Protein']
+[[u'pi\u03bab\u03b1', [622, 627]], u'Protein']
+[[u'i\u03bab\u03b1', [695, 699]], u'Protein']
+[[u'i\u03bab\u03b1', [782, 786]], u'Protein']
+[[u'hoip', [1000, 1004]], u'Protein']
+[[u'deficient', [1005, 1014]], u'Negative_regulation']
+
+
+geniatagger: 2
+[[u'hoip', [320, 324]], u'Protein']
+[[u'cd154', [495, 500]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'hoip', [57, 61]], u'Protein']
+[[u'deficient', [62, 71]], u'Negative_regulation']
+[[u'hoip', [120, 124]], u'Protein']
+[[u'deficient', [125, 134]], u'Negative_regulation']
+[[u'hoip', [254, 258]], u'Protein']
+[[u'deficient', [259, 268]], u'Negative_regulation']
+[[u'hoip', [320, 324]], u'Protein']
+[[u'hoip', [326, 330]], u'Protein']
+[[u'hoip', [336, 340]], u'Protein']
+[[u'cd154', [369, 374]], u'Protein']
+[[u'cd154', [495, 500]], u'Protein']
+[[u'hoip', [1000, 1004]], u'Protein']
+[[u'deficient', [1005, 1014]], u'Negative_regulation']
+
+
+total: 13
+[[u'hoip', [320, 324]], u'Protein']
+[[u'cd154', [495, 500]], u'Protein']
+[[u'hoip', [57, 61]], u'Protein']
+[[u'deficient', [62, 71]], u'Negative_regulation']
+[[u'hoip', [120, 124]], u'Protein']
+[[u'deficient', [125, 134]], u'Negative_regulation']
+[[u'hoip', [254, 258]], u'Protein']
+[[u'deficient', [259, 268]], u'Negative_regulation']
+[[u'hoip', [326, 330]], u'Protein']
+[[u'hoip', [336, 340]], u'Protein']
+[[u'cd154', [369, 374]], u'Protein']
+[[u'hoip', [1000, 1004]], u'Protein']
+[[u'deficient', [1005, 1014]], u'Negative_regulation']

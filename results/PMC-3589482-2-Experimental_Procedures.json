@@ -1,0 +1,19 @@
+denotations: 2
+[[u'cebpb', [398, 403]], u'Protein']
+[[u'cebpb', [422, 427]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cebpb', [398, 403]], u'Protein']
+[[u'cebpb', [422, 427]], u'Protein']
+
+
+total: 2
+[[u'cebpb', [398, 403]], u'Protein']
+[[u'cebpb', [422, 427]], u'Protein']

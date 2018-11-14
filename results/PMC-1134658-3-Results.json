@@ -1,0 +1,47 @@
+denotations: 8
+[[u'bmp-6', [0, 5]], u'Protein']
+[[u'bmp-6', [102, 107]], u'Protein']
+[[u'bmp-6', [253, 258]], u'Protein']
+[[u'bmp-6', [288, 293]], u'Protein']
+[[u'cd27', [412, 416]], u'Protein']
+[[u'bmp-6', [546, 551]], u'Protein']
+[[u'cd19', [596, 600]], u'Protein']
+[[u'cd27', [645, 649]], u'Protein']
+
+
+geniatagger: 5
+[[u'bmp-6', [0, 5]], u'Protein']
+[[u'bmp-6', [102, 107]], u'Protein']
+[[u'bmp-6', [253, 258]], u'Protein']
+[[u'bmp-6', [288, 293]], u'Protein']
+[[u'bmp-6', [546, 551]], u'Protein']
+
+
+metamapper: 5
+[[u'bmp-6', [0, 5]], u'Protein']
+[[u'bmp-6', [102, 107]], u'Protein']
+[[u'bmp-6', [253, 258]], u'Protein']
+[[u'bmp-6', [288, 293]], u'Protein']
+[[u'bmp-6', [546, 551]], u'Protein']
+
+
+spacy + metamapper: 8
+[[u'bmp-6', [0, 5]], u'Protein']
+[[u'bmp-6', [102, 107]], u'Protein']
+[[u'bmp-6', [253, 258]], u'Protein']
+[[u'bmp-6', [288, 293]], u'Protein']
+[[u'cd27', [412, 416]], u'Protein']
+[[u'bmp-6', [546, 551]], u'Protein']
+[[u'cd19', [596, 600]], u'Protein']
+[[u'cd27', [645, 649]], u'Protein']
+
+
+total: 8
+[[u'bmp-6', [0, 5]], u'Protein']
+[[u'bmp-6', [102, 107]], u'Protein']
+[[u'bmp-6', [253, 258]], u'Protein']
+[[u'bmp-6', [288, 293]], u'Protein']
+[[u'bmp-6', [546, 551]], u'Protein']
+[[u'cd27', [412, 416]], u'Protein']
+[[u'cd19', [596, 600]], u'Protein']
+[[u'cd27', [645, 649]], u'Protein']

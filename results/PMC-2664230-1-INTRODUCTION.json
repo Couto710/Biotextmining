@@ -1,0 +1,56 @@
+denotations: 23
+[[u'regulator', [446, 455]], u'Regulation']
+[[u'tumor necrosis factor-\u03b1', [459, 482]], u'Protein']
+[[u'tnf-\u03b1', [484, 489]], u'Protein']
+[[u'production', [491, 501]], u'Gene_expression']
+[[u'tnf-\u03b1', [504, 509]], u'Protein']
+[[u'tnf-\u03b1', [612, 617]], u'Protein']
+[[u'synthesis', [618, 627]], u'Gene_expression']
+[[u'attenuated', [635, 645]], u'Negative_regulation']
+[[u'lead', [840, 844]], u'Positive_regulation']
+[[u'downregulation', [852, 866]], u'Negative_regulation']
+[[u'tnf-\u03b1', [870, 875]], u'Protein']
+[[u'production', [876, 886]], u'Gene_expression']
+[[u'inhibit', [1914, 1921]], u'Negative_regulation']
+[[u'dependent', [1928, 1937]], u'Regulation']
+[[u'transcription', [1960, 1973]], u'Transcription']
+[[u'tnf-\u03b1', [1995, 2000]], u'Protein']
+[[u'down-regulates', [2084, 2098]], u'Negative_regulation']
+[[u'tnf-\u03b1', [2099, 2104]], u'Protein']
+[[u'production', [2105, 2115]], u'Gene_expression']
+[[u'role', [2763, 2767]], u'Regulation']
+[[u'induced', [2782, 2789]], u'Positive_regulation']
+[[u'tnf-\u03b1', [2790, 2795]], u'Protein']
+[[u'production', [2796, 2806]], u'Gene_expression']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'regulator', [446, 455]], u'Regulation']
+[[u'production', [491, 501]], u'Gene_expression']
+[[u'downregulation', [852, 866]], u'Negative_regulation']
+[[u'production', [876, 886]], u'Gene_expression']
+[[u'dependent', [1928, 1937]], u'Regulation']
+[[u'transcription', [1960, 1973]], u'Transcription']
+[[u'production', [2105, 2115]], u'Gene_expression']
+[[u'role', [2763, 2767]], u'Regulation']
+[[u'induced', [2782, 2789]], u'Positive_regulation']
+[[u'production', [2796, 2806]], u'Gene_expression']
+
+
+total: 10
+[[u'regulator', [446, 455]], u'Regulation']
+[[u'production', [491, 501]], u'Gene_expression']
+[[u'downregulation', [852, 866]], u'Negative_regulation']
+[[u'production', [876, 886]], u'Gene_expression']
+[[u'dependent', [1928, 1937]], u'Regulation']
+[[u'transcription', [1960, 1973]], u'Transcription']
+[[u'production', [2105, 2115]], u'Gene_expression']
+[[u'role', [2763, 2767]], u'Regulation']
+[[u'induced', [2782, 2789]], u'Positive_regulation']
+[[u'production', [2796, 2806]], u'Gene_expression']

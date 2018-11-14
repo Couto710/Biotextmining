@@ -1,0 +1,46 @@
+denotations: 10
+[[u'sox6', [26, 30]], u'Protein']
+[[u'sox6', [97, 101]], u'Protein']
+[[u'\u025by globin', [137, 146]], u'Protein']
+[[u'sox6', [212, 216]], u'Protein']
+[[u'sox6', [333, 337]], u'Protein']
+[[u'sox6', [424, 428]], u'Protein']
+[[u'sox6', [607, 611]], u'Protein']
+[[u'sox6', [722, 726]], u'Protein']
+[[u'\u025by globin', [882, 891]], u'Protein']
+[[u'sox6', [990, 994]], u'Protein']
+
+
+geniatagger: 7
+[[u'sox6', [26, 30]], u'Protein']
+[[u'sox6', [212, 216]], u'Protein']
+[[u'sox6', [333, 337]], u'Protein']
+[[u'sox6', [424, 428]], u'Protein']
+[[u'sox6', [607, 611]], u'Protein']
+[[u'sox6', [722, 726]], u'Protein']
+[[u'sox6', [990, 994]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'sox6', [26, 30]], u'Protein']
+[[u'sox6', [97, 101]], u'Protein']
+[[u'sox6', [212, 216]], u'Protein']
+[[u'sox6', [333, 337]], u'Protein']
+[[u'sox6', [424, 428]], u'Protein']
+[[u'sox6', [607, 611]], u'Protein']
+[[u'sox6', [722, 726]], u'Protein']
+[[u'sox6', [990, 994]], u'Protein']
+
+
+total: 8
+[[u'sox6', [26, 30]], u'Protein']
+[[u'sox6', [212, 216]], u'Protein']
+[[u'sox6', [333, 337]], u'Protein']
+[[u'sox6', [424, 428]], u'Protein']
+[[u'sox6', [607, 611]], u'Protein']
+[[u'sox6', [722, 726]], u'Protein']
+[[u'sox6', [990, 994]], u'Protein']
+[[u'sox6', [97, 101]], u'Protein']

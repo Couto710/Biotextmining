@@ -1,0 +1,50 @@
+denotations: 12
+[[u'normal', [0, 6]], u'Negative_regulation']
+[[u'tlr4', [7, 11]], u'Protein']
+[[u'md2', [16, 19]], u'Protein']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'decreased', [35, 44]], u'Negative_regulation']
+[[u'il10', [45, 49]], u'Protein']
+[[u'secretion', [50, 59]], u'Gene_expression']
+[[u'a20', [64, 67]], u'Protein']
+[[u'expression', [68, 78]], u'Gene_expression']
+[[u'il10', [480, 484]], u'Protein']
+[[u'production', [708, 718]], u'Gene_expression']
+[[u'a20', [722, 725]], u'Protein']
+
+
+geniatagger: 6
+[[u'tlr4', [7, 11]], u'Protein']
+[[u'md2', [16, 19]], u'Protein']
+[[u'il10', [45, 49]], u'Protein']
+[[u'a20', [64, 67]], u'Protein']
+[[u'il10', [480, 484]], u'Protein']
+[[u'a20', [722, 725]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'normal', [0, 6]], u'Negative_regulation']
+[[u'md2', [16, 19]], u'Protein']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'decreased', [35, 44]], u'Negative_regulation']
+[[u'il10', [45, 49]], u'Protein']
+[[u'expression', [68, 78]], u'Gene_expression']
+[[u'il10', [480, 484]], u'Protein']
+[[u'production', [708, 718]], u'Gene_expression']
+
+
+total: 11
+[[u'tlr4', [7, 11]], u'Protein']
+[[u'md2', [16, 19]], u'Protein']
+[[u'il10', [45, 49]], u'Protein']
+[[u'a20', [64, 67]], u'Protein']
+[[u'il10', [480, 484]], u'Protein']
+[[u'a20', [722, 725]], u'Protein']
+[[u'normal', [0, 6]], u'Negative_regulation']
+[[u'expression', [20, 30]], u'Gene_expression']
+[[u'decreased', [35, 44]], u'Negative_regulation']
+[[u'expression', [68, 78]], u'Gene_expression']
+[[u'production', [708, 718]], u'Gene_expression']

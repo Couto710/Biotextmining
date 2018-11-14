@@ -1,0 +1,39 @@
+denotations: 12
+[[u'tlr4', [18, 22]], u'Protein']
+[[u'tlr4', [678, 682]], u'Protein']
+[[u'taq dna polymerase', [778, 796]], u'Protein']
+[[u'the house keep gene', [798, 817]], u'Protein']
+[[u'\u03b2-actin', [819, 826]], u'Protein']
+[[u'tlr4', [917, 921]], u'Protein']
+[[u'\u03b2-actin', [926, 933]], u'Protein']
+[[u'tlr4', [970, 974]], u'Protein']
+[[u'\u03b2-actin', [1059, 1066]], u'Protein']
+[[u'tlr4', [1450, 1454]], u'Protein']
+[[u'tlr4', [1490, 1494]], u'Protein']
+[[u'\u03b2-actin', [1503, 1510]], u'Protein']
+
+
+geniatagger: 6
+[[u'tlr4', [18, 22]], u'Protein']
+[[u'tlr4', [678, 682]], u'Protein']
+[[u'tlr4', [917, 921]], u'Protein']
+[[u'tlr4', [970, 974]], u'Protein']
+[[u'tlr4', [1450, 1454]], u'Protein']
+[[u'tlr4', [1490, 1494]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'taq dna polymerase', [778, 796]], u'Protein']
+
+
+total: 7
+[[u'tlr4', [18, 22]], u'Protein']
+[[u'tlr4', [678, 682]], u'Protein']
+[[u'tlr4', [917, 921]], u'Protein']
+[[u'tlr4', [970, 974]], u'Protein']
+[[u'tlr4', [1450, 1454]], u'Protein']
+[[u'tlr4', [1490, 1494]], u'Protein']
+[[u'taq dna polymerase', [778, 796]], u'Protein']

@@ -1,0 +1,7 @@
+Processing 00000000.tx.1: Ser276 residue
+
+Phrase: Ser276 residue
+Meta Mapping (861):
+   861   Residue [Conceptual Entity]
+Meta Mapping (861):
+   861   Residue (Residue after Decontamination Medical Device Problem) [Event]

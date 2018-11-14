@@ -1,0 +1,73 @@
+denotations: 27
+[[u'tat', [19, 22]], u'Protein']
+[[u'enhances', [55, 63]], u'Positive_regulation']
+[[u'mip-1\u03b1', [68, 74]], u'Protein']
+[[u'expression', [75, 85]], u'Gene_expression']
+[[u'interaction', [90, 101]], u'Binding']
+[[u'i\u03bab-\u03b1', [107, 112]], u'Protein']
+[[u'p65', [117, 120]], u'Protein']
+[[u'sirna tat', [165, 174]], u'Protein']
+[[u'flag-tat', [282, 290]], u'Protein']
+[[u'p24', [315, 318]], u'Protein']
+[[u'tat', [401, 404]], u'Protein']
+[[u'expression', [405, 415]], u'Gene_expression']
+[[u'p24', [446, 449]], u'Protein']
+[[u'binding', [482, 489]], u'Binding']
+[[u'p65', [493, 496]], u'Protein']
+[[u'i\u03bab-\u03b1', [654, 659]], u'Protein']
+[[u'flag-tat', [1062, 1070]], u'Protein']
+[[u'protein g', [1188, 1197]], u'Protein']
+[[u'sirna tat', [1415, 1424]], u'Protein']
+[[u'sirna p65', [1426, 1435]], u'Protein']
+[[u'flag-tat', [1544, 1552]], u'Protein']
+[[u'mip-1\u03b1', [1647, 1653]], u'Protein']
+[[u'expression', [1654, 1664]], u'Gene_expression']
+[[u'sirna tat', [1736, 1745]], u'Protein']
+[[u'flag-tat', [1856, 1864]], u'Protein']
+[[u'mip-1\u03b1', [2041, 2047]], u'Protein']
+[[u'gapdh', [2052, 2057]], u'Protein']
+
+
+geniatagger: 7
+[[u'tat', [19, 22]], u'Protein']
+[[u'p65', [117, 120]], u'Protein']
+[[u'p24', [315, 318]], u'Protein']
+[[u'tat', [401, 404]], u'Protein']
+[[u'p24', [446, 449]], u'Protein']
+[[u'p65', [493, 496]], u'Protein']
+[[u'gapdh', [2052, 2057]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'tat', [19, 22]], u'Protein']
+[[u'expression', [75, 85]], u'Gene_expression']
+[[u'interaction', [90, 101]], u'Binding']
+[[u'p65', [117, 120]], u'Protein']
+[[u'p24', [315, 318]], u'Protein']
+[[u'tat', [401, 404]], u'Protein']
+[[u'expression', [405, 415]], u'Gene_expression']
+[[u'p24', [446, 449]], u'Protein']
+[[u'binding', [482, 489]], u'Binding']
+[[u'p65', [493, 496]], u'Protein']
+[[u'protein g', [1188, 1197]], u'Protein']
+[[u'expression', [1654, 1664]], u'Gene_expression']
+[[u'gapdh', [2052, 2057]], u'Protein']
+
+
+total: 13
+[[u'tat', [19, 22]], u'Protein']
+[[u'p65', [117, 120]], u'Protein']
+[[u'p24', [315, 318]], u'Protein']
+[[u'tat', [401, 404]], u'Protein']
+[[u'p24', [446, 449]], u'Protein']
+[[u'p65', [493, 496]], u'Protein']
+[[u'gapdh', [2052, 2057]], u'Protein']
+[[u'expression', [75, 85]], u'Gene_expression']
+[[u'interaction', [90, 101]], u'Binding']
+[[u'expression', [405, 415]], u'Gene_expression']
+[[u'binding', [482, 489]], u'Binding']
+[[u'protein g', [1188, 1197]], u'Protein']
+[[u'expression', [1654, 1664]], u'Gene_expression']

@@ -1,0 +1,33 @@
+denotations: 8
+[[u'sharpin', [33, 40]], u'Protein']
+[[u'sharpin', [259, 266]], u'Protein']
+[[u'mrna level', [620, 630]], u'Transcription']
+[[u'sharpin', [634, 641]], u'Protein']
+[[u'sharpin', [911, 918]], u'Protein']
+[[u'sharpin', [1087, 1094]], u'Protein']
+[[u'cytoplasm', [1111, 1120]], u'Entity']
+[[u'localized', [1121, 1130]], u'Localization']
+
+
+geniatagger: 2
+[[u'sharpin', [259, 266]], u'Protein']
+[[u'sharpin', [634, 641]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'sharpin', [33, 40]], u'Protein']
+[[u'sharpin', [259, 266]], u'Protein']
+[[u'sharpin', [634, 641]], u'Protein']
+[[u'sharpin', [911, 918]], u'Protein']
+[[u'sharpin', [1087, 1094]], u'Protein']
+
+
+total: 5
+[[u'sharpin', [259, 266]], u'Protein']
+[[u'sharpin', [634, 641]], u'Protein']
+[[u'sharpin', [33, 40]], u'Protein']
+[[u'sharpin', [911, 918]], u'Protein']
+[[u'sharpin', [1087, 1094]], u'Protein']

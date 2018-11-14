@@ -1,0 +1,18 @@
+denotations: 3
+[[u'\u025by globin', [64, 73]], u'Protein']
+[[u'\u03b2maj globin', [95, 106]], u'Protein']
+[[u'sox6', [138, 142]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'sox6', [138, 142]], u'Protein']
+
+
+total: 1
+[[u'sox6', [138, 142]], u'Protein']

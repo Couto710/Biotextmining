@@ -1,0 +1,68 @@
+denotations: 19
+[[u'irf-4', [35, 40]], u'Protein']
+[[u'transcriptional', [41, 56]], u'Transcription']
+[[u'rna expression', [242, 256]], u'Transcription']
+[[u'irf-4', [270, 275]], u'Protein']
+[[u'\u03b2-actin', [299, 306]], u'Protein']
+[[u'expression', [463, 473]], u'Gene_expression']
+[[u'dnmt1', [499, 504]], u'Protein']
+[[u'dnmt3a', [505, 511]], u'Protein']
+[[u'dnmt3b', [513, 519]], u'Protein']
+[[u'mecp', [521, 525]], u'Protein']
+[[u'mbd1', [527, 531]], u'Protein']
+[[u'mbd2', [533, 537]], u'Protein']
+[[u'mbd4', [542, 546]], u'Protein']
+[[u'irf-4', [595, 600]], u'Protein']
+[[u'expression', [609, 619]], u'Gene_expression']
+[[u'irf-4', [1805, 1810]], u'Protein']
+[[u'icsat', [1811, 1816]], u'Protein']
+[[u'm-17', [1818, 1822]], u'Protein']
+[[u'\u03b2-actin', [1882, 1889]], u'Protein']
+
+
+geniatagger: 8
+[[u'irf-4', [35, 40]], u'Protein']
+[[u'irf-4', [270, 275]], u'Protein']
+[[u'dnmt3b', [513, 519]], u'Protein']
+[[u'mbd1', [527, 531]], u'Protein']
+[[u'mbd2', [533, 537]], u'Protein']
+[[u'mbd4', [542, 546]], u'Protein']
+[[u'irf-4', [595, 600]], u'Protein']
+[[u'm-17', [1818, 1822]], u'Protein']
+
+
+metamapper: 7
+[[u'irf-4', [35, 40]], u'Protein']
+[[u'transcriptional', [41, 56]], u'Transcription']
+[[u'irf-4', [270, 275]], u'Protein']
+[[u'expression', [463, 473]], u'Gene_expression']
+[[u'irf-4', [595, 600]], u'Protein']
+[[u'expression', [609, 619]], u'Gene_expression']
+[[u'irf-4', [1805, 1810]], u'Protein']
+
+
+spacy + metamapper: 8
+[[u'irf-4', [35, 40]], u'Protein']
+[[u'transcriptional', [41, 56]], u'Transcription']
+[[u'rna expression', [242, 256]], u'Transcription']
+[[u'irf-4', [270, 275]], u'Protein']
+[[u'expression', [463, 473]], u'Gene_expression']
+[[u'irf-4', [595, 600]], u'Protein']
+[[u'expression', [609, 619]], u'Gene_expression']
+[[u'irf-4', [1805, 1810]], u'Protein']
+
+
+total: 13
+[[u'irf-4', [35, 40]], u'Protein']
+[[u'irf-4', [270, 275]], u'Protein']
+[[u'dnmt3b', [513, 519]], u'Protein']
+[[u'mbd1', [527, 531]], u'Protein']
+[[u'mbd2', [533, 537]], u'Protein']
+[[u'mbd4', [542, 546]], u'Protein']
+[[u'irf-4', [595, 600]], u'Protein']
+[[u'm-17', [1818, 1822]], u'Protein']
+[[u'transcriptional', [41, 56]], u'Transcription']
+[[u'expression', [463, 473]], u'Gene_expression']
+[[u'expression', [609, 619]], u'Gene_expression']
+[[u'irf-4', [1805, 1810]], u'Protein']
+[[u'rna expression', [242, 256]], u'Transcription']

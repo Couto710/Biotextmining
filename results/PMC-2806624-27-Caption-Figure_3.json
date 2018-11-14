@@ -1,0 +1,65 @@
+denotations: 20
+[[u'binding', [0, 7]], u'Binding']
+[[u'runx1', [11, 16]], u'Protein']
+[[u'runx3', [21, 26]], u'Protein']
+[[u'binding sites', [53, 66]], u'Entity']
+[[u'foxp3', [74, 79]], u'Protein']
+[[u'runx1', [536, 541]], u'Protein']
+[[u'runx3', [551, 556]], u'Protein']
+[[u'foxp3', [884, 889]], u'Protein']
+[[u'binding', [1007, 1014]], u'Binding']
+[[u'runx1', [1018, 1023]], u'Protein']
+[[u'runx3', [1028, 1033]], u'Protein']
+[[u'cbf\u03b2', [1055, 1059]], u'Protein']
+[[u'foxp3', [1073, 1078]], u'Protein']
+[[u'promoter', [1079, 1087]], u'Entity']
+[[u'cd4', [1097, 1100]], u'Protein']
+[[u'il-2', [1134, 1138]], u'Protein']
+[[u'cd2', [1158, 1161]], u'Protein']
+[[u'3', [1162, 1163]], u'Protein']
+[[u'28', [1164, 1166]], u'Protein']
+[[u'tgf-\u03b2', [1171, 1176]], u'Protein']
+
+
+geniatagger: 9
+[[u'runx1', [11, 16]], u'Protein']
+[[u'runx3', [21, 26]], u'Protein']
+[[u'foxp3', [74, 79]], u'Protein']
+[[u'foxp3', [884, 889]], u'Protein']
+[[u'runx1', [1018, 1023]], u'Protein']
+[[u'runx3', [1028, 1033]], u'Protein']
+[[u'foxp3', [1073, 1078]], u'Protein']
+[[u'promoter', [1079, 1087]], u'Entity']
+[[u'il-2', [1134, 1138]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'runx3', [21, 26]], u'Protein']
+[[u'binding sites', [53, 66]], u'Entity']
+[[u'foxp3', [74, 79]], u'Protein']
+[[u'runx3', [551, 556]], u'Protein']
+[[u'foxp3', [884, 889]], u'Protein']
+[[u'runx3', [1028, 1033]], u'Protein']
+[[u'foxp3', [1073, 1078]], u'Protein']
+[[u'promoter', [1079, 1087]], u'Entity']
+[[u'cd4', [1097, 1100]], u'Protein']
+[[u'cd2', [1158, 1161]], u'Protein']
+
+
+total: 13
+[[u'runx1', [11, 16]], u'Protein']
+[[u'runx3', [21, 26]], u'Protein']
+[[u'foxp3', [74, 79]], u'Protein']
+[[u'foxp3', [884, 889]], u'Protein']
+[[u'runx1', [1018, 1023]], u'Protein']
+[[u'runx3', [1028, 1033]], u'Protein']
+[[u'foxp3', [1073, 1078]], u'Protein']
+[[u'promoter', [1079, 1087]], u'Entity']
+[[u'il-2', [1134, 1138]], u'Protein']
+[[u'binding sites', [53, 66]], u'Entity']
+[[u'runx3', [551, 556]], u'Protein']
+[[u'cd4', [1097, 1100]], u'Protein']
+[[u'cd2', [1158, 1161]], u'Protein']

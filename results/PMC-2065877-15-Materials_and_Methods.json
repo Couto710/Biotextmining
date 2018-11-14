@@ -1,0 +1,21 @@
+denotations: 3
+[[u'cd19', [52, 56]], u'Protein']
+[[u'rnase a', [800, 807]], u'Protein']
+[[u't1', [812, 814]], u'Protein']
+
+
+geniatagger: 1
+[[u't1', [812, 814]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cd19', [52, 56]], u'Protein']
+[[u't1', [812, 814]], u'Protein']
+
+
+total: 2
+[[u't1', [812, 814]], u'Protein']
+[[u'cd19', [52, 56]], u'Protein']

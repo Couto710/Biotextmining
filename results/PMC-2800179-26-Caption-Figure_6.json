@@ -1,0 +1,32 @@
+denotations: 9
+[[u'stimulated', [13, 23]], u'Positive_regulation']
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'tnf-\u03b1', [35, 40]], u'Protein']
+[[u'expression', [46, 56]], u'Gene_expression']
+[[u'expression', [126, 136]], u'Gene_expression']
+[[u'icam-1', [140, 146]], u'Protein']
+[[u'tnf-\u03b1', [151, 156]], u'Protein']
+[[u'\u03b2-actin', [216, 223]], u'Protein']
+[[u'expression', [224, 234]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'icam-1', [140, 146]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'expression', [46, 56]], u'Gene_expression']
+[[u'expression', [126, 136]], u'Gene_expression']
+[[u'expression', [224, 234]], u'Gene_expression']
+
+
+total: 5
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'icam-1', [140, 146]], u'Protein']
+[[u'expression', [46, 56]], u'Gene_expression']
+[[u'expression', [126, 136]], u'Gene_expression']
+[[u'expression', [224, 234]], u'Gene_expression']

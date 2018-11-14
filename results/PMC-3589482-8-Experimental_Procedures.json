@@ -1,0 +1,22 @@
+denotations: 4
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [204, 209]], u'Protein']
+[[u'c/ebp-\u03b2', [325, 332]], u'Protein']
+[[u'c/ebp-\u03b2', [1135, 1142]], u'Protein']
+
+
+geniatagger: 1
+[[u'cebpb', [142, 147]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [204, 209]], u'Protein']
+
+
+total: 2
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [204, 209]], u'Protein']

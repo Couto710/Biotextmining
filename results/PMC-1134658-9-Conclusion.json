@@ -1,0 +1,43 @@
+denotations: 8
+[[u'bmp-6', [37, 42]], u'Protein']
+[[u'consecutive', [124, 135]], u'Positive_regulation']
+[[u'production', [136, 146]], u'Gene_expression']
+[[u'id1', [150, 153]], u'Protein']
+[[u'bmp-6', [191, 196]], u'Protein']
+[[u'cd40l', [310, 315]], u'Protein']
+[[u'bmp-6', [331, 336]], u'Protein']
+[[u'bmp-6', [482, 487]], u'Protein']
+
+
+geniatagger: 6
+[[u'bmp-6', [37, 42]], u'Protein']
+[[u'id1', [150, 153]], u'Protein']
+[[u'bmp-6', [191, 196]], u'Protein']
+[[u'cd40l', [310, 315]], u'Protein']
+[[u'bmp-6', [331, 336]], u'Protein']
+[[u'bmp-6', [482, 487]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'bmp-6', [37, 42]], u'Protein']
+[[u'consecutive', [124, 135]], u'Positive_regulation']
+[[u'production', [136, 146]], u'Gene_expression']
+[[u'id1', [150, 153]], u'Protein']
+[[u'bmp-6', [191, 196]], u'Protein']
+[[u'cd40l', [310, 315]], u'Protein']
+[[u'bmp-6', [331, 336]], u'Protein']
+[[u'bmp-6', [482, 487]], u'Protein']
+
+
+total: 8
+[[u'bmp-6', [37, 42]], u'Protein']
+[[u'id1', [150, 153]], u'Protein']
+[[u'bmp-6', [191, 196]], u'Protein']
+[[u'cd40l', [310, 315]], u'Protein']
+[[u'bmp-6', [331, 336]], u'Protein']
+[[u'bmp-6', [482, 487]], u'Protein']
+[[u'consecutive', [124, 135]], u'Positive_regulation']
+[[u'production', [136, 146]], u'Gene_expression']

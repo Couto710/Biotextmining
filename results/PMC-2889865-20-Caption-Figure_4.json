@@ -1,0 +1,17 @@
+denotations: 1
+[[u'luciferase', [74, 84]], u'Protein']
+
+
+geniatagger: 1
+[[u'luciferase', [74, 84]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'luciferase', [74, 84]], u'Protein']
+
+
+total: 1
+[[u'luciferase', [74, 84]], u'Protein']

@@ -1,0 +1,34 @@
+denotations: 7
+[[u'sharpin', [70, 77]], u'Protein']
+[[u'sharpin', [270, 277]], u'Protein']
+[[u'express', [383, 390]], u'Gene_expression']
+[[u'sharpin', [403, 410]], u'Protein']
+[[u'sharpin', [542, 549]], u'Protein']
+[[u'sharpin', [733, 740]], u'Protein']
+[[u'expression', [741, 751]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'sharpin', [70, 77]], u'Protein']
+[[u'sharpin', [403, 410]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'sharpin', [70, 77]], u'Protein']
+[[u'sharpin', [270, 277]], u'Protein']
+[[u'sharpin', [403, 410]], u'Protein']
+[[u'sharpin', [542, 549]], u'Protein']
+[[u'sharpin', [733, 740]], u'Protein']
+[[u'expression', [741, 751]], u'Gene_expression']
+
+
+total: 6
+[[u'sharpin', [70, 77]], u'Protein']
+[[u'sharpin', [403, 410]], u'Protein']
+[[u'sharpin', [270, 277]], u'Protein']
+[[u'sharpin', [542, 549]], u'Protein']
+[[u'sharpin', [733, 740]], u'Protein']
+[[u'expression', [741, 751]], u'Gene_expression']

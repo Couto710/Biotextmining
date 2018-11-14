@@ -1,0 +1,34 @@
+denotations: 7
+[[u'tat', [12, 15]], u'Protein']
+[[u'gata3', [45, 50]], u'Protein']
+[[u'gata3', [76, 81]], u'Protein']
+[[u'lacking', [83, 90]], u'Negative_regulation']
+[[u'two zinc fingers', [95, 111]], u'Entity']
+[[u'tat', [175, 178]], u'Protein']
+[[u'tat', [349, 352]], u'Protein']
+
+
+geniatagger: 4
+[[u'tat', [12, 15]], u'Protein']
+[[u'gata3', [45, 50]], u'Protein']
+[[u'gata3', [76, 81]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'tat', [12, 15]], u'Protein']
+[[u'gata3', [45, 50]], u'Protein']
+[[u'gata3', [76, 81]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+[[u'tat', [349, 352]], u'Protein']
+
+
+total: 5
+[[u'tat', [12, 15]], u'Protein']
+[[u'gata3', [45, 50]], u'Protein']
+[[u'gata3', [76, 81]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+[[u'tat', [349, 352]], u'Protein']

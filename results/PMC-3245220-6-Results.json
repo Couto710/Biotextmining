@@ -1,0 +1,65 @@
+denotations: 25
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'regulate', [43, 51]], u'Regulation']
+[[u'p65', [72, 75]], u'Protein']
+[[u'activation', [76, 86]], u'Positive_regulation']
+[[u'phosphorylation', [136, 151]], u'Phosphorylation']
+[[u'degradation', [156, 167]], u'Protein_catabolism']
+[[u'i\u03bab\u03b1', [171, 175]], u'Protein']
+[[u'p50', [238, 241]], u'Protein']
+[[u'p65', [242, 245]], u'Protein']
+[[u'm-csf', [360, 365]], u'Protein']
+[[u'i\u03bab\u03b1', [421, 425]], u'Protein']
+[[u'degradation', [426, 437]], u'Protein_catabolism']
+[[u'regulated', [442, 451]], u'Regulation']
+[[u'inhibit', [507, 514]], u'Negative_regulation']
+[[u'synthesis', [523, 532]], u'Gene_expression']
+[[u'i\u03bab\u03b1', [536, 540]], u'Protein']
+[[u'alter', [638, 643]], u'Regulation']
+[[u'm-csf', [644, 649]], u'Protein']
+[[u'induced', [650, 657]], u'Positive_regulation']
+[[u'i\u03bab\u03b1', [658, 662]], u'Protein']
+[[u'degradation', [663, 674]], u'Protein_catabolism']
+[[u'm-csf', [692, 697]], u'Protein']
+[[u'augmented', [719, 728]], u'Regulation']
+[[u'post-translational modification', [792, 823]], u'Protein_modification']
+[[u'p65', [833, 836]], u'Protein']
+
+
+geniatagger: 1
+[[u'p65', [833, 836]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'p65', [72, 75]], u'Protein']
+[[u'activation', [76, 86]], u'Positive_regulation']
+[[u'phosphorylation', [136, 151]], u'Phosphorylation']
+[[u'degradation', [156, 167]], u'Protein_catabolism']
+[[u'p65', [242, 245]], u'Protein']
+[[u'm-csf', [360, 365]], u'Protein']
+[[u'degradation', [426, 437]], u'Protein_catabolism']
+[[u'm-csf', [644, 649]], u'Protein']
+[[u'induced', [650, 657]], u'Positive_regulation']
+[[u'degradation', [663, 674]], u'Protein_catabolism']
+[[u'm-csf', [692, 697]], u'Protein']
+[[u'p65', [833, 836]], u'Protein']
+
+
+total: 13
+[[u'p65', [833, 836]], u'Protein']
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'p65', [72, 75]], u'Protein']
+[[u'activation', [76, 86]], u'Positive_regulation']
+[[u'phosphorylation', [136, 151]], u'Phosphorylation']
+[[u'degradation', [156, 167]], u'Protein_catabolism']
+[[u'p65', [242, 245]], u'Protein']
+[[u'm-csf', [360, 365]], u'Protein']
+[[u'degradation', [426, 437]], u'Protein_catabolism']
+[[u'm-csf', [644, 649]], u'Protein']
+[[u'induced', [650, 657]], u'Positive_regulation']
+[[u'degradation', [663, 674]], u'Protein_catabolism']
+[[u'm-csf', [692, 697]], u'Protein']

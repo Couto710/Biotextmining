@@ -1,0 +1,22 @@
+denotations: 3
+[[u'gp160', [268, 273]], u'Protein']
+[[u'cxcr4', [335, 340]], u'Protein']
+[[u'ccr5', [425, 429]], u'Protein']
+
+
+geniatagger: 2
+[[u'cxcr4', [335, 340]], u'Protein']
+[[u'ccr5', [425, 429]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cxcr4', [335, 340]], u'Protein']
+[[u'ccr5', [425, 429]], u'Protein']
+
+
+total: 2
+[[u'cxcr4', [335, 340]], u'Protein']
+[[u'ccr5', [425, 429]], u'Protein']

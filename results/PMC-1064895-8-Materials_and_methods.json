@@ -1,0 +1,27 @@
+denotations: 6
+[[u'akt', [25, 28]], u'Protein']
+[[u'akt', [45, 48]], u'Protein']
+[[u'i\u03bab-\u03b1', [53, 58]], u'Protein']
+[[u'akt', [780, 783]], u'Protein']
+[[u'akt', [800, 803]], u'Protein']
+[[u'i\u03bab-\u03b1', [808, 813]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'akt', [25, 28]], u'Protein']
+[[u'akt', [45, 48]], u'Protein']
+[[u'akt', [780, 783]], u'Protein']
+[[u'akt', [800, 803]], u'Protein']
+
+
+total: 4
+[[u'akt', [25, 28]], u'Protein']
+[[u'akt', [45, 48]], u'Protein']
+[[u'akt', [780, 783]], u'Protein']
+[[u'akt', [800, 803]], u'Protein']

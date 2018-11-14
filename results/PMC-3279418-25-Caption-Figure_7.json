@@ -1,0 +1,28 @@
+denotations: 5
+[[u'secretion', [467, 476]], u'Gene_expression']
+[[u'ifn\u03b3', [480, 484]], u'Protein']
+[[u'il4', [486, 489]], u'Protein']
+[[u'il2', [495, 498]], u'Protein']
+[[u'production', [735, 745]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'il4', [486, 489]], u'Protein']
+[[u'il2', [495, 498]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'secretion', [467, 476]], u'Gene_expression']
+[[u'il4', [486, 489]], u'Protein']
+[[u'il2', [495, 498]], u'Protein']
+[[u'production', [735, 745]], u'Gene_expression']
+
+
+total: 4
+[[u'il4', [486, 489]], u'Protein']
+[[u'il2', [495, 498]], u'Protein']
+[[u'secretion', [467, 476]], u'Gene_expression']
+[[u'production', [735, 745]], u'Gene_expression']

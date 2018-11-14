@@ -1,0 +1,61 @@
+denotations: 20
+[[u'cbfb', [6, 10]], u'Protein']
+[[u'cd4', [14, 17]], u'Protein']
+[[u'cre', [18, 21]], u'Protein']
+[[u'foxp3', [26, 31]], u'Protein']
+[[u'gfp', [31, 34]], u'Protein']
+[[u'cd45.1', [115, 121]], u'Protein']
+[[u'rag2', [126, 130]], u'Protein']
+[[u'foxp3', [238, 243]], u'Protein']
+[[u'cd4', [268, 271]], u'Protein']
+[[u'cbfb', [286, 290]], u'Protein']
+[[u'cd4', [291, 294]], u'Protein']
+[[u'cre', [295, 298]], u'Protein']
+[[u'foxp3', [328, 333]], u'Protein']
+[[u'gfp', [339, 342]], u'Protein']
+[[u'rag', [384, 387]], u'Protein']
+[[u'deficient', [388, 397]], u'Negative_regulation']
+[[u'tcr\u03b2', [454, 458]], u'Protein']
+[[u'cd4', [459, 462]], u'Protein']
+[[u'foxp3-gfp', [582, 591]], u'Protein']
+[[u'expression', [592, 602]], u'Gene_expression']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 14
+[[u'cd4', [14, 17]], u'Protein']
+[[u'cre', [18, 21]], u'Protein']
+[[u'foxp3', [26, 31]], u'Protein']
+[[u'gfp', [31, 34]], u'Protein']
+[[u'rag2', [126, 130]], u'Protein']
+[[u'foxp3', [238, 243]], u'Protein']
+[[u'cd4', [268, 271]], u'Protein']
+[[u'cd4', [291, 294]], u'Protein']
+[[u'cre', [295, 298]], u'Protein']
+[[u'foxp3', [328, 333]], u'Protein']
+[[u'gfp', [339, 342]], u'Protein']
+[[u'deficient', [388, 397]], u'Negative_regulation']
+[[u'cd4', [459, 462]], u'Protein']
+[[u'expression', [592, 602]], u'Gene_expression']
+
+
+total: 14
+[[u'cd4', [14, 17]], u'Protein']
+[[u'cre', [18, 21]], u'Protein']
+[[u'foxp3', [26, 31]], u'Protein']
+[[u'gfp', [31, 34]], u'Protein']
+[[u'rag2', [126, 130]], u'Protein']
+[[u'foxp3', [238, 243]], u'Protein']
+[[u'cd4', [268, 271]], u'Protein']
+[[u'cd4', [291, 294]], u'Protein']
+[[u'cre', [295, 298]], u'Protein']
+[[u'foxp3', [328, 333]], u'Protein']
+[[u'gfp', [339, 342]], u'Protein']
+[[u'deficient', [388, 397]], u'Negative_regulation']
+[[u'cd4', [459, 462]], u'Protein']
+[[u'expression', [592, 602]], u'Gene_expression']

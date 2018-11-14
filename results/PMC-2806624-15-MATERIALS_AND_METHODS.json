@@ -1,0 +1,35 @@
+denotations: 11
+[[u'cd4', [18, 21]], u'Protein']
+[[u'cd4', [32, 35]], u'Protein']
+[[u'sirnas', [252, 258]], u'Negative_regulation']
+[[u'runx1', [263, 268]], u'Protein']
+[[u'sirnas', [322, 328]], u'Negative_regulation']
+[[u'runx3', [333, 338]], u'Protein']
+[[u'cd2', [590, 593]], u'Protein']
+[[u'cd3', [600, 603]], u'Protein']
+[[u'cd28', [614, 618]], u'Protein']
+[[u'aim-v', [654, 659]], u'Protein']
+[[u'il-2', [697, 701]], u'Protein']
+
+
+geniatagger: 3
+[[u'runx1', [263, 268]], u'Protein']
+[[u'runx3', [333, 338]], u'Protein']
+[[u'il-2', [697, 701]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'cd4', [18, 21]], u'Protein']
+[[u'cd4', [32, 35]], u'Protein']
+[[u'runx3', [333, 338]], u'Protein']
+
+
+total: 5
+[[u'runx1', [263, 268]], u'Protein']
+[[u'runx3', [333, 338]], u'Protein']
+[[u'il-2', [697, 701]], u'Protein']
+[[u'cd4', [18, 21]], u'Protein']
+[[u'cd4', [32, 35]], u'Protein']

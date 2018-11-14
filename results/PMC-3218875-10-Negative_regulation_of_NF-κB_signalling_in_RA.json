@@ -1,0 +1,70 @@
+denotations: 30
+[[u'mir-146a', [357, 365]], u'Protein']
+[[u'b', [366, 367]], u'Protein']
+[[u'mir-155', [372, 379]], u'Protein']
+[[u'il-1\u03b2', [511, 516]], u'Protein']
+[[u'tnf', [518, 521]], u'Protein']
+[[u'mir-146a', [553, 561]], u'Protein']
+[[u'irak1', [625, 630]], u'Protein']
+[[u'traf6', [635, 640]], u'Protein']
+[[u'mir-146a', [676, 684]], u'Protein']
+[[u'mir-155', [713, 720]], u'Protein']
+[[u'ikk\u03b5', [788, 792]], u'Protein']
+[[u'rip1', [797, 801]], u'Protein']
+[[u'mir-155', [837, 844]], u'Protein']
+[[u'mir-146a', [1002, 1010]], u'Protein']
+[[u'cd4', [1036, 1039]], u'Protein']
+[[u'il-17', [1045, 1050]], u'Protein']
+[[u'mir-146a', [1146, 1154]], u'Protein']
+[[u'mir-155', [1232, 1239]], u'Protein']
+[[u'mir-155', [1433, 1440]], u'Protein']
+[[u'tnf', [1462, 1465]], u'Protein']
+[[u'mir-155', [1536, 1543]], u'Protein']
+[[u'mir-155', [1934, 1941]], u'Protein']
+[[u'mir-124a', [2106, 2114]], u'Protein']
+[[u'monocyte chemoattractant protein 1', [2150, 2184]], u'Protein']
+[[u'mir-203', [2282, 2289]], u'Protein']
+[[u'matrix metalloproteinase-1', [2326, 2352]], u'Protein']
+[[u'il-6', [2357, 2361]], u'Protein']
+[[u'mir-16', [2420, 2426]], u'Protein']
+[[u'mir-132', [2428, 2435]], u'Protein']
+[[u'mir-223', [2441, 2448]], u'Protein']
+
+
+geniatagger: 8
+[[u'tnf', [518, 521]], u'Protein']
+[[u'irak1', [625, 630]], u'Protein']
+[[u'traf6', [635, 640]], u'Protein']
+[[u'rip1', [797, 801]], u'Protein']
+[[u'mir-146a', [1146, 1154]], u'Protein']
+[[u'tnf', [1462, 1465]], u'Protein']
+[[u'il-6', [2357, 2361]], u'Protein']
+[[u'mir-16', [2420, 2426]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'tnf', [518, 521]], u'Protein']
+[[u'irak1', [625, 630]], u'Protein']
+[[u'traf6', [635, 640]], u'Protein']
+[[u'rip1', [797, 801]], u'Protein']
+[[u'cd4', [1036, 1039]], u'Protein']
+[[u'tnf', [1462, 1465]], u'Protein']
+[[u'matrix metalloproteinase-1', [2326, 2352]], u'Protein']
+[[u'mir-223', [2441, 2448]], u'Protein']
+
+
+total: 11
+[[u'tnf', [518, 521]], u'Protein']
+[[u'irak1', [625, 630]], u'Protein']
+[[u'traf6', [635, 640]], u'Protein']
+[[u'rip1', [797, 801]], u'Protein']
+[[u'mir-146a', [1146, 1154]], u'Protein']
+[[u'tnf', [1462, 1465]], u'Protein']
+[[u'il-6', [2357, 2361]], u'Protein']
+[[u'mir-16', [2420, 2426]], u'Protein']
+[[u'cd4', [1036, 1039]], u'Protein']
+[[u'matrix metalloproteinase-1', [2326, 2352]], u'Protein']
+[[u'mir-223', [2441, 2448]], u'Protein']

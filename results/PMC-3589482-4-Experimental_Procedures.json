@@ -1,0 +1,24 @@
+denotations: 3
+[[u'serpinb2', [53, 61]], u'Protein']
+[[u'exonuclease iii', [258, 273]], u'Protein']
+[[u'serpinb2', [893, 901]], u'Protein']
+
+
+geniatagger: 2
+[[u'serpinb2', [53, 61]], u'Protein']
+[[u'serpinb2', [893, 901]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'serpinb2', [53, 61]], u'Protein']
+[[u'exonuclease iii', [258, 273]], u'Protein']
+[[u'serpinb2', [893, 901]], u'Protein']
+
+
+total: 3
+[[u'serpinb2', [53, 61]], u'Protein']
+[[u'serpinb2', [893, 901]], u'Protein']
+[[u'exonuclease iii', [258, 273]], u'Protein']

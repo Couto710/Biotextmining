@@ -1,0 +1,53 @@
+denotations: 12
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [148, 153]], u'Protein']
+[[u'm-csf', [253, 258]], u'Protein']
+[[u'm-csf', [409, 414]], u'Protein']
+[[u'm-csf', [590, 595]], u'Protein']
+[[u'm-csf', [938, 943]], u'Protein']
+[[u'm-csf', [986, 991]], u'Protein']
+[[u'm-csf', [1185, 1190]], u'Protein']
+[[u'increased', [1220, 1229]], u'Positive_regulation']
+[[u'nf-\u03bab', [1230, 1235]], u'Protein']
+[[u'activity', [1245, 1253]], u'Positive_regulation']
+[[u'm-csf', [1334, 1339]], u'Protein']
+
+
+geniatagger: 8
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [148, 153]], u'Protein']
+[[u'm-csf', [409, 414]], u'Protein']
+[[u'm-csf', [590, 595]], u'Protein']
+[[u'm-csf', [938, 943]], u'Protein']
+[[u'm-csf', [986, 991]], u'Protein']
+[[u'm-csf', [1185, 1190]], u'Protein']
+[[u'm-csf', [1334, 1339]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [148, 153]], u'Protein']
+[[u'm-csf', [253, 258]], u'Protein']
+[[u'm-csf', [409, 414]], u'Protein']
+[[u'm-csf', [590, 595]], u'Protein']
+[[u'm-csf', [938, 943]], u'Protein']
+[[u'm-csf', [986, 991]], u'Protein']
+[[u'm-csf', [1185, 1190]], u'Protein']
+[[u'activity', [1245, 1253]], u'Positive_regulation']
+[[u'm-csf', [1334, 1339]], u'Protein']
+
+
+total: 10
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [148, 153]], u'Protein']
+[[u'm-csf', [409, 414]], u'Protein']
+[[u'm-csf', [590, 595]], u'Protein']
+[[u'm-csf', [938, 943]], u'Protein']
+[[u'm-csf', [986, 991]], u'Protein']
+[[u'm-csf', [1185, 1190]], u'Protein']
+[[u'm-csf', [1334, 1339]], u'Protein']
+[[u'm-csf', [253, 258]], u'Protein']
+[[u'activity', [1245, 1253]], u'Positive_regulation']

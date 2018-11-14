@@ -1,0 +1,18 @@
+denotations: 2
+[[u'luciferase', [1330, 1340]], u'Protein']
+[[u'activity', [1341, 1349]], u'Positive_regulation']
+
+
+geniatagger: 1
+[[u'luciferase', [1330, 1340]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'luciferase', [1330, 1340]], u'Protein']
+
+
+total: 1
+[[u'luciferase', [1330, 1340]], u'Protein']

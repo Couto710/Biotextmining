@@ -1,0 +1,19 @@
+denotations: 2
+[[u'gapdh', [499, 504]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [506, 546]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'gapdh', [499, 504]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [506, 546]], u'Protein']
+
+
+total: 2
+[[u'gapdh', [499, 504]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [506, 546]], u'Protein']

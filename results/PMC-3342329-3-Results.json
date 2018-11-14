@@ -1,0 +1,38 @@
+denotations: 8
+[[u'ccr5', [46, 50]], u'Protein']
+[[u'ccr5', [170, 174]], u'Protein']
+[[u'ccr5', [460, 464]], u'Protein']
+[[u'p50', [530, 533]], u'Protein']
+[[u'p65', [540, 543]], u'Protein']
+[[u'ccr5', [653, 657]], u'Protein']
+[[u'p50', [765, 768]], u'Protein']
+[[u'ccr5', [807, 811]], u'Protein']
+
+
+geniatagger: 3
+[[u'ccr5', [170, 174]], u'Protein']
+[[u'p50', [530, 533]], u'Protein']
+[[u'p50', [765, 768]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'ccr5', [46, 50]], u'Protein']
+[[u'ccr5', [170, 174]], u'Protein']
+[[u'ccr5', [460, 464]], u'Protein']
+[[u'p65', [540, 543]], u'Protein']
+[[u'ccr5', [653, 657]], u'Protein']
+[[u'ccr5', [807, 811]], u'Protein']
+
+
+total: 8
+[[u'ccr5', [170, 174]], u'Protein']
+[[u'p50', [530, 533]], u'Protein']
+[[u'p50', [765, 768]], u'Protein']
+[[u'ccr5', [46, 50]], u'Protein']
+[[u'ccr5', [460, 464]], u'Protein']
+[[u'p65', [540, 543]], u'Protein']
+[[u'ccr5', [653, 657]], u'Protein']
+[[u'ccr5', [807, 811]], u'Protein']

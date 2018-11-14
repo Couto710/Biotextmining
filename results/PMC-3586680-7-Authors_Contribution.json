@@ -1,0 +1,21 @@
+denotations: 2
+[[u'p53', [109, 112]], u'Protein']
+[[u'wwox', [117, 121]], u'Protein']
+
+
+geniatagger: 2
+[[u'p53', [109, 112]], u'Protein']
+[[u'wwox', [117, 121]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'p53', [109, 112]], u'Protein']
+[[u'wwox', [117, 121]], u'Protein']
+
+
+total: 2
+[[u'p53', [109, 112]], u'Protein']
+[[u'wwox', [117, 121]], u'Protein']

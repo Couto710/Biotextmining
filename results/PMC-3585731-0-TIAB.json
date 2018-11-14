@@ -1,0 +1,38 @@
+denotations: 10
+[[u'tnf\u03b1', [14, 18]], u'Protein']
+[[u'rip1', [43, 47]], u'Protein']
+[[u'receptor interacting protein-1', [385, 415]], u'Protein']
+[[u'rip1', [417, 421]], u'Protein']
+[[u'tnf\u03b1', [530, 534]], u'Protein']
+[[u'rip1', [589, 593]], u'Protein']
+[[u'rip1', [749, 753]], u'Protein']
+[[u'rip1', [915, 919]], u'Protein']
+[[u'tnf\u03b1', [966, 970]], u'Protein']
+[[u'tnf\u03b1', [1091, 1095]], u'Protein']
+
+
+geniatagger: 5
+[[u'rip1', [43, 47]], u'Protein']
+[[u'rip1', [417, 421]], u'Protein']
+[[u'rip1', [589, 593]], u'Protein']
+[[u'rip1', [749, 753]], u'Protein']
+[[u'rip1', [915, 919]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'rip1', [43, 47]], u'Protein']
+[[u'rip1', [417, 421]], u'Protein']
+[[u'rip1', [589, 593]], u'Protein']
+[[u'rip1', [749, 753]], u'Protein']
+[[u'rip1', [915, 919]], u'Protein']
+
+
+total: 5
+[[u'rip1', [43, 47]], u'Protein']
+[[u'rip1', [417, 421]], u'Protein']
+[[u'rip1', [589, 593]], u'Protein']
+[[u'rip1', [749, 753]], u'Protein']
+[[u'rip1', [915, 919]], u'Protein']

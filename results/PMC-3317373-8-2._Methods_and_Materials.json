@@ -1,0 +1,22 @@
+denotations: 4
+[[u'interleukin-1 beta', [275, 293]], u'Protein']
+[[u'il-1\u03b2', [295, 300]], u'Protein']
+[[u'interleukin-6', [307, 320]], u'Protein']
+[[u'il-6', [322, 326]], u'Protein']
+
+
+geniatagger: 2
+[[u'interleukin-6', [307, 320]], u'Protein']
+[[u'il-6', [322, 326]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'interleukin-6', [307, 320]], u'Protein']
+
+
+total: 2
+[[u'interleukin-6', [307, 320]], u'Protein']
+[[u'il-6', [322, 326]], u'Protein']

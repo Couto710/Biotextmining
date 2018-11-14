@@ -1,0 +1,45 @@
+denotations: 16
+[[u'\u025by', [26, 28]], u'Protein']
+[[u'\u025by', [114, 116]], u'Protein']
+[[u'\u025by globin', [170, 179]], u'Protein']
+[[u'\u025b', [271, 272]], u'Protein']
+[[u'\u025b globin', [381, 389]], u'Protein']
+[[u'\u025by', [670, 672]], u'Protein']
+[[u'luciferase', [715, 725]], u'Protein']
+[[u'\u025by', [884, 886]], u'Protein']
+[[u'luciferase', [972, 982]], u'Protein']
+[[u'\u025by', [1011, 1013]], u'Protein']
+[[u'\u025by', [1063, 1065]], u'Protein']
+[[u'sox6', [1631, 1635]], u'Protein']
+[[u'sox6', [1674, 1678]], u'Protein']
+[[u'sox6', [1707, 1711]], u'Protein']
+[[u'sox6', [1738, 1742]], u'Protein']
+[[u'\u025by', [1883, 1885]], u'Protein']
+
+
+geniatagger: 4
+[[u'luciferase', [715, 725]], u'Protein']
+[[u'luciferase', [972, 982]], u'Protein']
+[[u'sox6', [1631, 1635]], u'Protein']
+[[u'sox6', [1674, 1678]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'luciferase', [715, 725]], u'Protein']
+[[u'luciferase', [972, 982]], u'Protein']
+[[u'sox6', [1631, 1635]], u'Protein']
+[[u'sox6', [1674, 1678]], u'Protein']
+[[u'sox6', [1707, 1711]], u'Protein']
+[[u'sox6', [1738, 1742]], u'Protein']
+
+
+total: 6
+[[u'luciferase', [715, 725]], u'Protein']
+[[u'luciferase', [972, 982]], u'Protein']
+[[u'sox6', [1631, 1635]], u'Protein']
+[[u'sox6', [1674, 1678]], u'Protein']
+[[u'sox6', [1707, 1711]], u'Protein']
+[[u'sox6', [1738, 1742]], u'Protein']

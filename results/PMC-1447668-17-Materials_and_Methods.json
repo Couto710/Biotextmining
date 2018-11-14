@@ -1,0 +1,41 @@
+denotations: 7
+[[u'foxp3', [955, 960]], u'Protein']
+[[u'foxp3', [998, 1003]], u'Protein']
+[[u'p65', [1195, 1198]], u'Protein']
+[[u'creb-1', [1203, 1209]], u'Protein']
+[[u'p65', [1260, 1263]], u'Protein']
+[[u'creb-1', [1289, 1295]], u'Protein']
+[[u'beta-actin', [1332, 1342]], u'Protein']
+
+
+geniatagger: 7
+[[u'foxp3', [955, 960]], u'Protein']
+[[u'foxp3', [998, 1003]], u'Protein']
+[[u'p65', [1195, 1198]], u'Protein']
+[[u'creb-1', [1203, 1209]], u'Protein']
+[[u'p65', [1260, 1263]], u'Protein']
+[[u'creb-1', [1289, 1295]], u'Protein']
+[[u'beta-actin', [1332, 1342]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'foxp3', [955, 960]], u'Protein']
+[[u'foxp3', [998, 1003]], u'Protein']
+[[u'p65', [1195, 1198]], u'Protein']
+[[u'creb-1', [1203, 1209]], u'Protein']
+[[u'p65', [1260, 1263]], u'Protein']
+[[u'creb-1', [1289, 1295]], u'Protein']
+[[u'beta-actin', [1332, 1342]], u'Protein']
+
+
+total: 7
+[[u'foxp3', [955, 960]], u'Protein']
+[[u'foxp3', [998, 1003]], u'Protein']
+[[u'p65', [1195, 1198]], u'Protein']
+[[u'creb-1', [1203, 1209]], u'Protein']
+[[u'p65', [1260, 1263]], u'Protein']
+[[u'creb-1', [1289, 1295]], u'Protein']
+[[u'beta-actin', [1332, 1342]], u'Protein']

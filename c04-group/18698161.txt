@@ -1,0 +1,9 @@
+genia tagger: 1('hexokinase', 1)
+
+
+spacy + metamap: 2('hexokinase', 1)
+('tumor growth', 1)
+
+
+total: 2('hexokinase', 1)
+('tumor growth', 1)

@@ -1,0 +1,22 @@
+denotations: 4
+[[u'gst-murine serpinb2 fusion protein', [504, 538]], u'Protein']
+[[u'c/ebp-\u03b2', [626, 633]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [673, 713]], u'Protein']
+[[u'gapdh', [715, 720]], u'Protein']
+
+
+geniatagger: 1
+[[u'gapdh', [715, 720]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [673, 713]], u'Protein']
+[[u'gapdh', [715, 720]], u'Protein']
+
+
+total: 2
+[[u'gapdh', [715, 720]], u'Protein']
+[[u'glyceraldehyde-3-phosphate dehydrogenase', [673, 713]], u'Protein']

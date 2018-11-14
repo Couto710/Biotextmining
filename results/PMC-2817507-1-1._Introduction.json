@@ -1,0 +1,30 @@
+denotations: 7
+[[u'tlr4', [1052, 1056]], u'Protein']
+[[u'tlr4', [1547, 1551]], u'Protein']
+[[u'tlr4', [1771, 1775]], u'Protein']
+[[u'tlr4', [1855, 1859]], u'Protein']
+[[u'tlr4', [1887, 1891]], u'Protein']
+[[u'tlr4', [2026, 2030]], u'Protein']
+[[u'tlr4', [2077, 2081]], u'Protein']
+
+
+geniatagger: 5
+[[u'tlr4', [1052, 1056]], u'Protein']
+[[u'tlr4', [1547, 1551]], u'Protein']
+[[u'tlr4', [1771, 1775]], u'Protein']
+[[u'tlr4', [1855, 1859]], u'Protein']
+[[u'tlr4', [1887, 1891]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 5
+[[u'tlr4', [1052, 1056]], u'Protein']
+[[u'tlr4', [1547, 1551]], u'Protein']
+[[u'tlr4', [1771, 1775]], u'Protein']
+[[u'tlr4', [1855, 1859]], u'Protein']
+[[u'tlr4', [1887, 1891]], u'Protein']

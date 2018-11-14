@@ -1,0 +1,68 @@
+denotations: 17
+[[u'latent membrane protein 1', [4, 29]], u'Protein']
+[[u'activates', [30, 39]], u'Positive_regulation']
+[[u'akt', [40, 43]], u'Protein']
+[[u'stat3', [55, 60]], u'Protein']
+[[u'latent membrane protein 1', [81, 106]], u'Protein']
+[[u'lmp1', [108, 112]], u'Protein']
+[[u'lmp1', [188, 192]], u'Protein']
+[[u'inhibitors', [440, 450]], u'Negative_regulation']
+[[u'akt', [454, 457]], u'Protein']
+[[u'stat3', [469, 474]], u'Protein']
+[[u'lmp1', [507, 511]], u'Protein']
+[[u'il4', [598, 601]], u'Protein']
+[[u'stat6', [602, 607]], u'Protein']
+[[u'stat3', [684, 689]], u'Protein']
+[[u'deregulated', [729, 740]], u'Regulation']
+[[u'akt', [849, 852]], u'Protein']
+[[u'stat3', [864, 869]], u'Protein']
+
+
+geniatagger: 10
+[[u'akt', [40, 43]], u'Protein']
+[[u'stat3', [55, 60]], u'Protein']
+[[u'lmp1', [108, 112]], u'Protein']
+[[u'lmp1', [188, 192]], u'Protein']
+[[u'akt', [454, 457]], u'Protein']
+[[u'stat3', [469, 474]], u'Protein']
+[[u'lmp1', [507, 511]], u'Protein']
+[[u'stat3', [684, 689]], u'Protein']
+[[u'akt', [849, 852]], u'Protein']
+[[u'stat3', [864, 869]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 14
+[[u'activates', [30, 39]], u'Positive_regulation']
+[[u'akt', [40, 43]], u'Protein']
+[[u'stat3', [55, 60]], u'Protein']
+[[u'lmp1', [108, 112]], u'Protein']
+[[u'lmp1', [188, 192]], u'Protein']
+[[u'inhibitors', [440, 450]], u'Negative_regulation']
+[[u'akt', [454, 457]], u'Protein']
+[[u'stat3', [469, 474]], u'Protein']
+[[u'lmp1', [507, 511]], u'Protein']
+[[u'il4', [598, 601]], u'Protein']
+[[u'stat6', [602, 607]], u'Protein']
+[[u'stat3', [684, 689]], u'Protein']
+[[u'akt', [849, 852]], u'Protein']
+[[u'stat3', [864, 869]], u'Protein']
+
+
+total: 14
+[[u'akt', [40, 43]], u'Protein']
+[[u'stat3', [55, 60]], u'Protein']
+[[u'lmp1', [108, 112]], u'Protein']
+[[u'lmp1', [188, 192]], u'Protein']
+[[u'akt', [454, 457]], u'Protein']
+[[u'stat3', [469, 474]], u'Protein']
+[[u'lmp1', [507, 511]], u'Protein']
+[[u'stat3', [684, 689]], u'Protein']
+[[u'akt', [849, 852]], u'Protein']
+[[u'stat3', [864, 869]], u'Protein']
+[[u'activates', [30, 39]], u'Positive_regulation']
+[[u'inhibitors', [440, 450]], u'Negative_regulation']
+[[u'il4', [598, 601]], u'Protein']
+[[u'stat6', [602, 607]], u'Protein']

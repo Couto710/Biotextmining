@@ -1,0 +1,34 @@
+denotations: 9
+[[u'cd8', [47, 50]], u'Protein']
+[[u'tcra', [76, 80]], u'Protein']
+[[u'tbx21', [132, 137]], u'Protein']
+[[u'cd8', [275, 278]], u'Protein']
+[[u'runx3', [293, 298]], u'Protein']
+[[u'cd8', [616, 619]], u'Protein']
+[[u'cd3', [714, 717]], u'Protein']
+[[u'cd28', [740, 744]], u'Protein']
+[[u'rhil-2', [1096, 1102]], u'Protein']
+
+
+geniatagger: 1
+[[u'rhil-2', [1096, 1102]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'cd8', [47, 50]], u'Protein']
+[[u'tbx21', [132, 137]], u'Protein']
+[[u'cd8', [275, 278]], u'Protein']
+[[u'runx3', [293, 298]], u'Protein']
+[[u'cd8', [616, 619]], u'Protein']
+
+
+total: 6
+[[u'rhil-2', [1096, 1102]], u'Protein']
+[[u'cd8', [47, 50]], u'Protein']
+[[u'tbx21', [132, 137]], u'Protein']
+[[u'cd8', [275, 278]], u'Protein']
+[[u'runx3', [293, 298]], u'Protein']
+[[u'cd8', [616, 619]], u'Protein']

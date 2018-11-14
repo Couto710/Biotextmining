@@ -1,0 +1,35 @@
+denotations: 8
+[[u'co-transfection', [384, 399]], u'Gene_expression']
+[[u'pkc\u03b1', [409, 413]], u'Protein']
+[[u'p65', [423, 426]], u'Protein']
+[[u'pkc\u03b1 sirna', [528, 538]], u'Protein']
+[[u'm-csf', [732, 737]], u'Protein']
+[[u'm-csf', [900, 905]], u'Protein']
+[[u'gfp', [988, 991]], u'Protein']
+[[u'expression', [992, 1002]], u'Gene_expression']
+
+
+geniatagger: 4
+[[u'p65', [423, 426]], u'Protein']
+[[u'm-csf', [732, 737]], u'Protein']
+[[u'm-csf', [900, 905]], u'Protein']
+[[u'gfp', [988, 991]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'p65', [423, 426]], u'Protein']
+[[u'm-csf', [732, 737]], u'Protein']
+[[u'm-csf', [900, 905]], u'Protein']
+[[u'gfp', [988, 991]], u'Protein']
+[[u'expression', [992, 1002]], u'Gene_expression']
+
+
+total: 5
+[[u'p65', [423, 426]], u'Protein']
+[[u'm-csf', [732, 737]], u'Protein']
+[[u'm-csf', [900, 905]], u'Protein']
+[[u'gfp', [988, 991]], u'Protein']
+[[u'expression', [992, 1002]], u'Gene_expression']

@@ -1,0 +1,37 @@
+denotations: 10
+[[u'tat', [0, 3]], u'Protein']
+[[u'associating', [61, 72]], u'Binding']
+[[u'i\u03bab-\u03b1', [78, 83]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+[[u'p65', [462, 465]], u'Protein']
+[[u'p50', [467, 470]], u'Protein']
+[[u'flag-tat', [475, 483]], u'Protein']
+[[u'binding', [484, 491]], u'Binding']
+[[u'tat', [1087, 1090]], u'Protein']
+[[u'protein g', [1291, 1300]], u'Protein']
+
+
+geniatagger: 3
+[[u'tat', [0, 3]], u'Protein']
+[[u'p65', [462, 465]], u'Protein']
+[[u'p50', [467, 470]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'tat', [0, 3]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+[[u'p65', [462, 465]], u'Protein']
+[[u'tat', [1087, 1090]], u'Protein']
+[[u'protein g', [1291, 1300]], u'Protein']
+
+
+total: 6
+[[u'tat', [0, 3]], u'Protein']
+[[u'p65', [462, 465]], u'Protein']
+[[u'p50', [467, 470]], u'Protein']
+[[u'tat', [175, 178]], u'Protein']
+[[u'tat', [1087, 1090]], u'Protein']
+[[u'protein g', [1291, 1300]], u'Protein']

@@ -1,0 +1,23 @@
+denotations: 3
+[[u'luciferase', [796, 806]], u'Protein']
+[[u'reporter gene', [1036, 1049]], u'Protein']
+[[u'luciferase', [1085, 1095]], u'Protein']
+
+
+geniatagger: 1
+[[u'luciferase', [796, 806]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'luciferase', [796, 806]], u'Protein']
+[[u'reporter gene', [1036, 1049]], u'Protein']
+[[u'luciferase', [1085, 1095]], u'Protein']
+
+
+total: 3
+[[u'luciferase', [796, 806]], u'Protein']
+[[u'reporter gene', [1036, 1049]], u'Protein']
+[[u'luciferase', [1085, 1095]], u'Protein']

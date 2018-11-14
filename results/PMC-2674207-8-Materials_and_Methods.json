@@ -1,0 +1,38 @@
+denotations: 8
+[[u'gr', [0, 2]], u'Protein']
+[[u'gata-3', [3, 9]], u'Protein']
+[[u'gata-3', [259, 265]], u'Protein']
+[[u'gr', [365, 367]], u'Protein']
+[[u'gata-3', [636, 642]], u'Protein']
+[[u'gr', [743, 745]], u'Protein']
+[[u'gata-3', [1140, 1146]], u'Protein']
+[[u'gr', [1248, 1250]], u'Protein']
+
+
+geniatagger: 6
+[[u'gata-3', [259, 265]], u'Protein']
+[[u'gr', [365, 367]], u'Protein']
+[[u'gata-3', [636, 642]], u'Protein']
+[[u'gr', [743, 745]], u'Protein']
+[[u'gata-3', [1140, 1146]], u'Protein']
+[[u'gr', [1248, 1250]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'gata-3', [3, 9]], u'Protein']
+[[u'gata-3', [259, 265]], u'Protein']
+[[u'gata-3', [636, 642]], u'Protein']
+[[u'gata-3', [1140, 1146]], u'Protein']
+
+
+total: 7
+[[u'gata-3', [259, 265]], u'Protein']
+[[u'gr', [365, 367]], u'Protein']
+[[u'gata-3', [636, 642]], u'Protein']
+[[u'gr', [743, 745]], u'Protein']
+[[u'gata-3', [1140, 1146]], u'Protein']
+[[u'gr', [1248, 1250]], u'Protein']
+[[u'gata-3', [3, 9]], u'Protein']

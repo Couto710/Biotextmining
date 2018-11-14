@@ -1,0 +1,49 @@
+denotations: 15
+[[u'induces', [45, 52]], u'Positive_regulation']
+[[u'tnf', [53, 56]], u'Protein']
+[[u'secretion', [57, 66]], u'Localization']
+[[u'icam-1', [71, 77]], u'Protein']
+[[u'upregulation', [78, 90]], u'Positive_regulation']
+[[u'through', [104, 111]], u'Positive_regulation']
+[[u'icam-1', [613, 619]], u'Protein']
+[[u'adhesion molecule', [620, 637]], u'Protein']
+[[u'increased', [932, 941]], u'Positive_regulation']
+[[u'icam-1', [942, 948]], u'Protein']
+[[u'expression', [949, 959]], u'Gene_expression']
+[[u'stimulated', [1167, 1177]], u'Positive_regulation']
+[[u'tnf-\u03b1', [1178, 1183]], u'Protein']
+[[u'expression', [1184, 1194]], u'Gene_expression']
+[[u'secretion', [1199, 1208]], u'Localization']
+
+
+geniatagger: 4
+[[u'tnf', [53, 56]], u'Protein']
+[[u'icam-1', [71, 77]], u'Protein']
+[[u'icam-1', [613, 619]], u'Protein']
+[[u'icam-1', [942, 948]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'tnf', [53, 56]], u'Protein']
+[[u'secretion', [57, 66]], u'Localization']
+[[u'upregulation', [78, 90]], u'Positive_regulation']
+[[u'adhesion molecule', [620, 637]], u'Protein']
+[[u'expression', [949, 959]], u'Gene_expression']
+[[u'expression', [1184, 1194]], u'Gene_expression']
+[[u'secretion', [1199, 1208]], u'Localization']
+
+
+total: 10
+[[u'tnf', [53, 56]], u'Protein']
+[[u'icam-1', [71, 77]], u'Protein']
+[[u'icam-1', [613, 619]], u'Protein']
+[[u'icam-1', [942, 948]], u'Protein']
+[[u'secretion', [57, 66]], u'Localization']
+[[u'upregulation', [78, 90]], u'Positive_regulation']
+[[u'adhesion molecule', [620, 637]], u'Protein']
+[[u'expression', [949, 959]], u'Gene_expression']
+[[u'expression', [1184, 1194]], u'Gene_expression']
+[[u'secretion', [1199, 1208]], u'Localization']

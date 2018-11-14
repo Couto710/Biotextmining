@@ -1,0 +1,63 @@
+denotations: 11
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'lmp1', [98, 102]], u'Protein']
+[[u'il4', [201, 204]], u'Protein']
+[[u'lmp1', [402, 406]], u'Protein']
+[[u'lmp1', [446, 450]], u'Protein']
+[[u'cd19', [494, 498]], u'Protein']
+[[u'lmp1', [530, 534]], u'Protein']
+[[u'il4', [639, 642]], u'Protein']
+[[u'lmp1', [712, 716]], u'Protein']
+[[u'il4', [768, 771]], u'Protein']
+[[u'lmp1', [826, 830]], u'Protein']
+
+
+geniatagger: 10
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'lmp1', [98, 102]], u'Protein']
+[[u'il4', [201, 204]], u'Protein']
+[[u'lmp1', [402, 406]], u'Protein']
+[[u'lmp1', [446, 450]], u'Protein']
+[[u'lmp1', [530, 534]], u'Protein']
+[[u'il4', [639, 642]], u'Protein']
+[[u'lmp1', [712, 716]], u'Protein']
+[[u'il4', [768, 771]], u'Protein']
+[[u'lmp1', [826, 830]], u'Protein']
+
+
+metamapper: 7
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'lmp1', [98, 102]], u'Protein']
+[[u'lmp1', [402, 406]], u'Protein']
+[[u'lmp1', [446, 450]], u'Protein']
+[[u'lmp1', [530, 534]], u'Protein']
+[[u'lmp1', [712, 716]], u'Protein']
+[[u'lmp1', [826, 830]], u'Protein']
+
+
+spacy + metamapper: 11
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'lmp1', [98, 102]], u'Protein']
+[[u'il4', [201, 204]], u'Protein']
+[[u'lmp1', [402, 406]], u'Protein']
+[[u'lmp1', [446, 450]], u'Protein']
+[[u'cd19', [494, 498]], u'Protein']
+[[u'lmp1', [530, 534]], u'Protein']
+[[u'il4', [639, 642]], u'Protein']
+[[u'lmp1', [712, 716]], u'Protein']
+[[u'il4', [768, 771]], u'Protein']
+[[u'lmp1', [826, 830]], u'Protein']
+
+
+total: 11
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'lmp1', [98, 102]], u'Protein']
+[[u'il4', [201, 204]], u'Protein']
+[[u'lmp1', [402, 406]], u'Protein']
+[[u'lmp1', [446, 450]], u'Protein']
+[[u'lmp1', [530, 534]], u'Protein']
+[[u'il4', [639, 642]], u'Protein']
+[[u'lmp1', [712, 716]], u'Protein']
+[[u'il4', [768, 771]], u'Protein']
+[[u'lmp1', [826, 830]], u'Protein']
+[[u'cd19', [494, 498]], u'Protein']

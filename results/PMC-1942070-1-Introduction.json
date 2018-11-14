@@ -1,0 +1,52 @@
+denotations: 13
+[[u'pkd1', [78, 82]], u'Protein']
+[[u'pkd2', [84, 88]], u'Protein']
+[[u'pkd3', [93, 97]], u'Protein']
+[[u'binding', [702, 709]], u'Binding']
+[[u'contributes', [722, 733]], u'Positive_regulation']
+[[u'pkd1', [737, 741]], u'Protein']
+[[u'activation', [742, 752]], u'Positive_regulation']
+[[u'pkd1', [1360, 1364]], u'Protein']
+[[u'hsp27', [1378, 1383]], u'Protein']
+[[u'mef2', [1587, 1591]], u'Protein']
+[[u'indispensable', [2140, 2153]], u'Positive_regulation']
+[[u'hsp27', [2158, 2163]], u'Protein']
+[[u'phosphorylation', [2164, 2179]], u'Phosphorylation']
+
+
+geniatagger: 7
+[[u'pkd1', [78, 82]], u'Protein']
+[[u'pkd2', [84, 88]], u'Protein']
+[[u'pkd3', [93, 97]], u'Protein']
+[[u'pkd1', [737, 741]], u'Protein']
+[[u'pkd1', [1360, 1364]], u'Protein']
+[[u'hsp27', [1378, 1383]], u'Protein']
+[[u'hsp27', [2158, 2163]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'pkd1', [78, 82]], u'Protein']
+[[u'pkd3', [93, 97]], u'Protein']
+[[u'binding', [702, 709]], u'Binding']
+[[u'pkd1', [737, 741]], u'Protein']
+[[u'activation', [742, 752]], u'Positive_regulation']
+[[u'pkd1', [1360, 1364]], u'Protein']
+[[u'hsp27', [1378, 1383]], u'Protein']
+[[u'hsp27', [2158, 2163]], u'Protein']
+[[u'phosphorylation', [2164, 2179]], u'Phosphorylation']
+
+
+total: 10
+[[u'pkd1', [78, 82]], u'Protein']
+[[u'pkd2', [84, 88]], u'Protein']
+[[u'pkd3', [93, 97]], u'Protein']
+[[u'pkd1', [737, 741]], u'Protein']
+[[u'pkd1', [1360, 1364]], u'Protein']
+[[u'hsp27', [1378, 1383]], u'Protein']
+[[u'hsp27', [2158, 2163]], u'Protein']
+[[u'binding', [702, 709]], u'Binding']
+[[u'activation', [742, 752]], u'Positive_regulation']
+[[u'phosphorylation', [2164, 2179]], u'Phosphorylation']

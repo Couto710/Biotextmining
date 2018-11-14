@@ -1,0 +1,29 @@
+denotations: 10
+[[u'tnf-\u03b1', [0, 5]], u'Protein']
+[[u'tnf-\u03b1', [91, 96]], u'Protein']
+[[u'tnf-\u03b1', [266, 271]], u'Protein']
+[[u'tnfp55r', [420, 427]], u'Protein']
+[[u'tnfp75r', [432, 439]], u'Protein']
+[[u'tnfp55r', [571, 578]], u'Protein']
+[[u'tnfp55r', [643, 650]], u'Protein']
+[[u'tnfp75r', [652, 659]], u'Protein']
+[[u'tnfp55r', [782, 789]], u'Protein']
+[[u'tnfp75r', [794, 801]], u'Protein']
+
+
+geniatagger: 3
+[[u'tnfp55r', [420, 427]], u'Protein']
+[[u'tnfp55r', [643, 650]], u'Protein']
+[[u'tnfp55r', [782, 789]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 3
+[[u'tnfp55r', [420, 427]], u'Protein']
+[[u'tnfp55r', [643, 650]], u'Protein']
+[[u'tnfp55r', [782, 789]], u'Protein']

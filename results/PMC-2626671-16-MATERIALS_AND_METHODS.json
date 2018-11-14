@@ -1,0 +1,23 @@
+denotations: 3
+[[u'cd8', [79, 82]], u'Protein']
+[[u'runx3', [97, 102]], u'Protein']
+[[u'runx3', [157, 162]], u'Protein']
+
+
+geniatagger: 1
+[[u'runx3', [157, 162]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'cd8', [79, 82]], u'Protein']
+[[u'runx3', [97, 102]], u'Protein']
+[[u'runx3', [157, 162]], u'Protein']
+
+
+total: 3
+[[u'runx3', [157, 162]], u'Protein']
+[[u'cd8', [79, 82]], u'Protein']
+[[u'runx3', [97, 102]], u'Protein']

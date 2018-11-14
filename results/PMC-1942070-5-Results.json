@@ -1,0 +1,67 @@
+denotations: 23
+[[u'pkd1', [362, 366]], u'Protein']
+[[u'3', [367, 368]], u'Protein']
+[[u'pkd3', [378, 382]], u'Protein']
+[[u'pkd1', [399, 403]], u'Protein']
+[[u'3', [404, 405]], u'Protein']
+[[u'pkd1', [480, 484]], u'Protein']
+[[u'3', [485, 486]], u'Protein']
+[[u're-expression', [527, 540]], u'Gene_expression']
+[[u'pkd3', [549, 553]], u'Protein']
+[[u'pkd1', [643, 647]], u'Protein']
+[[u'3', [648, 649]], u'Protein']
+[[u'pkd1', [817, 821]], u'Protein']
+[[u'3', [822, 823]], u'Protein']
+[[u'pkd3', [941, 945]], u'Protein']
+[[u're-expression', [946, 959]], u'Gene_expression']
+[[u'pkd1', [996, 1000]], u'Protein']
+[[u'3', [1001, 1002]], u'Protein']
+[[u'pkd1', [1289, 1293]], u'Protein']
+[[u'pkd2', [1298, 1302]], u'Protein']
+[[u'loss', [1618, 1622]], u'Negative_regulation']
+[[u'pkd1', [1626, 1630]], u'Protein']
+[[u'3', [1631, 1632]], u'Protein']
+[[u'expression', [1633, 1643]], u'Gene_expression']
+
+
+geniatagger: 3
+[[u'pkd3', [941, 945]], u'Protein']
+[[u'pkd1', [1289, 1293]], u'Protein']
+[[u'pkd2', [1298, 1302]], u'Protein']
+
+
+metamapper: 1
+[[u'expression', [1633, 1643]], u'Gene_expression']
+
+
+spacy + metamapper: 13
+[[u'pkd1', [362, 366]], u'Protein']
+[[u'pkd3', [378, 382]], u'Protein']
+[[u'pkd1', [399, 403]], u'Protein']
+[[u'pkd1', [480, 484]], u'Protein']
+[[u'pkd3', [549, 553]], u'Protein']
+[[u'pkd1', [643, 647]], u'Protein']
+[[u'pkd1', [817, 821]], u'Protein']
+[[u'pkd3', [941, 945]], u'Protein']
+[[u'pkd1', [996, 1000]], u'Protein']
+[[u'pkd1', [1289, 1293]], u'Protein']
+[[u'loss', [1618, 1622]], u'Negative_regulation']
+[[u'pkd1', [1626, 1630]], u'Protein']
+[[u'expression', [1633, 1643]], u'Gene_expression']
+
+
+total: 14
+[[u'pkd3', [941, 945]], u'Protein']
+[[u'pkd1', [1289, 1293]], u'Protein']
+[[u'pkd2', [1298, 1302]], u'Protein']
+[[u'expression', [1633, 1643]], u'Gene_expression']
+[[u'pkd1', [362, 366]], u'Protein']
+[[u'pkd3', [378, 382]], u'Protein']
+[[u'pkd1', [399, 403]], u'Protein']
+[[u'pkd1', [480, 484]], u'Protein']
+[[u'pkd3', [549, 553]], u'Protein']
+[[u'pkd1', [643, 647]], u'Protein']
+[[u'pkd1', [817, 821]], u'Protein']
+[[u'pkd1', [996, 1000]], u'Protein']
+[[u'loss', [1618, 1622]], u'Negative_regulation']
+[[u'pkd1', [1626, 1630]], u'Protein']

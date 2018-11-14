@@ -1,0 +1,63 @@
+denotations: 19
+[[u'cd4', [18, 21]], u'Protein']
+[[u'il-2', [57, 61]], u'Protein']
+[[u'il-2', [75, 79]], u'Protein']
+[[u'cd2', [86, 89]], u'Protein']
+[[u'3', [90, 91]], u'Protein']
+[[u'28', [92, 94]], u'Protein']
+[[u'tgf-\u03b2', [100, 105]], u'Protein']
+[[u'runx1', [743, 748]], u'Protein']
+[[u'runx3', [791, 796]], u'Protein']
+[[u'cbf\u03b2', [839, 843]], u'Protein']
+[[u'rna polymerase ii', [975, 992]], u'Protein']
+[[u'protein a', [1094, 1103]], u'Protein']
+[[u'proteinase k', [1231, 1243]], u'Protein']
+[[u'proteinase k', [1268, 1280]], u'Protein']
+[[u'foxp3', [1417, 1422]], u'Protein']
+[[u'foxp3', [1469, 1474]], u'Protein']
+[[u'foxp3', [1525, 1530]], u'Protein']
+[[u'gapdh', [1599, 1604]], u'Protein']
+[[u'rna polymerase ii', [1637, 1654]], u'Protein']
+
+
+geniatagger: 6
+[[u'il-2', [57, 61]], u'Protein']
+[[u'il-2', [75, 79]], u'Protein']
+[[u'runx1', [743, 748]], u'Protein']
+[[u'runx3', [791, 796]], u'Protein']
+[[u'foxp3', [1417, 1422]], u'Protein']
+[[u'foxp3', [1469, 1474]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'cd4', [18, 21]], u'Protein']
+[[u'runx3', [791, 796]], u'Protein']
+[[u'rna polymerase ii', [975, 992]], u'Protein']
+[[u'protein a', [1094, 1103]], u'Protein']
+[[u'proteinase k', [1231, 1243]], u'Protein']
+[[u'proteinase k', [1268, 1280]], u'Protein']
+[[u'foxp3', [1417, 1422]], u'Protein']
+[[u'foxp3', [1469, 1474]], u'Protein']
+[[u'foxp3', [1525, 1530]], u'Protein']
+[[u'gapdh', [1599, 1604]], u'Protein']
+[[u'rna polymerase ii', [1637, 1654]], u'Protein']
+
+
+total: 14
+[[u'il-2', [57, 61]], u'Protein']
+[[u'il-2', [75, 79]], u'Protein']
+[[u'runx1', [743, 748]], u'Protein']
+[[u'runx3', [791, 796]], u'Protein']
+[[u'foxp3', [1417, 1422]], u'Protein']
+[[u'foxp3', [1469, 1474]], u'Protein']
+[[u'cd4', [18, 21]], u'Protein']
+[[u'rna polymerase ii', [975, 992]], u'Protein']
+[[u'protein a', [1094, 1103]], u'Protein']
+[[u'proteinase k', [1231, 1243]], u'Protein']
+[[u'proteinase k', [1268, 1280]], u'Protein']
+[[u'foxp3', [1525, 1530]], u'Protein']
+[[u'gapdh', [1599, 1604]], u'Protein']
+[[u'rna polymerase ii', [1637, 1654]], u'Protein']

@@ -1,0 +1,44 @@
+denotations: 8
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'luciferase', [422, 432]], u'Protein']
+[[u'luciferase', [1485, 1495]], u'Protein']
+[[u'nfat5', [1766, 1771]], u'Protein']
+[[u'luciferase', [2132, 2142]], u'Protein']
+[[u'nfat5', [2344, 2349]], u'Protein']
+[[u'lamin-b1', [2607, 2615]], u'Protein']
+[[u'nfat5', [2697, 2702]], u'Protein']
+
+
+geniatagger: 8
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'luciferase', [422, 432]], u'Protein']
+[[u'luciferase', [1485, 1495]], u'Protein']
+[[u'nfat5', [1766, 1771]], u'Protein']
+[[u'luciferase', [2132, 2142]], u'Protein']
+[[u'nfat5', [2344, 2349]], u'Protein']
+[[u'lamin-b1', [2607, 2615]], u'Protein']
+[[u'nfat5', [2697, 2702]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'luciferase', [422, 432]], u'Protein']
+[[u'luciferase', [1485, 1495]], u'Protein']
+[[u'nfat5', [1766, 1771]], u'Protein']
+[[u'luciferase', [2132, 2142]], u'Protein']
+[[u'nfat5', [2344, 2349]], u'Protein']
+[[u'nfat5', [2697, 2702]], u'Protein']
+
+
+total: 8
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'luciferase', [422, 432]], u'Protein']
+[[u'luciferase', [1485, 1495]], u'Protein']
+[[u'nfat5', [1766, 1771]], u'Protein']
+[[u'luciferase', [2132, 2142]], u'Protein']
+[[u'nfat5', [2344, 2349]], u'Protein']
+[[u'lamin-b1', [2607, 2615]], u'Protein']
+[[u'nfat5', [2697, 2702]], u'Protein']

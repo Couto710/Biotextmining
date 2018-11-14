@@ -1,0 +1,52 @@
+denotations: 20
+[[u'mip-2', [0, 5]], u'Protein']
+[[u'mip-2', [17, 22]], u'Protein']
+[[u'chemokine', [37, 46]], u'Protein']
+[[u'mip-2', [100, 105]], u'Protein']
+[[u'tnf-\u03b1', [243, 248]], u'Protein']
+[[u'interleukin-1\u03b2', [256, 270]], u'Protein']
+[[u'il-1\u03b2', [272, 277]], u'Protein']
+[[u'tnf-\u03b1', [339, 344]], u'Protein']
+[[u'mip-2', [354, 359]], u'Protein']
+[[u'mip-2', [464, 469]], u'Protein']
+[[u'mip-2', [538, 543]], u'Protein']
+[[u'mip-2', [721, 726]], u'Protein']
+[[u'tnfp55r', [777, 784]], u'Protein']
+[[u'mip-2', [953, 958]], u'Protein']
+[[u'tnfp55r', [1016, 1023]], u'Protein']
+[[u'mip-2', [1107, 1112]], u'Protein']
+[[u'tnfp55r', [1347, 1354]], u'Protein']
+[[u'tnf-\u03b1', [1407, 1412]], u'Protein']
+[[u'tnf-\u03b1', [1529, 1534]], u'Protein']
+[[u'mip-2', [1544, 1549]], u'Protein']
+
+
+geniatagger: 9
+[[u'mip-2', [0, 5]], u'Protein']
+[[u'mip-2', [17, 22]], u'Protein']
+[[u'chemokine', [37, 46]], u'Protein']
+[[u'mip-2', [100, 105]], u'Protein']
+[[u'mip-2', [354, 359]], u'Protein']
+[[u'mip-2', [464, 469]], u'Protein']
+[[u'mip-2', [721, 726]], u'Protein']
+[[u'mip-2', [953, 958]], u'Protein']
+[[u'mip-2', [1544, 1549]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'chemokine', [37, 46]], u'Protein']
+
+
+total: 9
+[[u'mip-2', [0, 5]], u'Protein']
+[[u'mip-2', [17, 22]], u'Protein']
+[[u'chemokine', [37, 46]], u'Protein']
+[[u'mip-2', [100, 105]], u'Protein']
+[[u'mip-2', [354, 359]], u'Protein']
+[[u'mip-2', [464, 469]], u'Protein']
+[[u'mip-2', [721, 726]], u'Protein']
+[[u'mip-2', [953, 958]], u'Protein']
+[[u'mip-2', [1544, 1549]], u'Protein']

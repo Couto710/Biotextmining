@@ -1,0 +1,71 @@
+denotations: 19
+[[u'p100', [1020, 1024]], u'Protein']
+[[u'nf-\u03bab2', [1028, 1034]], u'Protein']
+[[u'p105', [1036, 1040]], u'Protein']
+[[u'nf-\u03bab1', [1044, 1050]], u'Protein']
+[[u'p65', [1052, 1055]], u'Protein']
+[[u'rela', [1059, 1063]], u'Protein']
+[[u'relb', [1065, 1069]], u'Protein']
+[[u'c-rel', [1071, 1076]], u'Protein']
+[[u'tnf', [1197, 1200]], u'Protein']
+[[u'il-6', [1208, 1212]], u'Protein']
+[[u'cyclo-oxygenase-2', [1214, 1231]], u'Protein']
+[[u'inducible nitric oxide synthase', [1245, 1276]], u'Protein']
+[[u'tnf', [1348, 1351]], u'Protein']
+[[u'receptor activator of nf-\u03bab ligand', [1967, 2001]], u'Protein']
+[[u'rankl', [2003, 2008]], u'Protein']
+[[u'cd40', [2253, 2257]], u'Protein']
+[[u'traf1', [2259, 2264]], u'Protein']
+[[u'tnfaip3', [2266, 2273]], u'Protein']
+[[u'c-rel', [2279, 2284]], u'Protein']
+
+
+geniatagger: 15
+[[u'p100', [1020, 1024]], u'Protein']
+[[u'p105', [1036, 1040]], u'Protein']
+[[u'p65', [1052, 1055]], u'Protein']
+[[u'rela', [1059, 1063]], u'Protein']
+[[u'relb', [1065, 1069]], u'Protein']
+[[u'c-rel', [1071, 1076]], u'Protein']
+[[u'tnf', [1197, 1200]], u'Protein']
+[[u'il-6', [1208, 1212]], u'Protein']
+[[u'cyclo-oxygenase-2', [1214, 1231]], u'Protein']
+[[u'tnf', [1348, 1351]], u'Protein']
+[[u'rankl', [2003, 2008]], u'Protein']
+[[u'cd40', [2253, 2257]], u'Protein']
+[[u'traf1', [2259, 2264]], u'Protein']
+[[u'tnfaip3', [2266, 2273]], u'Protein']
+[[u'c-rel', [2279, 2284]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'p100', [1020, 1024]], u'Protein']
+[[u'p65', [1052, 1055]], u'Protein']
+[[u'c-rel', [1071, 1076]], u'Protein']
+[[u'tnf', [1197, 1200]], u'Protein']
+[[u'tnf', [1348, 1351]], u'Protein']
+[[u'rankl', [2003, 2008]], u'Protein']
+[[u'traf1', [2259, 2264]], u'Protein']
+[[u'tnfaip3', [2266, 2273]], u'Protein']
+[[u'c-rel', [2279, 2284]], u'Protein']
+
+
+total: 15
+[[u'p100', [1020, 1024]], u'Protein']
+[[u'p105', [1036, 1040]], u'Protein']
+[[u'p65', [1052, 1055]], u'Protein']
+[[u'rela', [1059, 1063]], u'Protein']
+[[u'relb', [1065, 1069]], u'Protein']
+[[u'c-rel', [1071, 1076]], u'Protein']
+[[u'tnf', [1197, 1200]], u'Protein']
+[[u'il-6', [1208, 1212]], u'Protein']
+[[u'cyclo-oxygenase-2', [1214, 1231]], u'Protein']
+[[u'tnf', [1348, 1351]], u'Protein']
+[[u'rankl', [2003, 2008]], u'Protein']
+[[u'cd40', [2253, 2257]], u'Protein']
+[[u'traf1', [2259, 2264]], u'Protein']
+[[u'tnfaip3', [2266, 2273]], u'Protein']
+[[u'c-rel', [2279, 2284]], u'Protein']

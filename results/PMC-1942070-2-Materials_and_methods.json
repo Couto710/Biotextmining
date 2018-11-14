@@ -1,0 +1,27 @@
+denotations: 5
+[[u'pkd1', [104, 108]], u'Protein']
+[[u'pkd3', [113, 117]], u'Protein']
+[[u'pkd1', [125, 129]], u'Protein']
+[[u'3', [130, 131]], u'Protein']
+[[u'knockout', [135, 143]], u'Negative_regulation']
+
+
+geniatagger: 1
+[[u'knockout', [135, 143]], u'Negative_regulation']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'pkd1', [104, 108]], u'Protein']
+[[u'pkd3', [113, 117]], u'Protein']
+[[u'pkd1', [125, 129]], u'Protein']
+[[u'knockout', [135, 143]], u'Negative_regulation']
+
+
+total: 4
+[[u'knockout', [135, 143]], u'Negative_regulation']
+[[u'pkd1', [104, 108]], u'Protein']
+[[u'pkd3', [113, 117]], u'Protein']
+[[u'pkd1', [125, 129]], u'Protein']

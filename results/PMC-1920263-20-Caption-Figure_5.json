@@ -1,0 +1,35 @@
+denotations: 8
+[[u'a3g', [177, 180]], u'Protein']
+[[u'luciferase', [331, 341]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'coexpressed', [398, 409]], u'Gene_expression']
+[[u'luciferase', [418, 428]], u'Protein']
+[[u'luciferase', [683, 693]], u'Protein']
+[[u'coexpressed', [735, 746]], u'Gene_expression']
+[[u'luciferase', [755, 765]], u'Protein']
+
+
+geniatagger: 2
+[[u'a3g', [177, 180]], u'Protein']
+[[u'luciferase', [331, 341]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'a3g', [177, 180]], u'Protein']
+[[u'luciferase', [331, 341]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'luciferase', [418, 428]], u'Protein']
+[[u'luciferase', [683, 693]], u'Protein']
+[[u'luciferase', [755, 765]], u'Protein']
+
+
+total: 6
+[[u'a3g', [177, 180]], u'Protein']
+[[u'luciferase', [331, 341]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'luciferase', [418, 428]], u'Protein']
+[[u'luciferase', [683, 693]], u'Protein']
+[[u'luciferase', [755, 765]], u'Protein']

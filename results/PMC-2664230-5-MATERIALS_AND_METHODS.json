@@ -1,0 +1,28 @@
+denotations: 7
+[[u'i-\u03bab\u03b1', [29, 34]], u'Protein']
+[[u'p65', [42, 45]], u'Protein']
+[[u'creb', [51, 55]], u'Protein']
+[[u'phosphorylated', [1018, 1032]], u'Phosphorylation']
+[[u'i-\u03bab\u03b1', [1033, 1038]], u'Protein']
+[[u'phosphorylated', [1107, 1121]], u'Phosphorylation']
+[[u'p65', [1128, 1131]], u'Protein']
+
+
+geniatagger: 3
+[[u'p65', [42, 45]], u'Protein']
+[[u'creb', [51, 55]], u'Protein']
+[[u'p65', [1128, 1131]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'p65', [42, 45]], u'Protein']
+[[u'p65', [1128, 1131]], u'Protein']
+
+
+total: 3
+[[u'p65', [42, 45]], u'Protein']
+[[u'creb', [51, 55]], u'Protein']
+[[u'p65', [1128, 1131]], u'Protein']

@@ -1,0 +1,35 @@
+denotations: 7
+[[u'bmp-6', [113, 118]], u'Protein']
+[[u'bmp-rib', [162, 169]], u'Protein']
+[[u'alk-6', [170, 175]], u'Protein']
+[[u'bmpr-ii', [202, 209]], u'Protein']
+[[u'noggin', [254, 260]], u'Protein']
+[[u'cd40 ligand', [467, 478]], u'Protein']
+[[u'cd40l', [480, 485]], u'Protein']
+
+
+geniatagger: 3
+[[u'bmp-6', [113, 118]], u'Protein']
+[[u'noggin', [254, 260]], u'Protein']
+[[u'cd40l', [480, 485]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'bmp-6', [113, 118]], u'Protein']
+[[u'alk-6', [170, 175]], u'Protein']
+[[u'bmpr-ii', [202, 209]], u'Protein']
+[[u'noggin', [254, 260]], u'Protein']
+[[u'cd40 ligand', [467, 478]], u'Protein']
+[[u'cd40l', [480, 485]], u'Protein']
+
+
+total: 6
+[[u'bmp-6', [113, 118]], u'Protein']
+[[u'noggin', [254, 260]], u'Protein']
+[[u'cd40l', [480, 485]], u'Protein']
+[[u'alk-6', [170, 175]], u'Protein']
+[[u'bmpr-ii', [202, 209]], u'Protein']
+[[u'cd40 ligand', [467, 478]], u'Protein']

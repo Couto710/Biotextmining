@@ -1,0 +1,65 @@
+denotations: 20
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'akt', [15, 18]], u'Protein']
+[[u'rb', [49, 51]], u'Protein']
+[[u'cd19', [122, 126]], u'Protein']
+[[u'lmp1', [156, 160]], u'Protein']
+[[u'akt', [181, 184]], u'Protein']
+[[u'pakt', [222, 226]], u'Protein']
+[[u'targets', [242, 249]], u'Regulation']
+[[u'inactivated', [261, 272]], u'Positive_regulation']
+[[u'pgsk3\u03b1', [273, 279]], u'Protein']
+[[u'\u03b2', [280, 281]], u'Protein']
+[[u'activated', [291, 300]], u'Positive_regulation']
+[[u'p-mtor', [301, 307]], u'Protein']
+[[u'foxo1', [329, 334]], u'Protein']
+[[u'gsk3', [389, 393]], u'Protein']
+[[u'rb', [529, 531]], u'Protein']
+[[u'activated', [553, 562]], u'Positive_regulation']
+[[u'prb', [563, 566]], u'Protein']
+[[u'cdk2', [588, 592]], u'Protein']
+[[u'p27', [615, 618]], u'Protein']
+
+
+geniatagger: 8
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'akt', [15, 18]], u'Protein']
+[[u'lmp1', [156, 160]], u'Protein']
+[[u'akt', [181, 184]], u'Protein']
+[[u'rb', [529, 531]], u'Protein']
+[[u'prb', [563, 566]], u'Protein']
+[[u'cdk2', [588, 592]], u'Protein']
+[[u'p27', [615, 618]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'akt', [15, 18]], u'Protein']
+[[u'cd19', [122, 126]], u'Protein']
+[[u'lmp1', [156, 160]], u'Protein']
+[[u'akt', [181, 184]], u'Protein']
+[[u'activated', [291, 300]], u'Positive_regulation']
+[[u'foxo1', [329, 334]], u'Protein']
+[[u'gsk3', [389, 393]], u'Protein']
+[[u'activated', [553, 562]], u'Positive_regulation']
+[[u'prb', [563, 566]], u'Protein']
+[[u'cdk2', [588, 592]], u'Protein']
+
+
+total: 13
+[[u'lmp1', [0, 4]], u'Protein']
+[[u'akt', [15, 18]], u'Protein']
+[[u'lmp1', [156, 160]], u'Protein']
+[[u'akt', [181, 184]], u'Protein']
+[[u'rb', [529, 531]], u'Protein']
+[[u'prb', [563, 566]], u'Protein']
+[[u'cdk2', [588, 592]], u'Protein']
+[[u'p27', [615, 618]], u'Protein']
+[[u'cd19', [122, 126]], u'Protein']
+[[u'activated', [291, 300]], u'Positive_regulation']
+[[u'foxo1', [329, 334]], u'Protein']
+[[u'gsk3', [389, 393]], u'Protein']
+[[u'activated', [553, 562]], u'Positive_regulation']

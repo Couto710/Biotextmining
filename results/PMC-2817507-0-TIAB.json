@@ -1,0 +1,31 @@
+denotations: 12
+[[u'tlr4', [14, 18]], u'Protein']
+[[u'toll-like receptor 4', [173, 193]], u'Protein']
+[[u'tlr4', [196, 200]], u'Protein']
+[[u'tlr4', [378, 382]], u'Protein']
+[[u'tlr4', [527, 531]], u'Protein']
+[[u'tlr4', [554, 558]], u'Protein']
+[[u'tlr4', [626, 630]], u'Protein']
+[[u'inhibitors of kappa b', [672, 693]], u'Protein']
+[[u'i\u03bab\u03b1', [697, 701]], u'Protein']
+[[u'tlr4', [875, 879]], u'Protein']
+[[u'i\u03bab\u03b1', [1094, 1098]], u'Protein']
+[[u'tlr4', [1232, 1236]], u'Protein']
+
+
+geniatagger: 3
+[[u'tlr4', [527, 531]], u'Protein']
+[[u'tlr4', [626, 630]], u'Protein']
+[[u'tlr4', [875, 879]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 3
+[[u'tlr4', [527, 531]], u'Protein']
+[[u'tlr4', [626, 630]], u'Protein']
+[[u'tlr4', [875, 879]], u'Protein']

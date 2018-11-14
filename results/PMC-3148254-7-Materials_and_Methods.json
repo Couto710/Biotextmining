@@ -1,0 +1,18 @@
+denotations: 2
+[[u'expressing', [200, 210]], u'Gene_expression']
+[[u'cd154', [211, 216]], u'Protein']
+
+
+geniatagger: 1
+[[u'cd154', [211, 216]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'cd154', [211, 216]], u'Protein']
+
+
+total: 1
+[[u'cd154', [211, 216]], u'Protein']

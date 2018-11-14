@@ -1,0 +1,39 @@
+denotations: 9
+[[u'stimulated', [13, 23]], u'Positive_regulation']
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'expression', [31, 41]], u'Gene_expression']
+[[u'icam-1', [299, 305]], u'Protein']
+[[u'expression', [306, 316]], u'Gene_expression']
+[[u'expression', [433, 443]], u'Gene_expression']
+[[u'cd14', [477, 481]], u'Protein']
+[[u'icam-1', [483, 489]], u'Protein']
+[[u'cd58', [495, 499]], u'Protein']
+
+
+geniatagger: 5
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'icam-1', [299, 305]], u'Protein']
+[[u'cd14', [477, 481]], u'Protein']
+[[u'icam-1', [483, 489]], u'Protein']
+[[u'cd58', [495, 499]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'expression', [31, 41]], u'Gene_expression']
+[[u'expression', [306, 316]], u'Gene_expression']
+[[u'expression', [433, 443]], u'Gene_expression']
+[[u'cd14', [477, 481]], u'Protein']
+
+
+total: 8
+[[u'icam-1', [24, 30]], u'Protein']
+[[u'icam-1', [299, 305]], u'Protein']
+[[u'cd14', [477, 481]], u'Protein']
+[[u'icam-1', [483, 489]], u'Protein']
+[[u'cd58', [495, 499]], u'Protein']
+[[u'expression', [31, 41]], u'Gene_expression']
+[[u'expression', [306, 316]], u'Gene_expression']
+[[u'expression', [433, 443]], u'Gene_expression']

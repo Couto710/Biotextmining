@@ -1,0 +1,50 @@
+denotations: 20
+[[u'pkc\u03b1', [0, 4]], u'Protein']
+[[u'regulates', [5, 14]], u'Regulation']
+[[u'phosphorylation', [15, 30]], u'Phosphorylation']
+[[u'p65', [40, 43]], u'Protein']
+[[u'ser276', [47, 53]], u'Entity']
+[[u'transfected', [103, 114]], u'Gene_expression']
+[[u'pkc\u03b1', [153, 157]], u'Protein']
+[[u'kinase-deficient', [165, 181]], u'Negative_regulation']
+[[u'pkc\u03b1', [187, 191]], u'Protein']
+[[u'm-csf', [263, 268]], u'Protein']
+[[u'annexin v', [568, 577]], u'Protein']
+[[u'pkc\u03b1', [800, 804]], u'Protein']
+[[u'expression', [832, 842]], u'Gene_expression']
+[[u'pkc\u03b1', [851, 855]], u'Protein']
+[[u'\u03b2-actin', [868, 875]], u'Protein']
+[[u'transfected', [1020, 1031]], u'Gene_expression']
+[[u'pkc\u03b1 sirna', [1076, 1086]], u'Protein']
+[[u'm-csf', [1190, 1195]], u'Protein']
+[[u'annexin v', [1431, 1440]], u'Protein']
+[[u'\u03b2-actin', [1641, 1648]], u'Protein']
+
+
+geniatagger: 4
+[[u'p65', [40, 43]], u'Protein']
+[[u'kinase-deficient', [165, 181]], u'Negative_regulation']
+[[u'm-csf', [263, 268]], u'Protein']
+[[u'm-csf', [1190, 1195]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'phosphorylation', [15, 30]], u'Phosphorylation']
+[[u'p65', [40, 43]], u'Protein']
+[[u'm-csf', [263, 268]], u'Protein']
+[[u'annexin v', [568, 577]], u'Protein']
+[[u'm-csf', [1190, 1195]], u'Protein']
+[[u'annexin v', [1431, 1440]], u'Protein']
+
+
+total: 7
+[[u'p65', [40, 43]], u'Protein']
+[[u'kinase-deficient', [165, 181]], u'Negative_regulation']
+[[u'm-csf', [263, 268]], u'Protein']
+[[u'm-csf', [1190, 1195]], u'Protein']
+[[u'phosphorylation', [15, 30]], u'Phosphorylation']
+[[u'annexin v', [568, 577]], u'Protein']
+[[u'annexin v', [1431, 1440]], u'Protein']

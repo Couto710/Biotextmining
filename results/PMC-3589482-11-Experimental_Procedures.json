@@ -1,0 +1,23 @@
+denotations: 3
+[[u'protein g', [938, 947]], u'Protein']
+[[u'proteinase k', [1108, 1120]], u'Protein']
+[[u'serpinb2', [1327, 1335]], u'Protein']
+
+
+geniatagger: 1
+[[u'serpinb2', [1327, 1335]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'protein g', [938, 947]], u'Protein']
+[[u'proteinase k', [1108, 1120]], u'Protein']
+[[u'serpinb2', [1327, 1335]], u'Protein']
+
+
+total: 3
+[[u'serpinb2', [1327, 1335]], u'Protein']
+[[u'protein g', [938, 947]], u'Protein']
+[[u'proteinase k', [1108, 1120]], u'Protein']

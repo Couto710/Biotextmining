@@ -1,0 +1,24 @@
+denotations: 3
+[[u'p50', [139, 142]], u'Protein']
+[[u'p65', [194, 197]], u'Protein']
+[[u'il-1ra', [326, 332]], u'Protein']
+
+
+geniatagger: 3
+[[u'p50', [139, 142]], u'Protein']
+[[u'p65', [194, 197]], u'Protein']
+[[u'il-1ra', [326, 332]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'p65', [194, 197]], u'Protein']
+[[u'il-1ra', [326, 332]], u'Protein']
+
+
+total: 3
+[[u'p50', [139, 142]], u'Protein']
+[[u'p65', [194, 197]], u'Protein']
+[[u'il-1ra', [326, 332]], u'Protein']

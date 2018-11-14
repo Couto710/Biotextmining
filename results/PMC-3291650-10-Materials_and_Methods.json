@@ -1,0 +1,39 @@
+denotations: 8
+[[u'grb', [22, 25]], u'Protein']
+[[u'cd8', [57, 60]], u'Protein']
+[[u'granzyme b', [70, 80]], u'Protein']
+[[u'grb', [82, 85]], u'Protein']
+[[u'cd8', [107, 110]], u'Protein']
+[[u'cd8', [501, 504]], u'Protein']
+[[u'cd3', [562, 565]], u'Protein']
+[[u'cd8', [571, 574]], u'Protein']
+
+
+geniatagger: 2
+[[u'grb', [22, 25]], u'Protein']
+[[u'grb', [82, 85]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'grb', [22, 25]], u'Protein']
+[[u'cd8', [57, 60]], u'Protein']
+[[u'granzyme b', [70, 80]], u'Protein']
+[[u'grb', [82, 85]], u'Protein']
+[[u'cd8', [107, 110]], u'Protein']
+[[u'cd8', [501, 504]], u'Protein']
+[[u'cd3', [562, 565]], u'Protein']
+[[u'cd8', [571, 574]], u'Protein']
+
+
+total: 8
+[[u'grb', [22, 25]], u'Protein']
+[[u'grb', [82, 85]], u'Protein']
+[[u'cd8', [57, 60]], u'Protein']
+[[u'granzyme b', [70, 80]], u'Protein']
+[[u'cd8', [107, 110]], u'Protein']
+[[u'cd8', [501, 504]], u'Protein']
+[[u'cd3', [562, 565]], u'Protein']
+[[u'cd8', [571, 574]], u'Protein']

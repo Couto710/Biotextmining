@@ -1,0 +1,9 @@
+genia tagger: 1['hexokinase', [8, 18]]
+
+
+spacy + metamap: 2['hexokinase', [8, 18]]
+['tumor growth', [25, 37]]
+
+
+total: 2['hexokinase', [8, 18]]
+['tumor growth', [25, 37]]

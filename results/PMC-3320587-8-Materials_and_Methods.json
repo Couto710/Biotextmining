@@ -1,0 +1,28 @@
+denotations: 4
+[[u'nfat5', [116, 121]], u'Protein']
+[[u'green fluorescent protein', [269, 294]], u'Protein']
+[[u'gfp', [296, 299]], u'Protein']
+[[u'nfat5', [772, 777]], u'Protein']
+
+
+geniatagger: 3
+[[u'nfat5', [116, 121]], u'Protein']
+[[u'gfp', [296, 299]], u'Protein']
+[[u'nfat5', [772, 777]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'nfat5', [116, 121]], u'Protein']
+[[u'green fluorescent protein', [269, 294]], u'Protein']
+[[u'gfp', [296, 299]], u'Protein']
+[[u'nfat5', [772, 777]], u'Protein']
+
+
+total: 4
+[[u'nfat5', [116, 121]], u'Protein']
+[[u'gfp', [296, 299]], u'Protein']
+[[u'nfat5', [772, 777]], u'Protein']
+[[u'green fluorescent protein', [269, 294]], u'Protein']

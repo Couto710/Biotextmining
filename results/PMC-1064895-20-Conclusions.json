@@ -1,0 +1,38 @@
+denotations: 8
+[[u'il-17', [49, 54]], u'Protein']
+[[u'il-15', [83, 88]], u'Protein']
+[[u'mcp-1', [93, 98]], u'Protein']
+[[u'cd28', [139, 143]], u'Protein']
+[[u'il-17', [185, 190]], u'Protein']
+[[u'akt', [279, 282]], u'Protein']
+[[u'il-17', [396, 401]], u'Protein']
+[[u'il-17', [574, 579]], u'Protein']
+
+
+geniatagger: 5
+[[u'il-17', [49, 54]], u'Protein']
+[[u'il-15', [83, 88]], u'Protein']
+[[u'mcp-1', [93, 98]], u'Protein']
+[[u'il-17', [185, 190]], u'Protein']
+[[u'il-17', [396, 401]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'il-17', [49, 54]], u'Protein']
+[[u'il-17', [185, 190]], u'Protein']
+[[u'akt', [279, 282]], u'Protein']
+[[u'il-17', [396, 401]], u'Protein']
+[[u'il-17', [574, 579]], u'Protein']
+
+
+total: 7
+[[u'il-17', [49, 54]], u'Protein']
+[[u'il-15', [83, 88]], u'Protein']
+[[u'mcp-1', [93, 98]], u'Protein']
+[[u'il-17', [185, 190]], u'Protein']
+[[u'il-17', [396, 401]], u'Protein']
+[[u'akt', [279, 282]], u'Protein']
+[[u'il-17', [574, 579]], u'Protein']

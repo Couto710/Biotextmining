@@ -1,0 +1,69 @@
+denotations: 28
+[[u'nleh1', [0, 5]], u'Protein']
+[[u'inhibits', [6, 14]], u'Negative_regulation']
+[[u'rps3', [15, 19]], u'Protein']
+[[u's209', [20, 24]], u'Entity']
+[[u'phosphorylation', [25, 40]], u'Phosphorylation']
+[[u'\u03b4nleh1', [149, 155]], u'Protein']
+[[u'\u03b4nleh1', [255, 261]], u'Protein']
+[[u'nleh1', [491, 496]], u'Protein']
+[[u'blocked', [497, 504]], u'Negative_regulation']
+[[u'rps3', [505, 509]], u'Protein']
+[[u's209', [510, 514]], u'Entity']
+[[u'phosphorylation', [515, 530]], u'Phosphorylation']
+[[u'preventing', [548, 558]], u'Negative_regulation']
+[[u'rps3', [559, 563]], u'Protein']
+[[u'nuclear', [564, 571]], u'Entity']
+[[u'translocation', [572, 585]], u'Localization']
+[[u'low', [823, 826]], u'Negative_regulation']
+[[u'phospho', [837, 844]], u'Phosphorylation']
+[[u'rps3', [845, 849]], u'Protein']
+[[u'\u03b4nleh1', [893, 899]], u'Protein']
+[[u'phospho', [908, 915]], u'Phosphorylation']
+[[u'rps3', [916, 920]], u'Protein']
+[[u'intense', [947, 954]], u'Positive_regulation']
+[[u'nleh1', [994, 999]], u'Protein']
+[[u'inhibits', [1000, 1008]], u'Negative_regulation']
+[[u'rps3', [1009, 1013]], u'Protein']
+[[u's209', [1014, 1018]], u'Entity']
+[[u'phosphorylation', [1019, 1034]], u'Phosphorylation']
+
+
+geniatagger: 7
+[[u'nleh1', [0, 5]], u'Protein']
+[[u'rps3', [15, 19]], u'Protein']
+[[u'nleh1', [491, 496]], u'Protein']
+[[u'rps3', [505, 509]], u'Protein']
+[[u'rps3', [559, 563]], u'Protein']
+[[u'nleh1', [994, 999]], u'Protein']
+[[u'rps3', [1009, 1013]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'rps3', [15, 19]], u'Protein']
+[[u'phosphorylation', [25, 40]], u'Phosphorylation']
+[[u'rps3', [505, 509]], u'Protein']
+[[u'phosphorylation', [515, 530]], u'Phosphorylation']
+[[u'rps3', [559, 563]], u'Protein']
+[[u'rps3', [845, 849]], u'Protein']
+[[u'rps3', [916, 920]], u'Protein']
+[[u'rps3', [1009, 1013]], u'Protein']
+[[u'phosphorylation', [1019, 1034]], u'Phosphorylation']
+
+
+total: 12
+[[u'nleh1', [0, 5]], u'Protein']
+[[u'rps3', [15, 19]], u'Protein']
+[[u'nleh1', [491, 496]], u'Protein']
+[[u'rps3', [505, 509]], u'Protein']
+[[u'rps3', [559, 563]], u'Protein']
+[[u'nleh1', [994, 999]], u'Protein']
+[[u'rps3', [1009, 1013]], u'Protein']
+[[u'phosphorylation', [25, 40]], u'Phosphorylation']
+[[u'phosphorylation', [515, 530]], u'Phosphorylation']
+[[u'rps3', [845, 849]], u'Protein']
+[[u'rps3', [916, 920]], u'Protein']
+[[u'phosphorylation', [1019, 1034]], u'Phosphorylation']

@@ -1,0 +1,47 @@
+denotations: 11
+[[u'cd4', [77, 80]], u'Protein']
+[[u'taq', [541, 544]], u'Protein']
+[[u'\u03b2-actin', [876, 883]], u'Protein']
+[[u'socs1', [943, 948]], u'Protein']
+[[u'socs3', [1012, 1017]], u'Protein']
+[[u'socs1', [1165, 1170]], u'Protein']
+[[u'socs3', [1175, 1180]], u'Protein']
+[[u'\u03b2-actin', [1235, 1242]], u'Protein']
+[[u'\u03b2-actin', [1308, 1315]], u'Protein']
+[[u'socs1', [1385, 1390]], u'Protein']
+[[u'socs3', [1460, 1465]], u'Protein']
+
+
+geniatagger: 7
+[[u'taq', [541, 544]], u'Protein']
+[[u'socs1', [943, 948]], u'Protein']
+[[u'socs3', [1012, 1017]], u'Protein']
+[[u'socs1', [1165, 1170]], u'Protein']
+[[u'socs3', [1175, 1180]], u'Protein']
+[[u'socs1', [1385, 1390]], u'Protein']
+[[u'socs3', [1460, 1465]], u'Protein']
+
+
+metamapper: 1
+[[u'cd4', [77, 80]], u'Protein']
+
+
+spacy + metamapper: 7
+[[u'cd4', [77, 80]], u'Protein']
+[[u'socs1', [943, 948]], u'Protein']
+[[u'socs3', [1012, 1017]], u'Protein']
+[[u'socs1', [1165, 1170]], u'Protein']
+[[u'socs3', [1175, 1180]], u'Protein']
+[[u'socs1', [1385, 1390]], u'Protein']
+[[u'socs3', [1460, 1465]], u'Protein']
+
+
+total: 8
+[[u'taq', [541, 544]], u'Protein']
+[[u'socs1', [943, 948]], u'Protein']
+[[u'socs3', [1012, 1017]], u'Protein']
+[[u'socs1', [1165, 1170]], u'Protein']
+[[u'socs3', [1175, 1180]], u'Protein']
+[[u'socs1', [1385, 1390]], u'Protein']
+[[u'socs3', [1460, 1465]], u'Protein']
+[[u'cd4', [77, 80]], u'Protein']

@@ -1,0 +1,23 @@
+denotations: 4
+[[u'tnf', [0, 3]], u'Protein']
+[[u'tnf-\u03b1', [197, 202]], u'Protein']
+[[u'\u03b2', [203, 204]], u'Protein']
+[[u'tnf', [301, 304]], u'Protein']
+
+
+geniatagger: 2
+[[u'tnf', [0, 3]], u'Protein']
+[[u'tnf', [301, 304]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'tnf', [0, 3]], u'Protein']
+[[u'tnf', [301, 304]], u'Protein']
+
+
+total: 2
+[[u'tnf', [0, 3]], u'Protein']
+[[u'tnf', [301, 304]], u'Protein']

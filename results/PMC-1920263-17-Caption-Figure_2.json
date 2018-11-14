@@ -1,0 +1,21 @@
+denotations: 2
+[[u'a3g', [24, 27]], u'Protein']
+[[u'a3g', [81, 84]], u'Protein']
+
+
+geniatagger: 2
+[[u'a3g', [24, 27]], u'Protein']
+[[u'a3g', [81, 84]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'a3g', [24, 27]], u'Protein']
+[[u'a3g', [81, 84]], u'Protein']
+
+
+total: 2
+[[u'a3g', [24, 27]], u'Protein']
+[[u'a3g', [81, 84]], u'Protein']

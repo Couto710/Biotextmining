@@ -1,0 +1,22 @@
+denotations: 3
+[[u'myr-akt1', [15, 23]], u'Protein']
+[[u'myr-akt1-flag', [82, 95]], u'Protein']
+[[u'myr-akt1', [227, 235]], u'Protein']
+
+
+geniatagger: 3
+[[u'myr-akt1', [15, 23]], u'Protein']
+[[u'myr-akt1-flag', [82, 95]], u'Protein']
+[[u'myr-akt1', [227, 235]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 3
+[[u'myr-akt1', [15, 23]], u'Protein']
+[[u'myr-akt1-flag', [82, 95]], u'Protein']
+[[u'myr-akt1', [227, 235]], u'Protein']

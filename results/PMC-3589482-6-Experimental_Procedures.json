@@ -1,0 +1,50 @@
+denotations: 20
+[[u'serpinb2 reporter gene', [16, 38]], u'Protein']
+[[u'serpinb2', [200, 208]], u'Protein']
+[[u'serpinb2', [418, 426]], u'Protein']
+[[u'serpinb2 luciferase reporter', [511, 539]], u'Protein']
+[[u'ecor i', [680, 686]], u'Protein']
+[[u'sfi i', [720, 725]], u'Protein']
+[[u'apa i', [727, 732]], u'Protein']
+[[u'bstx i', [734, 740]], u'Protein']
+[[u'bsu36 i', [742, 749]], u'Protein']
+[[u'pac i', [751, 756]], u'Protein']
+[[u'hae iii', [758, 765]], u'Protein']
+[[u'apo i', [770, 775]], u'Protein']
+[[u't4 dna polymerase', [842, 859]], u'Protein']
+[[u't4 dna ligase', [903, 916]], u'Protein']
+[[u'serpinb2', [986, 994]], u'Protein']
+[[u'luciferase reporter', [1159, 1178]], u'Protein']
+[[u'serpinb2', [1218, 1226]], u'Protein']
+[[u'ecor i', [2009, 2015]], u'Protein']
+[[u'xho i', [2020, 2025]], u'Protein']
+[[u'serpinb2', [2153, 2161]], u'Protein']
+
+
+geniatagger: 5
+[[u'serpinb2', [200, 208]], u'Protein']
+[[u'serpinb2', [418, 426]], u'Protein']
+[[u'serpinb2', [986, 994]], u'Protein']
+[[u'serpinb2', [1218, 1226]], u'Protein']
+[[u'serpinb2', [2153, 2161]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'serpinb2', [200, 208]], u'Protein']
+[[u'serpinb2', [418, 426]], u'Protein']
+[[u't4 dna ligase', [903, 916]], u'Protein']
+[[u'serpinb2', [986, 994]], u'Protein']
+[[u'serpinb2', [1218, 1226]], u'Protein']
+[[u'serpinb2', [2153, 2161]], u'Protein']
+
+
+total: 6
+[[u'serpinb2', [200, 208]], u'Protein']
+[[u'serpinb2', [418, 426]], u'Protein']
+[[u'serpinb2', [986, 994]], u'Protein']
+[[u'serpinb2', [1218, 1226]], u'Protein']
+[[u'serpinb2', [2153, 2161]], u'Protein']
+[[u't4 dna ligase', [903, 916]], u'Protein']

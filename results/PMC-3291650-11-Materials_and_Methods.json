@@ -1,0 +1,21 @@
+denotations: 2
+[[u'irf3', [473, 477]], u'Protein']
+[[u'irf7', [479, 483]], u'Protein']
+
+
+geniatagger: 2
+[[u'irf3', [473, 477]], u'Protein']
+[[u'irf7', [479, 483]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'irf3', [473, 477]], u'Protein']
+[[u'irf7', [479, 483]], u'Protein']
+
+
+total: 2
+[[u'irf3', [473, 477]], u'Protein']
+[[u'irf7', [479, 483]], u'Protein']

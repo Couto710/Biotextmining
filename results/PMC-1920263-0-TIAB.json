@@ -1,0 +1,70 @@
+denotations: 19
+[[u'sp1', [0, 3]], u'Protein']
+[[u'sp3', [8, 11]], u'Protein']
+[[u'regulate', [12, 20]], u'Regulation']
+[[u'transcription', [27, 40]], u'Transcription']
+[[u'apobec3g', [54, 62]], u'Protein']
+[[u'apobec3g', [68, 76]], u'Protein']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'expressed', [160, 169]], u'Gene_expression']
+[[u'regulation', [318, 328]], u'Regulation']
+[[u'a3g', [408, 411]], u'Protein']
+[[u'luciferase', [506, 516]], u'Protein']
+[[u'a3g', [709, 712]], u'Protein']
+[[u'promoter', [713, 721]], u'Entity']
+[[u'inducible', [730, 739]], u'Positive_regulation']
+[[u'luciferase', [873, 883]], u'Protein']
+[[u'gc-box', [1301, 1307]], u'Entity']
+[[u'binding', [1322, 1329]], u'Binding']
+[[u'specificity protein (sp) 1', [1376, 1402]], u'Protein']
+[[u'sp3', [1407, 1410]], u'Protein']
+
+
+geniatagger: 11
+[[u'sp1', [0, 3]], u'Protein']
+[[u'sp3', [8, 11]], u'Protein']
+[[u'apobec3g', [54, 62]], u'Protein']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'a3g', [408, 411]], u'Protein']
+[[u'luciferase', [506, 516]], u'Protein']
+[[u'a3g', [709, 712]], u'Protein']
+[[u'promoter', [713, 721]], u'Entity']
+[[u'gc-box', [1301, 1307]], u'Entity']
+[[u'binding', [1322, 1329]], u'Binding']
+[[u'sp3', [1407, 1410]], u'Protein']
+
+
+metamapper: 2
+[[u'sp3', [8, 11]], u'Protein']
+[[u'sp3', [1407, 1410]], u'Protein']
+
+
+spacy + metamapper: 11
+[[u'sp3', [8, 11]], u'Protein']
+[[u'transcription', [27, 40]], u'Transcription']
+[[u'apobec3g', [54, 62]], u'Protein']
+[[u'apobec3g', [68, 76]], u'Protein']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'a3g', [408, 411]], u'Protein']
+[[u'luciferase', [506, 516]], u'Protein']
+[[u'a3g', [709, 712]], u'Protein']
+[[u'promoter', [713, 721]], u'Entity']
+[[u'luciferase', [873, 883]], u'Protein']
+[[u'sp3', [1407, 1410]], u'Protein']
+
+
+total: 14
+[[u'sp1', [0, 3]], u'Protein']
+[[u'sp3', [8, 11]], u'Protein']
+[[u'apobec3g', [54, 62]], u'Protein']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'a3g', [408, 411]], u'Protein']
+[[u'luciferase', [506, 516]], u'Protein']
+[[u'a3g', [709, 712]], u'Protein']
+[[u'promoter', [713, 721]], u'Entity']
+[[u'gc-box', [1301, 1307]], u'Entity']
+[[u'binding', [1322, 1329]], u'Binding']
+[[u'sp3', [1407, 1410]], u'Protein']
+[[u'transcription', [27, 40]], u'Transcription']
+[[u'apobec3g', [68, 76]], u'Protein']
+[[u'luciferase', [873, 883]], u'Protein']

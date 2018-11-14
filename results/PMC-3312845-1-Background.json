@@ -1,0 +1,44 @@
+denotations: 21
+[[u'tumor necrosis factor-\u03b1', [2680, 2703]], u'Protein']
+[[u'tnf-\u03b1', [2705, 2710]], u'Protein']
+[[u'tnf-\u03b1', [2815, 2820]], u'Protein']
+[[u'tnf-\u03b1', [2994, 2999]], u'Protein']
+[[u'tnf receptor i', [3157, 3171]], u'Protein']
+[[u'p55 receptor', [3176, 3188]], u'Protein']
+[[u'tnfp55r', [3190, 3197]], u'Protein']
+[[u'tnf receptor ii', [3204, 3219]], u'Protein']
+[[u'p75 receptor', [3224, 3236]], u'Protein']
+[[u'tnfp75r', [3238, 3245]], u'Protein']
+[[u'tnf-\u03b1', [3266, 3271]], u'Protein']
+[[u'macrophage inflammatory protein-2', [3280, 3313]], u'Protein']
+[[u'mip-2', [3315, 3320]], u'Protein']
+[[u'mip-2', [3444, 3449]], u'Protein']
+[[u'tnf-\u03b1', [3505, 3510]], u'Protein']
+[[u'interleukin-1\u03b2', [3518, 3532]], u'Protein']
+[[u'il-1\u03b2', [3534, 3539]], u'Protein']
+[[u'mip-2', [3617, 3622]], u'Protein']
+[[u'il-1\u03b2', [3692, 3697]], u'Protein']
+[[u'tnf-\u03b1', [3761, 3766]], u'Protein']
+[[u'tnf-\u03b1', [3975, 3980]], u'Protein']
+
+
+geniatagger: 5
+[[u'tnfp55r', [3190, 3197]], u'Protein']
+[[u'tnfp75r', [3238, 3245]], u'Protein']
+[[u'mip-2', [3315, 3320]], u'Protein']
+[[u'mip-2', [3444, 3449]], u'Protein']
+[[u'mip-2', [3617, 3622]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 5
+[[u'tnfp55r', [3190, 3197]], u'Protein']
+[[u'tnfp75r', [3238, 3245]], u'Protein']
+[[u'mip-2', [3315, 3320]], u'Protein']
+[[u'mip-2', [3444, 3449]], u'Protein']
+[[u'mip-2', [3617, 3622]], u'Protein']

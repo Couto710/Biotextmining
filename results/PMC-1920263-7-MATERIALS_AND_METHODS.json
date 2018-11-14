@@ -1,0 +1,41 @@
+denotations: 8
+[[u'micrococcal nuclease', [464, 484]], u'Protein']
+[[u'sp1', [778, 781]], u'Protein']
+[[u'sp3', [795, 798]], u'Protein']
+[[u'actin', [815, 820]], u'Protein']
+[[u'a3g', [1209, 1212]], u'Protein']
+[[u'taq polymerase', [1456, 1470]], u'Protein']
+[[u'a3g', [1683, 1686]], u'Protein']
+[[u'a3g', [1876, 1879]], u'Protein']
+
+
+geniatagger: 6
+[[u'sp1', [778, 781]], u'Protein']
+[[u'sp3', [795, 798]], u'Protein']
+[[u'actin', [815, 820]], u'Protein']
+[[u'a3g', [1209, 1212]], u'Protein']
+[[u'a3g', [1683, 1686]], u'Protein']
+[[u'a3g', [1876, 1879]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'micrococcal nuclease', [464, 484]], u'Protein']
+[[u'actin', [815, 820]], u'Protein']
+[[u'a3g', [1209, 1212]], u'Protein']
+[[u'taq polymerase', [1456, 1470]], u'Protein']
+[[u'a3g', [1683, 1686]], u'Protein']
+[[u'a3g', [1876, 1879]], u'Protein']
+
+
+total: 8
+[[u'sp1', [778, 781]], u'Protein']
+[[u'sp3', [795, 798]], u'Protein']
+[[u'actin', [815, 820]], u'Protein']
+[[u'a3g', [1209, 1212]], u'Protein']
+[[u'a3g', [1683, 1686]], u'Protein']
+[[u'a3g', [1876, 1879]], u'Protein']
+[[u'micrococcal nuclease', [464, 484]], u'Protein']
+[[u'taq polymerase', [1456, 1470]], u'Protein']

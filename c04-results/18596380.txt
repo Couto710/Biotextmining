@@ -1,0 +1,12 @@
+genia tagger: 0
+
+spacy + metamap: 4['alternating', [14, 25]]
+['electric fields', [26, 41]]
+['effective treatment', [66, 85]]
+['cancer', [89, 95]]
+
+
+total: 4['alternating', [14, 25]]
+['electric fields', [26, 41]]
+['effective treatment', [66, 85]]
+['cancer', [89, 95]]

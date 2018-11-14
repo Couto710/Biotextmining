@@ -1,0 +1,23 @@
+denotations: 3
+[[u'luciferase', [317, 327]], u'Protein']
+[[u'luciferase', [738, 748]], u'Protein']
+[[u'tnf', [1054, 1057]], u'Protein']
+
+
+geniatagger: 3
+[[u'luciferase', [317, 327]], u'Protein']
+[[u'luciferase', [738, 748]], u'Protein']
+[[u'tnf', [1054, 1057]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'tnf', [1054, 1057]], u'Protein']
+
+
+total: 3
+[[u'luciferase', [317, 327]], u'Protein']
+[[u'luciferase', [738, 748]], u'Protein']
+[[u'tnf', [1054, 1057]], u'Protein']

@@ -1,0 +1,18 @@
+denotations: 2
+[[u'tax', [49, 52]], u'Protein']
+[[u'\u03b2-actin', [450, 457]], u'Protein']
+
+
+geniatagger: 1
+[[u'tax', [49, 52]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'tax', [49, 52]], u'Protein']
+
+
+total: 1
+[[u'tax', [49, 52]], u'Protein']

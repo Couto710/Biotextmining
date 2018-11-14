@@ -1,0 +1,25 @@
+denotations: 3
+[[u'il8', [165, 168]], u'Protein']
+[[u'nfkbia', [173, 179]], u'Protein']
+[[u'actb', [192, 196]], u'Protein']
+
+
+geniatagger: 3
+[[u'il8', [165, 168]], u'Protein']
+[[u'nfkbia', [173, 179]], u'Protein']
+[[u'actb', [192, 196]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'il8', [165, 168]], u'Protein']
+[[u'nfkbia', [173, 179]], u'Protein']
+[[u'actb', [192, 196]], u'Protein']
+
+
+total: 3
+[[u'il8', [165, 168]], u'Protein']
+[[u'nfkbia', [173, 179]], u'Protein']
+[[u'actb', [192, 196]], u'Protein']

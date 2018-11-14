@@ -1,0 +1,46 @@
+denotations: 21
+[[u'cd19', [344, 348]], u'Protein']
+[[u'lmp1', [394, 398]], u'Protein']
+[[u'rb', [443, 445]], u'Protein']
+[[u'cdk2', [466, 470]], u'Protein']
+[[u'cd5', [553, 556]], u'Protein']
+[[u'lmp1', [613, 617]], u'Protein']
+[[u'pakt', [692, 696]], u'Protein']
+[[u'pgsk3\u03b1', [712, 718]], u'Protein']
+[[u'\u03b2', [719, 720]], u'Protein']
+[[u'pstat3', [737, 743]], u'Protein']
+[[u'pstat6', [759, 765]], u'Protein']
+[[u'pmtor', [781, 786]], u'Protein']
+[[u'stat6', [803, 808]], u'Protein']
+[[u'akt', [815, 818]], u'Protein']
+[[u'foxo1', [825, 830]], u'Protein']
+[[u'p27', [841, 844]], u'Protein']
+[[u'stat3', [893, 898]], u'Protein']
+[[u'i\u03bab\u03b1', [913, 917]], u'Protein']
+[[u'\u03b2 actin', [940, 947]], u'Protein']
+[[u'gsk3', [1018, 1022]], u'Protein']
+[[u'prb', [1077, 1080]], u'Protein']
+
+
+geniatagger: 1
+[[u'cd19', [344, 348]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'lmp1', [394, 398]], u'Protein']
+[[u'cdk2', [466, 470]], u'Protein']
+[[u'cd5', [553, 556]], u'Protein']
+[[u'lmp1', [613, 617]], u'Protein']
+[[u'prb', [1077, 1080]], u'Protein']
+
+
+total: 6
+[[u'cd19', [344, 348]], u'Protein']
+[[u'lmp1', [394, 398]], u'Protein']
+[[u'cdk2', [466, 470]], u'Protein']
+[[u'cd5', [553, 556]], u'Protein']
+[[u'lmp1', [613, 617]], u'Protein']
+[[u'prb', [1077, 1080]], u'Protein']

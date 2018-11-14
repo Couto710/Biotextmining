@@ -1,0 +1,38 @@
+denotations: 16
+[[u'tumor necrosis factor-\u03b1', [0, 23]], u'Protein']
+[[u'p65', [66, 69]], u'Protein']
+[[u'tumor necrosis factor (tnf)-\u03b1', [454, 483]], u'Protein']
+[[u'tnf p55 receptor', [745, 761]], u'Protein']
+[[u'tnfp55r', [764, 771]], u'Protein']
+[[u'tnf-\u03b1', [880, 885]], u'Protein']
+[[u'tnf-\u03b1', [967, 972]], u'Protein']
+[[u'tnf p75 receptor', [1004, 1020]], u'Protein']
+[[u'p65', [1107, 1110]], u'Protein']
+[[u'tnf-\u03b1', [1254, 1259]], u'Protein']
+[[u'tnf p55 receptor', [1271, 1287]], u'Protein']
+[[u'tnfp55r', [1290, 1297]], u'Protein']
+[[u'p65', [1385, 1388]], u'Protein']
+[[u'tnfp55r', [1448, 1455]], u'Protein']
+[[u'tnf-\u03b1', [1604, 1609]], u'Protein']
+[[u'p65', [1619, 1622]], u'Protein']
+
+
+geniatagger: 1
+[[u'p65', [66, 69]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'p65', [66, 69]], u'Protein']
+[[u'p65', [1107, 1110]], u'Protein']
+[[u'p65', [1385, 1388]], u'Protein']
+[[u'p65', [1619, 1622]], u'Protein']
+
+
+total: 4
+[[u'p65', [66, 69]], u'Protein']
+[[u'p65', [1107, 1110]], u'Protein']
+[[u'p65', [1385, 1388]], u'Protein']
+[[u'p65', [1619, 1622]], u'Protein']

@@ -1,0 +1,31 @@
+denotations: 7
+[[u'shrna', [30, 35]], u'Protein']
+[[u'shrna', [77, 82]], u'Protein']
+[[u'myd88', [99, 104]], u'Protein']
+[[u'irak1', [224, 229]], u'Protein']
+[[u'irak1', [392, 397]], u'Protein']
+[[u'traf6', [444, 449]], u'Protein']
+[[u'traf6', [607, 612]], u'Protein']
+
+
+geniatagger: 3
+[[u'myd88', [99, 104]], u'Protein']
+[[u'irak1', [392, 397]], u'Protein']
+[[u'traf6', [444, 449]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'shrna', [30, 35]], u'Protein']
+[[u'shrna', [77, 82]], u'Protein']
+[[u'myd88', [99, 104]], u'Protein']
+
+
+total: 5
+[[u'myd88', [99, 104]], u'Protein']
+[[u'irak1', [392, 397]], u'Protein']
+[[u'traf6', [444, 449]], u'Protein']
+[[u'shrna', [30, 35]], u'Protein']
+[[u'shrna', [77, 82]], u'Protein']

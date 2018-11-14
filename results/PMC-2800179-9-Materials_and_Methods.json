@@ -1,0 +1,18 @@
+denotations: 3
+[[u'\u03b2-actin', [733, 740]], u'Protein']
+[[u'tnf-\u03b1', [868, 873]], u'Protein']
+[[u'icam-1', [1004, 1010]], u'Protein']
+
+
+geniatagger: 1
+[[u'icam-1', [1004, 1010]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'icam-1', [1004, 1010]], u'Protein']

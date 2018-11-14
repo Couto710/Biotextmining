@@ -1,0 +1,27 @@
+denotations: 4
+[[u'cd14', [431, 435]], u'Protein']
+[[u'mcsf', [684, 688]], u'Protein']
+[[u'mcsf', [905, 909]], u'Protein']
+[[u'cd14', [1001, 1005]], u'Protein']
+
+
+geniatagger: 2
+[[u'cd14', [431, 435]], u'Protein']
+[[u'mcsf', [905, 909]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'cd14', [431, 435]], u'Protein']
+[[u'mcsf', [684, 688]], u'Protein']
+[[u'mcsf', [905, 909]], u'Protein']
+[[u'cd14', [1001, 1005]], u'Protein']
+
+
+total: 4
+[[u'cd14', [431, 435]], u'Protein']
+[[u'mcsf', [905, 909]], u'Protein']
+[[u'mcsf', [684, 688]], u'Protein']
+[[u'cd14', [1001, 1005]], u'Protein']

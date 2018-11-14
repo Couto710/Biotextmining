@@ -1,0 +1,24 @@
+denotations: 5
+[[u'creb-1', [54, 60]], u'Protein']
+[[u'atf-2', [65, 70]], u'Protein']
+[[u'binding', [75, 82]], u'Binding']
+[[u'foxp3', [311, 316]], u'Protein']
+[[u'expression', [317, 327]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'creb-1', [54, 60]], u'Protein']
+[[u'atf-2', [65, 70]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'foxp3', [311, 316]], u'Protein']
+
+
+total: 3
+[[u'creb-1', [54, 60]], u'Protein']
+[[u'atf-2', [65, 70]], u'Protein']
+[[u'foxp3', [311, 316]], u'Protein']

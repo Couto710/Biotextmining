@@ -1,0 +1,1 @@
+Cdh1: a master G0/G1 regulator APC/CCdh1 controls the G0 and G1 phases of the cell cycle. Using a conditional knockout of the Cdh1 coding gene Fizzy-related ( Fzr) , a new study demonstrates that Cdh1 is essential for viability and that it functions as a tumour suppressor by preventing genomic instability. 

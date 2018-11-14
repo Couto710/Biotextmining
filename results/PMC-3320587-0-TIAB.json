@@ -1,0 +1,59 @@
+denotations: 11
+[[u'nfat5', [93, 98]], u'Protein']
+[[u'nuclear factor of activated t cells 5', [436, 473]], u'Protein']
+[[u'nfat5', [475, 480]], u'Protein']
+[[u'nfat5', [621, 626]], u'Protein']
+[[u'myd88', [1045, 1050]], u'Protein']
+[[u'irak1', [1052, 1057]], u'Protein']
+[[u'traf6', [1063, 1068]], u'Protein']
+[[u'nfat5', [1105, 1110]], u'Protein']
+[[u'nfat5', [1186, 1191]], u'Protein']
+[[u'nfat5', [1225, 1230]], u'Protein']
+[[u'nfat5', [1392, 1397]], u'Protein']
+
+
+geniatagger: 10
+[[u'nfat5', [93, 98]], u'Protein']
+[[u'nfat5', [475, 480]], u'Protein']
+[[u'nfat5', [621, 626]], u'Protein']
+[[u'myd88', [1045, 1050]], u'Protein']
+[[u'irak1', [1052, 1057]], u'Protein']
+[[u'traf6', [1063, 1068]], u'Protein']
+[[u'nfat5', [1105, 1110]], u'Protein']
+[[u'nfat5', [1186, 1191]], u'Protein']
+[[u'nfat5', [1225, 1230]], u'Protein']
+[[u'nfat5', [1392, 1397]], u'Protein']
+
+
+metamapper: 7
+[[u'nfat5', [93, 98]], u'Protein']
+[[u'nfat5', [475, 480]], u'Protein']
+[[u'nfat5', [621, 626]], u'Protein']
+[[u'nfat5', [1105, 1110]], u'Protein']
+[[u'nfat5', [1186, 1191]], u'Protein']
+[[u'nfat5', [1225, 1230]], u'Protein']
+[[u'nfat5', [1392, 1397]], u'Protein']
+
+
+spacy + metamapper: 8
+[[u'nfat5', [93, 98]], u'Protein']
+[[u'nfat5', [475, 480]], u'Protein']
+[[u'nfat5', [621, 626]], u'Protein']
+[[u'irak1', [1052, 1057]], u'Protein']
+[[u'nfat5', [1105, 1110]], u'Protein']
+[[u'nfat5', [1186, 1191]], u'Protein']
+[[u'nfat5', [1225, 1230]], u'Protein']
+[[u'nfat5', [1392, 1397]], u'Protein']
+
+
+total: 10
+[[u'nfat5', [93, 98]], u'Protein']
+[[u'nfat5', [475, 480]], u'Protein']
+[[u'nfat5', [621, 626]], u'Protein']
+[[u'myd88', [1045, 1050]], u'Protein']
+[[u'irak1', [1052, 1057]], u'Protein']
+[[u'traf6', [1063, 1068]], u'Protein']
+[[u'nfat5', [1105, 1110]], u'Protein']
+[[u'nfat5', [1186, 1191]], u'Protein']
+[[u'nfat5', [1225, 1230]], u'Protein']
+[[u'nfat5', [1392, 1397]], u'Protein']

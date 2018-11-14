@@ -1,0 +1,27 @@
+denotations: 8
+[[u'produce', [30, 37]], u'Gene_expression']
+[[u'increased', [38, 47]], u'Positive_regulation']
+[[u'il-1\u03b2', [59, 64]], u'Protein']
+[[u'lacking', [245, 252]], u'Negative_regulation']
+[[u'exsa', [253, 257]], u'Protein']
+[[u'lacking', [334, 341]], u'Negative_regulation']
+[[u'exsa', [342, 346]], u'Protein']
+[[u'il-1\u03b2', [466, 471]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'increased', [38, 47]], u'Positive_regulation']
+[[u'lacking', [245, 252]], u'Negative_regulation']
+[[u'lacking', [334, 341]], u'Negative_regulation']
+
+
+total: 3
+[[u'increased', [38, 47]], u'Positive_regulation']
+[[u'lacking', [245, 252]], u'Negative_regulation']
+[[u'lacking', [334, 341]], u'Negative_regulation']

@@ -1,0 +1,1 @@
+Genomic Stability: FANCJ-Dependent G4 DNA Repair G-rich regions have the potential to form G4 DNA upon replication, which can lead to genomic instability. FANCJ, a G4 DNA helicase, has been shown to be critical for the stability of regions that match the G4 signature motif by experiments analyzing its nematode homolog. 

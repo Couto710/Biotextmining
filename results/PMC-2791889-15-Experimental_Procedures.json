@@ -1,0 +1,24 @@
+denotations: 3
+[[u'cd4', [30, 33]], u'Protein']
+[[u'erk', [257, 260]], u'Protein']
+[[u'actin', [265, 270]], u'Protein']
+
+
+geniatagger: 2
+[[u'erk', [257, 260]], u'Protein']
+[[u'actin', [265, 270]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'cd4', [30, 33]], u'Protein']
+[[u'erk', [257, 260]], u'Protein']
+[[u'actin', [265, 270]], u'Protein']
+
+
+total: 3
+[[u'erk', [257, 260]], u'Protein']
+[[u'actin', [265, 270]], u'Protein']
+[[u'cd4', [30, 33]], u'Protein']

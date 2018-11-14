@@ -1,0 +1,69 @@
+denotations: 16
+[[u'irf-4', [27, 32]], u'Protein']
+[[u'irf-4', [151, 156]], u'Protein']
+[[u'irf-4', [214, 219]], u'Protein']
+[[u'irf-4', [450, 455]], u'Protein']
+[[u'decreased', [479, 488]], u'Negative_regulation']
+[[u'promoter', [489, 497]], u'Entity']
+[[u'irf-4', [510, 515]], u'Protein']
+[[u'positive', [516, 524]], u'Gene_expression']
+[[u'irf-4', [620, 625]], u'Protein']
+[[u'positive', [626, 634]], u'Gene_expression']
+[[u'abrogation', [684, 694]], u'Negative_regulation']
+[[u'promoter', [698, 706]], u'Entity']
+[[u'irf-4', [719, 724]], u'Protein']
+[[u'negative', [725, 733]], u'Gene_expression']
+[[u'fasl', [844, 848]], u'Protein']
+[[u'irf-4', [1013, 1018]], u'Protein']
+
+
+geniatagger: 6
+[[u'irf-4', [27, 32]], u'Protein']
+[[u'irf-4', [151, 156]], u'Protein']
+[[u'irf-4', [214, 219]], u'Protein']
+[[u'irf-4', [450, 455]], u'Protein']
+[[u'fasl', [844, 848]], u'Protein']
+[[u'irf-4', [1013, 1018]], u'Protein']
+
+
+metamapper: 10
+[[u'irf-4', [27, 32]], u'Protein']
+[[u'irf-4', [151, 156]], u'Protein']
+[[u'irf-4', [214, 219]], u'Protein']
+[[u'irf-4', [450, 455]], u'Protein']
+[[u'promoter', [489, 497]], u'Entity']
+[[u'irf-4', [510, 515]], u'Protein']
+[[u'irf-4', [620, 625]], u'Protein']
+[[u'promoter', [698, 706]], u'Entity']
+[[u'irf-4', [719, 724]], u'Protein']
+[[u'irf-4', [1013, 1018]], u'Protein']
+
+
+spacy + metamapper: 12
+[[u'irf-4', [27, 32]], u'Protein']
+[[u'irf-4', [151, 156]], u'Protein']
+[[u'irf-4', [214, 219]], u'Protein']
+[[u'irf-4', [450, 455]], u'Protein']
+[[u'promoter', [489, 497]], u'Entity']
+[[u'irf-4', [510, 515]], u'Protein']
+[[u'irf-4', [620, 625]], u'Protein']
+[[u'promoter', [698, 706]], u'Entity']
+[[u'irf-4', [719, 724]], u'Protein']
+[[u'negative', [725, 733]], u'Gene_expression']
+[[u'fasl', [844, 848]], u'Protein']
+[[u'irf-4', [1013, 1018]], u'Protein']
+
+
+total: 12
+[[u'irf-4', [27, 32]], u'Protein']
+[[u'irf-4', [151, 156]], u'Protein']
+[[u'irf-4', [214, 219]], u'Protein']
+[[u'irf-4', [450, 455]], u'Protein']
+[[u'fasl', [844, 848]], u'Protein']
+[[u'irf-4', [1013, 1018]], u'Protein']
+[[u'promoter', [489, 497]], u'Entity']
+[[u'irf-4', [510, 515]], u'Protein']
+[[u'irf-4', [620, 625]], u'Protein']
+[[u'promoter', [698, 706]], u'Entity']
+[[u'irf-4', [719, 724]], u'Protein']
+[[u'negative', [725, 733]], u'Gene_expression']

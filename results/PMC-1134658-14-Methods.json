@@ -1,0 +1,25 @@
+denotations: 4
+[[u'id1', [995, 998]], u'Protein']
+[[u'id2', [1000, 1003]], u'Protein']
+[[u'id3', [1008, 1011]], u'Protein']
+[[u'\u03b2-actin', [1080, 1087]], u'Protein']
+
+
+geniatagger: 3
+[[u'id1', [995, 998]], u'Protein']
+[[u'id2', [1000, 1003]], u'Protein']
+[[u'id3', [1008, 1011]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'id1', [995, 998]], u'Protein']
+[[u'id2', [1000, 1003]], u'Protein']
+
+
+total: 3
+[[u'id1', [995, 998]], u'Protein']
+[[u'id2', [1000, 1003]], u'Protein']
+[[u'id3', [1008, 1011]], u'Protein']

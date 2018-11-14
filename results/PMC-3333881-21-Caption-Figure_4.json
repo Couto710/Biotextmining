@@ -1,0 +1,66 @@
+denotations: 29
+[[u'tat', [0, 3]], u'Protein']
+[[u'associates', [4, 14]], u'Binding']
+[[u'p65', [20, 23]], u'Protein']
+[[u'increasing', [24, 34]], u'Positive_regulation']
+[[u'binding', [52, 59]], u'Binding']
+[[u'3xha-p65', [106, 114]], u'Protein']
+[[u'tat', [156, 159]], u'Protein']
+[[u'tat t,n(23,24)a', [169, 184]], u'Protein']
+[[u'tat k(50,51)a', [194, 207]], u'Protein']
+[[u'tat r(49\u201357)a', [217, 230]], u'Protein']
+[[u'tat c(22,25,27)a', [243, 259]], u'Protein']
+[[u'flag-tat', [268, 276]], u'Protein']
+[[u'p65', [477, 480]], u'Protein']
+[[u'gst-tat', [507, 514]], u'Protein']
+[[u'gst-tat t,n(23,24)a', [516, 535]], u'Protein']
+[[u'gst-tat k(50,51)a', [537, 554]], u'Protein']
+[[u'gst-tat r(49\u201357)a', [556, 573]], u'Protein']
+[[u'gst-tat c(22,25,27)a', [575, 595]], u'Protein']
+[[u'gst', [600, 603]], u'Protein']
+[[u'gst', [686, 689]], u'Protein']
+[[u'p65', [852, 855]], u'Protein']
+[[u'tat', [911, 914]], u'Protein']
+[[u'3xha-p65', [960, 968]], u'Protein']
+[[u'3xha-p65\u03b4c', [978, 988]], u'Protein']
+[[u'3xha-p65\u03b4n', [1009, 1019]], u'Protein']
+[[u'ha-p65', [1059, 1065]], u'Protein']
+[[u'p65', [1256, 1259]], u'Protein']
+[[u'flag-tat', [1431, 1439]], u'Protein']
+[[u'flag-tat c(22,25,27)a', [1443, 1464]], u'Protein']
+
+
+geniatagger: 7
+[[u'tat', [0, 3]], u'Protein']
+[[u'p65', [20, 23]], u'Protein']
+[[u'gst-tat', [507, 514]], u'Protein']
+[[u'gst', [600, 603]], u'Protein']
+[[u'p65', [852, 855]], u'Protein']
+[[u'ha-p65', [1059, 1065]], u'Protein']
+[[u'p65', [1256, 1259]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'tat', [0, 3]], u'Protein']
+[[u'p65', [20, 23]], u'Protein']
+[[u'tat', [156, 159]], u'Protein']
+[[u'p65', [477, 480]], u'Protein']
+[[u'p65', [852, 855]], u'Protein']
+[[u'tat', [911, 914]], u'Protein']
+[[u'p65', [1256, 1259]], u'Protein']
+
+
+total: 10
+[[u'tat', [0, 3]], u'Protein']
+[[u'p65', [20, 23]], u'Protein']
+[[u'gst-tat', [507, 514]], u'Protein']
+[[u'gst', [600, 603]], u'Protein']
+[[u'p65', [852, 855]], u'Protein']
+[[u'ha-p65', [1059, 1065]], u'Protein']
+[[u'p65', [1256, 1259]], u'Protein']
+[[u'tat', [156, 159]], u'Protein']
+[[u'p65', [477, 480]], u'Protein']
+[[u'tat', [911, 914]], u'Protein']

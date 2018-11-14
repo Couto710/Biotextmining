@@ -1,0 +1,33 @@
+denotations: 8
+[[u'hoip', [102, 106]], u'Protein']
+[[u'ikk\u03b3', [111, 115]], u'Protein']
+[[u'hoip', [306, 310]], u'Protein']
+[[u'ikk\u03b3', [401, 405]], u'Protein']
+[[u'hoip', [572, 576]], u'Protein']
+[[u'ikk\u03b3', [586, 590]], u'Protein']
+[[u'hoip', [719, 723]], u'Protein']
+[[u'deficient', [724, 733]], u'Negative_regulation']
+
+
+geniatagger: 2
+[[u'hoip', [102, 106]], u'Protein']
+[[u'hoip', [306, 310]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'hoip', [102, 106]], u'Protein']
+[[u'hoip', [306, 310]], u'Protein']
+[[u'hoip', [572, 576]], u'Protein']
+[[u'hoip', [719, 723]], u'Protein']
+[[u'deficient', [724, 733]], u'Negative_regulation']
+
+
+total: 5
+[[u'hoip', [102, 106]], u'Protein']
+[[u'hoip', [306, 310]], u'Protein']
+[[u'hoip', [572, 576]], u'Protein']
+[[u'hoip', [719, 723]], u'Protein']
+[[u'deficient', [724, 733]], u'Negative_regulation']

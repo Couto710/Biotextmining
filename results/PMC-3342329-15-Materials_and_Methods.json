@@ -1,0 +1,19 @@
+denotations: 2
+[[u'cd4', [849, 852]], u'Protein']
+[[u'cd19', [871, 875]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'cd4', [849, 852]], u'Protein']
+[[u'cd19', [871, 875]], u'Protein']
+
+
+total: 2
+[[u'cd4', [849, 852]], u'Protein']
+[[u'cd19', [871, 875]], u'Protein']

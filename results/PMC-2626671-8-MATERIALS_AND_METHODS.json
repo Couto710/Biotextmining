@@ -1,0 +1,52 @@
+denotations: 16
+[[u'il-2', [128, 132]], u'Protein']
+[[u'ifn-\u03b3', [139, 144]], u'Protein']
+[[u'tnf', [151, 154]], u'Protein']
+[[u'granzyme b', [161, 171]], u'Protein']
+[[u'cd8', [178, 181]], u'Protein']
+[[u'cd25', [188, 192]], u'Protein']
+[[u'cd44', [203, 207]], u'Protein']
+[[u'cd69', [214, 218]], u'Protein']
+[[u'eomes', [273, 278]], u'Protein']
+[[u'runx3', [325, 330]], u'Protein']
+[[u'perforin', [438, 446]], u'Protein']
+[[u'eomes', [461, 466]], u'Protein']
+[[u't-bet', [530, 535]], u'Protein']
+[[u'annexin v', [699, 708]], u'Protein']
+[[u'cd8', [744, 747]], u'Protein']
+[[u'cd8', [785, 788]], u'Protein']
+
+
+geniatagger: 3
+[[u't-bet', [530, 535]], u'Protein']
+[[u'cd8', [744, 747]], u'Protein']
+[[u'cd8', [785, 788]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'cd8', [178, 181]], u'Protein']
+[[u'cd44', [203, 207]], u'Protein']
+[[u'cd69', [214, 218]], u'Protein']
+[[u'eomes', [273, 278]], u'Protein']
+[[u'runx3', [325, 330]], u'Protein']
+[[u'eomes', [461, 466]], u'Protein']
+[[u't-bet', [530, 535]], u'Protein']
+[[u'annexin v', [699, 708]], u'Protein']
+[[u'cd8', [744, 747]], u'Protein']
+[[u'cd8', [785, 788]], u'Protein']
+
+
+total: 10
+[[u't-bet', [530, 535]], u'Protein']
+[[u'cd8', [744, 747]], u'Protein']
+[[u'cd8', [785, 788]], u'Protein']
+[[u'cd8', [178, 181]], u'Protein']
+[[u'cd44', [203, 207]], u'Protein']
+[[u'cd69', [214, 218]], u'Protein']
+[[u'eomes', [273, 278]], u'Protein']
+[[u'runx3', [325, 330]], u'Protein']
+[[u'eomes', [461, 466]], u'Protein']
+[[u'annexin v', [699, 708]], u'Protein']

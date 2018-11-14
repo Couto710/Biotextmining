@@ -1,0 +1,18 @@
+denotations: 3
+[[u'increased', [872, 881]], u'Positive_regulation']
+[[u'creb', [882, 886]], u'Protein']
+[[u'binding', [891, 898]], u'Binding']
+
+
+geniatagger: 1
+[[u'creb', [882, 886]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'creb', [882, 886]], u'Protein']

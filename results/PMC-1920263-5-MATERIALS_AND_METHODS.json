@@ -1,0 +1,50 @@
+denotations: 10
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'luciferase', [273, 283]], u'Protein']
+[[u'luciferase', [1188, 1198]], u'Protein']
+[[u'expresses', [1442, 1451]], u'Gene_expression']
+[[u'luciferase', [1460, 1470]], u'Protein']
+[[u'luciferase', [1517, 1527]], u'Protein']
+[[u'luciferase', [1566, 1576]], u'Protein']
+[[u'ifn-\u03b1', [1771, 1776]], u'Protein']
+[[u'ifn-\u03b3', [1789, 1794]], u'Protein']
+[[u'luciferase', [1860, 1870]], u'Protein']
+
+
+geniatagger: 6
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'luciferase', [273, 283]], u'Protein']
+[[u'luciferase', [1188, 1198]], u'Protein']
+[[u'luciferase', [1460, 1470]], u'Protein']
+[[u'luciferase', [1517, 1527]], u'Protein']
+[[u'luciferase', [1566, 1576]], u'Protein']
+
+
+metamapper: 7
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'luciferase', [273, 283]], u'Protein']
+[[u'luciferase', [1188, 1198]], u'Protein']
+[[u'luciferase', [1460, 1470]], u'Protein']
+[[u'luciferase', [1517, 1527]], u'Protein']
+[[u'luciferase', [1566, 1576]], u'Protein']
+[[u'luciferase', [1860, 1870]], u'Protein']
+
+
+spacy + metamapper: 7
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'luciferase', [273, 283]], u'Protein']
+[[u'luciferase', [1188, 1198]], u'Protein']
+[[u'luciferase', [1460, 1470]], u'Protein']
+[[u'luciferase', [1517, 1527]], u'Protein']
+[[u'luciferase', [1566, 1576]], u'Protein']
+[[u'luciferase', [1860, 1870]], u'Protein']
+
+
+total: 7
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'luciferase', [273, 283]], u'Protein']
+[[u'luciferase', [1188, 1198]], u'Protein']
+[[u'luciferase', [1460, 1470]], u'Protein']
+[[u'luciferase', [1517, 1527]], u'Protein']
+[[u'luciferase', [1566, 1576]], u'Protein']
+[[u'luciferase', [1860, 1870]], u'Protein']

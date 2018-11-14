@@ -1,0 +1,35 @@
+denotations: 7
+[[u'cd19', [29, 33]], u'Protein']
+[[u'cd27', [34, 38]], u'Protein']
+[[u'cd19', [43, 47]], u'Protein']
+[[u'cd27', [48, 52]], u'Protein']
+[[u'cd19', [86, 90]], u'Protein']
+[[u'cd27', [108, 112]], u'Protein']
+[[u'cd19', [120, 124]], u'Protein']
+
+
+geniatagger: 1
+[[u'cd19', [120, 124]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'cd19', [29, 33]], u'Protein']
+[[u'cd27', [34, 38]], u'Protein']
+[[u'cd19', [43, 47]], u'Protein']
+[[u'cd27', [48, 52]], u'Protein']
+[[u'cd19', [86, 90]], u'Protein']
+[[u'cd27', [108, 112]], u'Protein']
+[[u'cd19', [120, 124]], u'Protein']
+
+
+total: 7
+[[u'cd19', [120, 124]], u'Protein']
+[[u'cd19', [29, 33]], u'Protein']
+[[u'cd27', [34, 38]], u'Protein']
+[[u'cd19', [43, 47]], u'Protein']
+[[u'cd27', [48, 52]], u'Protein']
+[[u'cd19', [86, 90]], u'Protein']
+[[u'cd27', [108, 112]], u'Protein']

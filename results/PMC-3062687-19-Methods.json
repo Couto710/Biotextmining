@@ -1,0 +1,21 @@
+denotations: 2
+[[u'luciferase', [195, 205]], u'Protein']
+[[u'luciferase', [232, 242]], u'Protein']
+
+
+geniatagger: 2
+[[u'luciferase', [195, 205]], u'Protein']
+[[u'luciferase', [232, 242]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'luciferase', [195, 205]], u'Protein']
+[[u'luciferase', [232, 242]], u'Protein']
+
+
+total: 2
+[[u'luciferase', [195, 205]], u'Protein']
+[[u'luciferase', [232, 242]], u'Protein']

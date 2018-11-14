@@ -1,0 +1,20 @@
+denotations: 2
+[[u'gata3', [427, 432]], u'Protein']
+[[u'foxp3', [806, 811]], u'Protein']
+
+
+geniatagger: 1
+[[u'foxp3', [806, 811]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'gata3', [427, 432]], u'Protein']
+[[u'foxp3', [806, 811]], u'Protein']
+
+
+total: 2
+[[u'foxp3', [806, 811]], u'Protein']
+[[u'gata3', [427, 432]], u'Protein']

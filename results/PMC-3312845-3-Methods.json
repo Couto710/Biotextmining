@@ -1,0 +1,18 @@
+denotations: 5
+[[u'tnfp55 receptor', [110, 125]], u'Protein']
+[[u'tnfp55r', [128, 135]], u'Protein']
+[[u'tnfp55r', [212, 219]], u'Protein']
+[[u'tnfp55r', [1050, 1057]], u'Protein']
+[[u'tnf-\u03b1', [1341, 1346]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 0

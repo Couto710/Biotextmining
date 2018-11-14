@@ -1,0 +1,21 @@
+denotations: 4
+[[u'serpinb2', [299, 307]], u'Protein']
+[[u'serpinb2', [308, 316]], u'Protein']
+[[u'cebpb', [334, 339]], u'Protein']
+[[u'\u03b2-actin', [360, 367]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'serpinb2', [299, 307]], u'Protein']
+[[u'serpinb2', [308, 316]], u'Protein']
+
+
+total: 2
+[[u'serpinb2', [299, 307]], u'Protein']
+[[u'serpinb2', [308, 316]], u'Protein']

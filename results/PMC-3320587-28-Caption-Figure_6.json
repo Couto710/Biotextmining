@@ -1,0 +1,21 @@
+denotations: 2
+[[u'nfat5', [527, 532]], u'Protein']
+[[u'p24', [955, 958]], u'Protein']
+
+
+geniatagger: 2
+[[u'nfat5', [527, 532]], u'Protein']
+[[u'p24', [955, 958]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'nfat5', [527, 532]], u'Protein']
+[[u'p24', [955, 958]], u'Protein']
+
+
+total: 2
+[[u'nfat5', [527, 532]], u'Protein']
+[[u'p24', [955, 958]], u'Protein']

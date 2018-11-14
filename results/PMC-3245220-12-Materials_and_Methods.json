@@ -1,0 +1,38 @@
+denotations: 13
+[[u'm-csf', [28, 33]], u'Protein']
+[[u'pkc\u03b1 sirna', [616, 626]], u'Protein']
+[[u'p65', [921, 924]], u'Protein']
+[[u'p65', [933, 936]], u'Protein']
+[[u'p65', [952, 955]], u'Protein']
+[[u'kinase deficient', [1048, 1064]], u'Negative_regulation']
+[[u'pkc\u03b1', [1069, 1073]], u'Protein']
+[[u'kd', [1075, 1077]], u'Negative_regulation']
+[[u'pkc\u03b1', [1078, 1082]], u'Protein']
+[[u'pkc\u03b1', [1102, 1106]], u'Protein']
+[[u'pkc\u03b1', [1111, 1115]], u'Protein']
+[[u'i\u03bab\u03b1', [1205, 1209]], u'Protein']
+[[u'pkc\u03b1 specific sirna', [1333, 1352]], u'Protein']
+
+
+geniatagger: 1
+[[u'm-csf', [28, 33]], u'Protein']
+
+
+metamapper: 1
+[[u'm-csf', [28, 33]], u'Protein']
+
+
+spacy + metamapper: 5
+[[u'm-csf', [28, 33]], u'Protein']
+[[u'p65', [921, 924]], u'Protein']
+[[u'p65', [933, 936]], u'Protein']
+[[u'p65', [952, 955]], u'Protein']
+[[u'kd', [1075, 1077]], u'Negative_regulation']
+
+
+total: 5
+[[u'm-csf', [28, 33]], u'Protein']
+[[u'p65', [921, 924]], u'Protein']
+[[u'p65', [933, 936]], u'Protein']
+[[u'p65', [952, 955]], u'Protein']
+[[u'kd', [1075, 1077]], u'Negative_regulation']

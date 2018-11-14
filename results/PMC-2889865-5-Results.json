@@ -1,0 +1,55 @@
+denotations: 15
+[[u'dependent', [28, 37]], u'Regulation']
+[[u'bcl10', [38, 43]], u'Protein']
+[[u'degradation', [44, 55]], u'Protein_catabolism']
+[[u'i\u03bab\u03b2', [207, 211]], u'Protein']
+[[u'unaffected', [228, 238]], u'Regulation']
+[[u'bcl10', [252, 257]], u'Protein']
+[[u'carma1', [326, 332]], u'Protein']
+[[u'malt1', [337, 342]], u'Protein']
+[[u'bcl10', [430, 435]], u'Protein']
+[[u'activation', [436, 446]], u'Positive_regulation']
+[[u'bcl10', [568, 573]], u'Protein']
+[[u'decreased', [581, 590]], u'Negative_regulation']
+[[u'bcl10', [645, 650]], u'Protein']
+[[u'returned to higher', [651, 669]], u'Positive_regulation']
+[[u'bcl10', [717, 722]], u'Protein']
+
+
+geniatagger: 7
+[[u'bcl10', [252, 257]], u'Protein']
+[[u'carma1', [326, 332]], u'Protein']
+[[u'malt1', [337, 342]], u'Protein']
+[[u'bcl10', [430, 435]], u'Protein']
+[[u'bcl10', [568, 573]], u'Protein']
+[[u'bcl10', [645, 650]], u'Protein']
+[[u'bcl10', [717, 722]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'dependent', [28, 37]], u'Regulation']
+[[u'bcl10', [38, 43]], u'Protein']
+[[u'degradation', [44, 55]], u'Protein_catabolism']
+[[u'bcl10', [252, 257]], u'Protein']
+[[u'bcl10', [430, 435]], u'Protein']
+[[u'activation', [436, 446]], u'Positive_regulation']
+[[u'bcl10', [568, 573]], u'Protein']
+[[u'bcl10', [645, 650]], u'Protein']
+[[u'bcl10', [717, 722]], u'Protein']
+
+
+total: 11
+[[u'bcl10', [252, 257]], u'Protein']
+[[u'carma1', [326, 332]], u'Protein']
+[[u'malt1', [337, 342]], u'Protein']
+[[u'bcl10', [430, 435]], u'Protein']
+[[u'bcl10', [568, 573]], u'Protein']
+[[u'bcl10', [645, 650]], u'Protein']
+[[u'bcl10', [717, 722]], u'Protein']
+[[u'dependent', [28, 37]], u'Regulation']
+[[u'bcl10', [38, 43]], u'Protein']
+[[u'degradation', [44, 55]], u'Protein_catabolism']
+[[u'activation', [436, 446]], u'Positive_regulation']

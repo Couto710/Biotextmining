@@ -1,0 +1,8 @@
+genia tagger: 0
+
+spacy + metamap: 2('magic bullet', 1)
+('surrogate biomarkers', 1)
+
+
+total: 2('magic bullet', 1)
+('surrogate biomarkers', 1)

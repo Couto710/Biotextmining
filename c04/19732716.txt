@@ -1,0 +1,1 @@
+Src Substrate Surprise In this issue of Cancer Cell , Lowy and colleagues show that the SH2 domain of tensin-3 is regulated by phosphorylation by Src, and that this phosphorylation promotes the oncogenic function of tensin-3. Phosphorylation of the SH2 domain represents a novel mechanism for the regulation of SH2 ligand binding. 

@@ -1,0 +1,63 @@
+denotations: 16
+[[u'p53', [10, 13]], u'Protein']
+[[u'p53', [142, 145]], u'Protein']
+[[u'p53', [188, 191]], u'Protein']
+[[u'p21', [285, 288]], u'Protein']
+[[u'mir34', [302, 307]], u'Protein']
+[[u'p53', [309, 312]], u'Protein']
+[[u'bax', [377, 380]], u'Protein']
+[[u'puma', [382, 386]], u'Protein']
+[[u'scotin', [388, 394]], u'Protein']
+[[u'fas', [400, 403]], u'Protein']
+[[u'bcl-2', [443, 448]], u'Protein']
+[[u'p53', [474, 477]], u'Protein']
+[[u'p53', [652, 655]], u'Protein']
+[[u'smooth muscle \u03b1-actin', [731, 752]], u'Protein']
+[[u'collagens ii\u03b11', [775, 789]], u'Protein']
+[[u'vi\u03b11', [794, 798]], u'Protein']
+
+
+geniatagger: 12
+[[u'p53', [10, 13]], u'Protein']
+[[u'p53', [142, 145]], u'Protein']
+[[u'p53', [188, 191]], u'Protein']
+[[u'p21', [285, 288]], u'Protein']
+[[u'p53', [309, 312]], u'Protein']
+[[u'bax', [377, 380]], u'Protein']
+[[u'puma', [382, 386]], u'Protein']
+[[u'scotin', [388, 394]], u'Protein']
+[[u'fas', [400, 403]], u'Protein']
+[[u'bcl-2', [443, 448]], u'Protein']
+[[u'p53', [474, 477]], u'Protein']
+[[u'p53', [652, 655]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'p53', [10, 13]], u'Protein']
+[[u'p53', [142, 145]], u'Protein']
+[[u'p53', [188, 191]], u'Protein']
+[[u'p53', [309, 312]], u'Protein']
+[[u'bax', [377, 380]], u'Protein']
+[[u'puma', [382, 386]], u'Protein']
+[[u'scotin', [388, 394]], u'Protein']
+[[u'bcl-2', [443, 448]], u'Protein']
+[[u'p53', [474, 477]], u'Protein']
+[[u'p53', [652, 655]], u'Protein']
+
+
+total: 12
+[[u'p53', [10, 13]], u'Protein']
+[[u'p53', [142, 145]], u'Protein']
+[[u'p53', [188, 191]], u'Protein']
+[[u'p21', [285, 288]], u'Protein']
+[[u'p53', [309, 312]], u'Protein']
+[[u'bax', [377, 380]], u'Protein']
+[[u'puma', [382, 386]], u'Protein']
+[[u'scotin', [388, 394]], u'Protein']
+[[u'fas', [400, 403]], u'Protein']
+[[u'bcl-2', [443, 448]], u'Protein']
+[[u'p53', [474, 477]], u'Protein']
+[[u'p53', [652, 655]], u'Protein']

@@ -1,0 +1,50 @@
+denotations: 17
+[[u'induce', [13, 19]], u'Positive_regulation']
+[[u'increase', [23, 31]], u'Positive_regulation']
+[[u'icam-1', [35, 41]], u'Protein']
+[[u'tnf-\u03b1', [46, 51]], u'Protein']
+[[u'mrna expression', [52, 67]], u'Transcription']
+[[u'increase', [72, 80]], u'Positive_regulation']
+[[u'icam-1', [92, 98]], u'Protein']
+[[u'expression', [99, 109]], u'Gene_expression']
+[[u'tnf-\u03b1', [114, 119]], u'Protein']
+[[u'production', [120, 130]], u'Gene_expression']
+[[u'upregulation', [163, 175]], u'Positive_regulation']
+[[u'induced', [233, 240]], u'Positive_regulation']
+[[u'increase', [250, 258]], u'Positive_regulation']
+[[u'icam-1', [276, 282]], u'Protein']
+[[u'tnf-\u03b1', [287, 292]], u'Protein']
+[[u'\u03b2-actin', [303, 310]], u'Protein']
+[[u'affected', [332, 340]], u'Regulation']
+
+
+geniatagger: 3
+[[u'icam-1', [35, 41]], u'Protein']
+[[u'icam-1', [92, 98]], u'Protein']
+[[u'icam-1', [276, 282]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'induce', [13, 19]], u'Positive_regulation']
+[[u'increase', [23, 31]], u'Positive_regulation']
+[[u'mrna expression', [52, 67]], u'Transcription']
+[[u'increase', [72, 80]], u'Positive_regulation']
+[[u'expression', [99, 109]], u'Gene_expression']
+[[u'upregulation', [163, 175]], u'Positive_regulation']
+[[u'increase', [250, 258]], u'Positive_regulation']
+
+
+total: 10
+[[u'icam-1', [35, 41]], u'Protein']
+[[u'icam-1', [92, 98]], u'Protein']
+[[u'icam-1', [276, 282]], u'Protein']
+[[u'induce', [13, 19]], u'Positive_regulation']
+[[u'increase', [23, 31]], u'Positive_regulation']
+[[u'mrna expression', [52, 67]], u'Transcription']
+[[u'increase', [72, 80]], u'Positive_regulation']
+[[u'expression', [99, 109]], u'Gene_expression']
+[[u'upregulation', [163, 175]], u'Positive_regulation']
+[[u'increase', [250, 258]], u'Positive_regulation']

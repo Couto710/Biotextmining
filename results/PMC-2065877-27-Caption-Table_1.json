@@ -1,0 +1,20 @@
+denotations: 2
+[[u'lmp1', [47, 51]], u'Protein']
+[[u'transgenic', [52, 62]], u'Gene_expression']
+
+
+geniatagger: 1
+[[u'lmp1', [47, 51]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'lmp1', [47, 51]], u'Protein']
+[[u'transgenic', [52, 62]], u'Gene_expression']
+
+
+total: 2
+[[u'lmp1', [47, 51]], u'Protein']
+[[u'transgenic', [52, 62]], u'Gene_expression']

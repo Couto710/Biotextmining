@@ -1,0 +1,54 @@
+denotations: 19
+[[u'tnf\u03b1', [13, 17]], u'Protein']
+[[u'rip1', [80, 84]], u'Protein']
+[[u'fas-associated protein with death domain', [234, 274]], u'Protein']
+[[u'fadd', [276, 280]], u'Protein']
+[[u'tnf\u03b1', [440, 444]], u'Protein']
+[[u'rip1', [502, 506]], u'Protein']
+[[u'tnf\u03b1', [649, 653]], u'Protein']
+[[u'rip1', [762, 766]], u'Protein']
+[[u'tnf\u03b1', [935, 939]], u'Protein']
+[[u'rip1', [1062, 1066]], u'Protein']
+[[u'tnf\u03b1', [1363, 1367]], u'Protein']
+[[u'tnf\u03b1', [1455, 1459]], u'Protein']
+[[u'tnf\u03b1', [1491, 1495]], u'Protein']
+[[u'akt1', [1653, 1657]], u'Protein']
+[[u'akt2', [1661, 1665]], u'Protein']
+[[u'tnf\u03b1', [1711, 1715]], u'Protein']
+[[u'rip1', [1765, 1769]], u'Protein']
+[[u'tnf\u03b1', [1780, 1784]], u'Protein']
+[[u'tnf\u03b1', [1934, 1938]], u'Protein']
+
+
+geniatagger: 7
+[[u'rip1', [80, 84]], u'Protein']
+[[u'fadd', [276, 280]], u'Protein']
+[[u'rip1', [502, 506]], u'Protein']
+[[u'rip1', [762, 766]], u'Protein']
+[[u'rip1', [1062, 1066]], u'Protein']
+[[u'akt1', [1653, 1657]], u'Protein']
+[[u'akt2', [1661, 1665]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'rip1', [80, 84]], u'Protein']
+[[u'rip1', [502, 506]], u'Protein']
+[[u'rip1', [762, 766]], u'Protein']
+[[u'rip1', [1062, 1066]], u'Protein']
+[[u'akt1', [1653, 1657]], u'Protein']
+[[u'akt2', [1661, 1665]], u'Protein']
+[[u'rip1', [1765, 1769]], u'Protein']
+
+
+total: 8
+[[u'rip1', [80, 84]], u'Protein']
+[[u'fadd', [276, 280]], u'Protein']
+[[u'rip1', [502, 506]], u'Protein']
+[[u'rip1', [762, 766]], u'Protein']
+[[u'rip1', [1062, 1066]], u'Protein']
+[[u'akt1', [1653, 1657]], u'Protein']
+[[u'akt2', [1661, 1665]], u'Protein']
+[[u'rip1', [1765, 1769]], u'Protein']

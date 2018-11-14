@@ -1,0 +1,28 @@
+denotations: 5
+[[u'transfected', [36, 47]], u'Gene_expression']
+[[u'runx1', [53, 58]], u'Protein']
+[[u'runx3', [62, 67]], u'Protein']
+[[u'runx1', [1103, 1108]], u'Protein']
+[[u'runx3', [1112, 1117]], u'Protein']
+
+
+geniatagger: 4
+[[u'runx1', [53, 58]], u'Protein']
+[[u'runx3', [62, 67]], u'Protein']
+[[u'runx1', [1103, 1108]], u'Protein']
+[[u'runx3', [1112, 1117]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'runx3', [62, 67]], u'Protein']
+[[u'runx3', [1112, 1117]], u'Protein']
+
+
+total: 4
+[[u'runx1', [53, 58]], u'Protein']
+[[u'runx3', [62, 67]], u'Protein']
+[[u'runx1', [1103, 1108]], u'Protein']
+[[u'runx3', [1112, 1117]], u'Protein']

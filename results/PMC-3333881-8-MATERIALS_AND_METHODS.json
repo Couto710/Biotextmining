@@ -1,0 +1,18 @@
+denotations: 3
+[[u'gst', [30, 33]], u'Protein']
+[[u'gst', [65, 68]], u'Protein']
+[[u'gst', [98, 101]], u'Protein']
+
+
+geniatagger: 1
+[[u'gst', [30, 33]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'gst', [30, 33]], u'Protein']

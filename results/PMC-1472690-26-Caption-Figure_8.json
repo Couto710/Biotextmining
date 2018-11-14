@@ -1,0 +1,17 @@
+denotations: 1
+[[u'il-1ra', [35, 41]], u'Protein']
+
+
+geniatagger: 1
+[[u'il-1ra', [35, 41]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'il-1ra', [35, 41]], u'Protein']
+
+
+total: 1
+[[u'il-1ra', [35, 41]], u'Protein']

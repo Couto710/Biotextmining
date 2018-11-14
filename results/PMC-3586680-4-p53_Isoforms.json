@@ -1,0 +1,65 @@
+denotations: 22
+[[u'p53', [26, 29]], u'Protein']
+[[u'p53', [243, 246]], u'Protein']
+[[u'p53', [325, 328]], u'Protein']
+[[u'\u03b4133p53', [330, 337]], u'Protein']
+[[u'p53\u03b2', [343, 347]], u'Protein']
+[[u'p53\u03b3', [424, 428]], u'Protein']
+[[u'\u03b4133p53\u03b2', [433, 441]], u'Protein']
+[[u'\u03b4133p53\u03b3', [486, 494]], u'Protein']
+[[u'p53', [568, 571]], u'Protein']
+[[u'p53\u03b2', [576, 580]], u'Protein']
+[[u'p53', [591, 594]], u'Protein']
+[[u'p53', [640, 643]], u'Protein']
+[[u'\u03b4133p53', [649, 656]], u'Protein']
+[[u'p53', [668, 671]], u'Protein']
+[[u'\u03b4133p53', [715, 722]], u'Protein']
+[[u'p53', [767, 770]], u'Protein']
+[[u'\u03b4133p53\u03b2', [847, 855]], u'Protein']
+[[u'\u03b4133p53\u03b3', [859, 867]], u'Protein']
+[[u'p53', [873, 876]], u'Protein']
+[[u'p53', [893, 896]], u'Protein']
+[[u'p21', [925, 928]], u'Protein']
+[[u'bax', [933, 936]], u'Protein']
+
+
+geniatagger: 7
+[[u'p53', [26, 29]], u'Protein']
+[[u'p53', [243, 246]], u'Protein']
+[[u'p53', [325, 328]], u'Protein']
+[[u'p53', [591, 594]], u'Protein']
+[[u'p53', [873, 876]], u'Protein']
+[[u'p21', [925, 928]], u'Protein']
+[[u'bax', [933, 936]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'p53', [26, 29]], u'Protein']
+[[u'p53', [243, 246]], u'Protein']
+[[u'p53', [325, 328]], u'Protein']
+[[u'p53', [568, 571]], u'Protein']
+[[u'p53', [591, 594]], u'Protein']
+[[u'p53', [640, 643]], u'Protein']
+[[u'p53', [668, 671]], u'Protein']
+[[u'p53', [767, 770]], u'Protein']
+[[u'p53', [873, 876]], u'Protein']
+[[u'p53', [893, 896]], u'Protein']
+[[u'bax', [933, 936]], u'Protein']
+
+
+total: 12
+[[u'p53', [26, 29]], u'Protein']
+[[u'p53', [243, 246]], u'Protein']
+[[u'p53', [325, 328]], u'Protein']
+[[u'p53', [591, 594]], u'Protein']
+[[u'p53', [873, 876]], u'Protein']
+[[u'p21', [925, 928]], u'Protein']
+[[u'bax', [933, 936]], u'Protein']
+[[u'p53', [568, 571]], u'Protein']
+[[u'p53', [640, 643]], u'Protein']
+[[u'p53', [668, 671]], u'Protein']
+[[u'p53', [767, 770]], u'Protein']
+[[u'p53', [893, 896]], u'Protein']

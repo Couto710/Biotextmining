@@ -1,0 +1,49 @@
+denotations: 20
+[[u'effect', [0, 6]], u'Regulation']
+[[u'tnf-\u03b1', [17, 22]], u'Protein']
+[[u'production', [23, 33]], u'Gene_expression']
+[[u'in the presence of', [34, 52]], u'Regulation']
+[[u'role', [72, 76]], u'Regulation']
+[[u'induced', [91, 98]], u'Positive_regulation']
+[[u'downregulation', [99, 113]], u'Negative_regulation']
+[[u'tnf-\u03b1', [117, 122]], u'Protein']
+[[u'production', [123, 133]], u'Gene_expression']
+[[u'resulted', [312, 320]], u'Positive_regulation']
+[[u'reduction', [326, 335]], u'Negative_regulation']
+[[u'tnf-\u03b1', [339, 344]], u'Protein']
+[[u'result', [517, 523]], u'Regulation']
+[[u'modulation', [543, 553]], u'Regulation']
+[[u'tnf-\u03b1', [557, 562]], u'Protein']
+[[u'production', [563, 573]], u'Gene_expression']
+[[u'downregulation', [672, 686]], u'Negative_regulation']
+[[u'tnf-\u03b1', [690, 695]], u'Protein']
+[[u'production', [696, 706]], u'Gene_expression']
+[[u'independent', [776, 787]], u'Regulation']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'effect', [0, 6]], u'Regulation']
+[[u'role', [72, 76]], u'Regulation']
+[[u'induced', [91, 98]], u'Positive_regulation']
+[[u'downregulation', [99, 113]], u'Negative_regulation']
+[[u'reduction', [326, 335]], u'Negative_regulation']
+[[u'result', [517, 523]], u'Regulation']
+[[u'modulation', [543, 553]], u'Regulation']
+[[u'downregulation', [672, 686]], u'Negative_regulation']
+
+
+total: 8
+[[u'effect', [0, 6]], u'Regulation']
+[[u'role', [72, 76]], u'Regulation']
+[[u'induced', [91, 98]], u'Positive_regulation']
+[[u'downregulation', [99, 113]], u'Negative_regulation']
+[[u'reduction', [326, 335]], u'Negative_regulation']
+[[u'result', [517, 523]], u'Regulation']
+[[u'modulation', [543, 553]], u'Regulation']
+[[u'downregulation', [672, 686]], u'Negative_regulation']

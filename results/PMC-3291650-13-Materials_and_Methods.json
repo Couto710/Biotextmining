@@ -1,0 +1,27 @@
+denotations: 8
+[[u'collagenase type iv', [55, 74]], u'Protein']
+[[u'cd62l', [471, 476]], u'Protein']
+[[u'granzyme b', [490, 500]], u'Protein']
+[[u'cd3', [535, 538]], u'Protein']
+[[u'ly6g', [605, 609]], u'Protein']
+[[u'cd8\u03b1', [643, 647]], u'Protein']
+[[u'ifn\u03b3', [664, 668]], u'Protein']
+[[u'cd16', [692, 696]], u'Protein']
+
+
+geniatagger: 2
+[[u'cd62l', [471, 476]], u'Protein']
+[[u'cd3', [535, 538]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'granzyme b', [490, 500]], u'Protein']
+
+
+total: 3
+[[u'cd62l', [471, 476]], u'Protein']
+[[u'cd3', [535, 538]], u'Protein']
+[[u'granzyme b', [490, 500]], u'Protein']

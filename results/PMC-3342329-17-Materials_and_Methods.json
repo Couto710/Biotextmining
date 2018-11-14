@@ -1,0 +1,19 @@
+denotations: 2
+[[u'ccr5', [177, 181]], u'Protein']
+[[u'ccr5', [194, 198]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'ccr5', [177, 181]], u'Protein']
+[[u'ccr5', [194, 198]], u'Protein']
+
+
+total: 2
+[[u'ccr5', [177, 181]], u'Protein']
+[[u'ccr5', [194, 198]], u'Protein']

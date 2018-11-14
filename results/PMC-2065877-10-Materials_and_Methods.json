@@ -1,0 +1,21 @@
+denotations: 2
+[[u'lmp1', [31, 35]], u'Protein']
+[[u'lmp1', [184, 188]], u'Protein']
+
+
+geniatagger: 2
+[[u'lmp1', [31, 35]], u'Protein']
+[[u'lmp1', [184, 188]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'lmp1', [31, 35]], u'Protein']
+[[u'lmp1', [184, 188]], u'Protein']
+
+
+total: 2
+[[u'lmp1', [31, 35]], u'Protein']
+[[u'lmp1', [184, 188]], u'Protein']

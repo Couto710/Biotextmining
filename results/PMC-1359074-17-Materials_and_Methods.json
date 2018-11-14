@@ -1,0 +1,29 @@
+denotations: 6
+[[u't4 polynucleotide kinase', [105, 129]], u'Protein']
+[[u'sox6', [226, 230]], u'Protein']
+[[u'bsa', [322, 325]], u'Protein']
+[[u'c-myc', [974, 979]], u'Protein']
+[[u'ha', [981, 983]], u'Protein']
+[[u'sox6', [989, 993]], u'Protein']
+
+
+geniatagger: 3
+[[u'sox6', [226, 230]], u'Protein']
+[[u'c-myc', [974, 979]], u'Protein']
+[[u'sox6', [989, 993]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'sox6', [226, 230]], u'Protein']
+[[u'ha', [981, 983]], u'Protein']
+[[u'sox6', [989, 993]], u'Protein']
+
+
+total: 4
+[[u'sox6', [226, 230]], u'Protein']
+[[u'c-myc', [974, 979]], u'Protein']
+[[u'sox6', [989, 993]], u'Protein']
+[[u'ha', [981, 983]], u'Protein']

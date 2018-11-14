@@ -1,0 +1,12 @@
+genia tagger: 0
+
+spacy + metamap: 4('alternating', 1)
+('effective treatment', 1)
+('electric fields', 1)
+('cancer', 1)
+
+
+total: 4('alternating', 1)
+('effective treatment', 1)
+('electric fields', 1)
+('cancer', 1)

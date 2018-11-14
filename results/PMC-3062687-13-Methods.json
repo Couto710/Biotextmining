@@ -1,0 +1,35 @@
+denotations: 11
+[[u'flag-ikk\u03b2 (ssee)', [23, 39]], u'Protein']
+[[u'flag-ikk\u03b2 (ssaa)', [41, 57]], u'Protein']
+[[u'ha-i\u03bab\u03b1 (ssaa)', [63, 77]], u'Protein']
+[[u'ha-i\u03bab\u03b1', [183, 190]], u'Protein']
+[[u'ikk\u03b2 (k44a)-flag', [195, 211]], u'Protein']
+[[u'flag-rps3', [260, 269]], u'Protein']
+[[u'gst-rps3', [271, 279]], u'Protein']
+[[u'ha-rps3', [281, 288]], u'Protein']
+[[u'vn-ha', [290, 295]], u'Protein']
+[[u'nleh1-ha', [297, 305]], u'Protein']
+[[u'rps3', [367, 371]], u'Protein']
+
+
+geniatagger: 5
+[[u'gst-rps3', [271, 279]], u'Protein']
+[[u'ha-rps3', [281, 288]], u'Protein']
+[[u'vn-ha', [290, 295]], u'Protein']
+[[u'nleh1-ha', [297, 305]], u'Protein']
+[[u'rps3', [367, 371]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'rps3', [367, 371]], u'Protein']
+
+
+total: 5
+[[u'gst-rps3', [271, 279]], u'Protein']
+[[u'ha-rps3', [281, 288]], u'Protein']
+[[u'vn-ha', [290, 295]], u'Protein']
+[[u'nleh1-ha', [297, 305]], u'Protein']
+[[u'rps3', [367, 371]], u'Protein']

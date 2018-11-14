@@ -1,0 +1,63 @@
+denotations: 19
+[[u'c/ebp-\u03b2', [25, 32]], u'Protein']
+[[u'serpinb2', [97, 105]], u'Protein']
+[[u'serpinb2', [106, 114]], u'Protein']
+[[u'plasminogen activator inhibitor type 2', [118, 156]], u'Protein']
+[[u'pai-2', [158, 163]], u'Protein']
+[[u'serpinb2', [416, 424]], u'Protein']
+[[u'toll-like receptor 4', [444, 464]], u'Protein']
+[[u'tlr4', [466, 470]], u'Protein']
+[[u'serpinb2', [558, 566]], u'Protein']
+[[u'serpinb2', [673, 681]], u'Protein']
+[[u'serpinb2', [967, 975]], u'Protein']
+[[u'serpinb2', [1186, 1194]], u'Protein']
+[[u'c/ebp-\u03b2', [1390, 1397]], u'Protein']
+[[u'serpinb2', [1428, 1436]], u'Protein']
+[[u'serpinb2', [1494, 1502]], u'Protein']
+[[u'c/ebp-\u03b2', [1540, 1547]], u'Protein']
+[[u'c/ebp-\u03b2', [1600, 1607]], u'Protein']
+[[u'c/ebp-\u03b2', [1688, 1695]], u'Protein']
+[[u'serpinb2', [1744, 1752]], u'Protein']
+
+
+geniatagger: 8
+[[u'serpinb2', [97, 105]], u'Protein']
+[[u'pai-2', [158, 163]], u'Protein']
+[[u'tlr4', [466, 470]], u'Protein']
+[[u'serpinb2', [558, 566]], u'Protein']
+[[u'serpinb2', [673, 681]], u'Protein']
+[[u'serpinb2', [967, 975]], u'Protein']
+[[u'serpinb2', [1186, 1194]], u'Protein']
+[[u'serpinb2', [1428, 1436]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'serpinb2', [97, 105]], u'Protein']
+[[u'serpinb2', [106, 114]], u'Protein']
+[[u'pai-2', [158, 163]], u'Protein']
+[[u'serpinb2', [416, 424]], u'Protein']
+[[u'serpinb2', [558, 566]], u'Protein']
+[[u'serpinb2', [673, 681]], u'Protein']
+[[u'serpinb2', [967, 975]], u'Protein']
+[[u'serpinb2', [1186, 1194]], u'Protein']
+[[u'serpinb2', [1428, 1436]], u'Protein']
+[[u'serpinb2', [1494, 1502]], u'Protein']
+[[u'serpinb2', [1744, 1752]], u'Protein']
+
+
+total: 12
+[[u'serpinb2', [97, 105]], u'Protein']
+[[u'pai-2', [158, 163]], u'Protein']
+[[u'tlr4', [466, 470]], u'Protein']
+[[u'serpinb2', [558, 566]], u'Protein']
+[[u'serpinb2', [673, 681]], u'Protein']
+[[u'serpinb2', [967, 975]], u'Protein']
+[[u'serpinb2', [1186, 1194]], u'Protein']
+[[u'serpinb2', [1428, 1436]], u'Protein']
+[[u'serpinb2', [106, 114]], u'Protein']
+[[u'serpinb2', [416, 424]], u'Protein']
+[[u'serpinb2', [1494, 1502]], u'Protein']
+[[u'serpinb2', [1744, 1752]], u'Protein']

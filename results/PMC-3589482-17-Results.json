@@ -1,0 +1,33 @@
+denotations: 5
+[[u'serpinb2', [398, 406]], u'Protein']
+[[u'serpinb2', [447, 455]], u'Protein']
+[[u'albumin', [531, 538]], u'Protein']
+[[u'albumin', [1174, 1181]], u'Protein']
+[[u'serpinb2', [1329, 1337]], u'Protein']
+
+
+geniatagger: 5
+[[u'serpinb2', [398, 406]], u'Protein']
+[[u'serpinb2', [447, 455]], u'Protein']
+[[u'albumin', [531, 538]], u'Protein']
+[[u'albumin', [1174, 1181]], u'Protein']
+[[u'serpinb2', [1329, 1337]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'serpinb2', [398, 406]], u'Protein']
+[[u'serpinb2', [447, 455]], u'Protein']
+[[u'albumin', [531, 538]], u'Protein']
+[[u'albumin', [1174, 1181]], u'Protein']
+[[u'serpinb2', [1329, 1337]], u'Protein']
+
+
+total: 5
+[[u'serpinb2', [398, 406]], u'Protein']
+[[u'serpinb2', [447, 455]], u'Protein']
+[[u'albumin', [531, 538]], u'Protein']
+[[u'albumin', [1174, 1181]], u'Protein']
+[[u'serpinb2', [1329, 1337]], u'Protein']

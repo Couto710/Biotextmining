@@ -1,0 +1,27 @@
+denotations: 4
+[[u'lmp1', [233, 237]], u'Protein']
+[[u'lmp1', [282, 286]], u'Protein']
+[[u'lmp1', [431, 435]], u'Protein']
+[[u'stat3', [821, 826]], u'Protein']
+
+
+geniatagger: 2
+[[u'lmp1', [233, 237]], u'Protein']
+[[u'lmp1', [282, 286]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'lmp1', [233, 237]], u'Protein']
+[[u'lmp1', [282, 286]], u'Protein']
+[[u'lmp1', [431, 435]], u'Protein']
+[[u'stat3', [821, 826]], u'Protein']
+
+
+total: 4
+[[u'lmp1', [233, 237]], u'Protein']
+[[u'lmp1', [282, 286]], u'Protein']
+[[u'lmp1', [431, 435]], u'Protein']
+[[u'stat3', [821, 826]], u'Protein']

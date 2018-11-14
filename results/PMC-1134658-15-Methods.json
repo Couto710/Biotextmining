@@ -1,0 +1,69 @@
+denotations: 17
+[[u'bmp-6', [12, 17]], u'Protein']
+[[u'expression', [39, 49]], u'Transcription']
+[[u'expression', [61, 71]], u'Gene_expression']
+[[u'bmp-6', [79, 84]], u'Protein']
+[[u'mrna expression', [570, 585]], u'Transcription']
+[[u'bmp6', [589, 593]], u'Protein']
+[[u'id1', [595, 598]], u'Protein']
+[[u'id4', [599, 602]], u'Protein']
+[[u'pgk1', [607, 611]], u'Protein']
+[[u'bmp-6', [801, 806]], u'Protein']
+[[u'expression', [916, 926]], u'Gene_expression']
+[[u'bmp6', [975, 979]], u'Protein']
+[[u'id1', [1012, 1015]], u'Protein']
+[[u'expression', [1121, 1131]], u'Gene_expression']
+[[u'pgk1', [1141, 1145]], u'Protein']
+[[u'pgk1', [1147, 1151]], u'Protein']
+[[u'have low expression', [1193, 1212]], u'Gene_expression']
+
+
+geniatagger: 9
+[[u'bmp-6', [12, 17]], u'Protein']
+[[u'bmp-6', [79, 84]], u'Protein']
+[[u'bmp6', [589, 593]], u'Protein']
+[[u'pgk1', [607, 611]], u'Protein']
+[[u'bmp-6', [801, 806]], u'Protein']
+[[u'bmp6', [975, 979]], u'Protein']
+[[u'id1', [1012, 1015]], u'Protein']
+[[u'pgk1', [1141, 1145]], u'Protein']
+[[u'pgk1', [1147, 1151]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 15
+[[u'bmp-6', [12, 17]], u'Protein']
+[[u'expression', [39, 49]], u'Transcription']
+[[u'expression', [61, 71]], u'Gene_expression']
+[[u'bmp-6', [79, 84]], u'Protein']
+[[u'mrna expression', [570, 585]], u'Transcription']
+[[u'bmp6', [589, 593]], u'Protein']
+[[u'id1', [595, 598]], u'Protein']
+[[u'pgk1', [607, 611]], u'Protein']
+[[u'bmp-6', [801, 806]], u'Protein']
+[[u'expression', [916, 926]], u'Gene_expression']
+[[u'bmp6', [975, 979]], u'Protein']
+[[u'id1', [1012, 1015]], u'Protein']
+[[u'expression', [1121, 1131]], u'Gene_expression']
+[[u'pgk1', [1141, 1145]], u'Protein']
+[[u'pgk1', [1147, 1151]], u'Protein']
+
+
+total: 15
+[[u'bmp-6', [12, 17]], u'Protein']
+[[u'bmp-6', [79, 84]], u'Protein']
+[[u'bmp6', [589, 593]], u'Protein']
+[[u'pgk1', [607, 611]], u'Protein']
+[[u'bmp-6', [801, 806]], u'Protein']
+[[u'bmp6', [975, 979]], u'Protein']
+[[u'id1', [1012, 1015]], u'Protein']
+[[u'pgk1', [1141, 1145]], u'Protein']
+[[u'pgk1', [1147, 1151]], u'Protein']
+[[u'expression', [39, 49]], u'Transcription']
+[[u'expression', [61, 71]], u'Gene_expression']
+[[u'mrna expression', [570, 585]], u'Transcription']
+[[u'id1', [595, 598]], u'Protein']
+[[u'expression', [916, 926]], u'Gene_expression']
+[[u'expression', [1121, 1131]], u'Gene_expression']

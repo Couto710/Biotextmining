@@ -1,0 +1,70 @@
+denotations: 20
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'foxp3', [44, 49]], u'Protein']
+[[u'foxp3', [56, 61]], u'Protein']
+[[u'foxp3', [83, 88]], u'Protein']
+[[u'lacking', [89, 96]], u'Negative_regulation']
+[[u'forkhead (fkh) domain', [101, 122]], u'Entity']
+[[u'tax', [316, 319]], u'Protein']
+[[u'luciferase', [597, 607]], u'Protein']
+[[u'cat', [694, 697]], u'Protein']
+[[u'cat', [712, 715]], u'Protein']
+[[u'luciferase', [846, 856]], u'Protein']
+[[u'p300', [875, 879]], u'Protein']
+[[u'expression', [883, 893]], u'Gene_expression']
+[[u'creb-1', [1080, 1086]], u'Protein']
+[[u'c-jun', [1097, 1102]], u'Protein']
+[[u'tax', [1139, 1142]], u'Protein']
+[[u'gal4', [1188, 1192]], u'Protein']
+[[u'tax', [1237, 1240]], u'Protein']
+[[u'tax', [1289, 1292]], u'Protein']
+[[u'tax', [1305, 1308]], u'Protein']
+
+
+geniatagger: 7
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'foxp3', [44, 49]], u'Protein']
+[[u'luciferase', [597, 607]], u'Protein']
+[[u'expression', [883, 893]], u'Gene_expression']
+[[u'gal4', [1188, 1192]], u'Protein']
+[[u'tax', [1237, 1240]], u'Protein']
+[[u'tax', [1289, 1292]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 14
+[[u'foxp3', [44, 49]], u'Protein']
+[[u'foxp3', [56, 61]], u'Protein']
+[[u'foxp3', [83, 88]], u'Protein']
+[[u'tax', [316, 319]], u'Protein']
+[[u'luciferase', [597, 607]], u'Protein']
+[[u'cat', [694, 697]], u'Protein']
+[[u'cat', [712, 715]], u'Protein']
+[[u'luciferase', [846, 856]], u'Protein']
+[[u'p300', [875, 879]], u'Protein']
+[[u'tax', [1139, 1142]], u'Protein']
+[[u'gal4', [1188, 1192]], u'Protein']
+[[u'tax', [1237, 1240]], u'Protein']
+[[u'tax', [1289, 1292]], u'Protein']
+[[u'tax', [1305, 1308]], u'Protein']
+
+
+total: 16
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'foxp3', [44, 49]], u'Protein']
+[[u'luciferase', [597, 607]], u'Protein']
+[[u'expression', [883, 893]], u'Gene_expression']
+[[u'gal4', [1188, 1192]], u'Protein']
+[[u'tax', [1237, 1240]], u'Protein']
+[[u'tax', [1289, 1292]], u'Protein']
+[[u'foxp3', [56, 61]], u'Protein']
+[[u'foxp3', [83, 88]], u'Protein']
+[[u'tax', [316, 319]], u'Protein']
+[[u'cat', [694, 697]], u'Protein']
+[[u'cat', [712, 715]], u'Protein']
+[[u'luciferase', [846, 856]], u'Protein']
+[[u'p300', [875, 879]], u'Protein']
+[[u'tax', [1139, 1142]], u'Protein']
+[[u'tax', [1305, 1308]], u'Protein']

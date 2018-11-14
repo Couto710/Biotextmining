@@ -1,0 +1,22 @@
+denotations: 3
+[[u'a3g', [16, 19]], u'Protein']
+[[u'transcriptional start sites', [267, 294]], u'Protein']
+[[u'luciferase', [420, 430]], u'Protein']
+
+
+geniatagger: 2
+[[u'a3g', [16, 19]], u'Protein']
+[[u'luciferase', [420, 430]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'a3g', [16, 19]], u'Protein']
+[[u'luciferase', [420, 430]], u'Protein']
+
+
+total: 2
+[[u'a3g', [16, 19]], u'Protein']
+[[u'luciferase', [420, 430]], u'Protein']

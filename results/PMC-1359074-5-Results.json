@@ -1,0 +1,31 @@
+denotations: 14
+[[u'\u025by globin', [29, 38]], u'Protein']
+[[u'sox6', [42, 46]], u'Protein']
+[[u'\u025by', [88, 90]], u'Protein']
+[[u'\u025by globin', [160, 169]], u'Protein']
+[[u'\u025by globin', [317, 326]], u'Protein']
+[[u'\u025by globin', [404, 413]], u'Protein']
+[[u'\u025by globin', [477, 486]], u'Protein']
+[[u'\u025by globin', [566, 575]], u'Protein']
+[[u'\u025by', [701, 703]], u'Protein']
+[[u'\u03b2maj', [804, 808]], u'Protein']
+[[u'min globin', [809, 819]], u'Protein']
+[[u'\u025by', [951, 953]], u'Protein']
+[[u'\u025by', [1102, 1104]], u'Protein']
+[[u'sox6', [1128, 1132]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'sox6', [42, 46]], u'Protein']
+[[u'sox6', [1128, 1132]], u'Protein']
+
+
+total: 2
+[[u'sox6', [42, 46]], u'Protein']
+[[u'sox6', [1128, 1132]], u'Protein']

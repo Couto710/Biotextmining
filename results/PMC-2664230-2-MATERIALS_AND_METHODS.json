@@ -1,0 +1,29 @@
+denotations: 11
+[[u'phosphorylated', [721, 735]], u'Phosphorylation']
+[[u'creb', [736, 740]], u'Protein']
+[[u'serine 133', [742, 752]], u'Entity']
+[[u'phosphorylated', [755, 769]], u'Phosphorylation']
+[[u'i-\u03bab\u03b1', [770, 775]], u'Protein']
+[[u'serines 32', [777, 787]], u'Entity']
+[[u'36', [792, 794]], u'Entity']
+[[u'phosphorylated', [797, 811]], u'Phosphorylation']
+[[u'p65', [818, 821]], u'Protein']
+[[u'serine 276', [831, 841]], u'Entity']
+[[u'tnf-\u03b1', [1065, 1070]], u'Protein']
+
+
+geniatagger: 2
+[[u'creb', [736, 740]], u'Protein']
+[[u'p65', [818, 821]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [818, 821]], u'Protein']
+
+
+total: 2
+[[u'creb', [736, 740]], u'Protein']
+[[u'p65', [818, 821]], u'Protein']

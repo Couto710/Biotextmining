@@ -1,0 +1,28 @@
+denotations: 5
+[[u'cd8', [164, 167]], u'Protein']
+[[u'annexin v', [322, 331]], u'Protein']
+[[u'cd8', [346, 349]], u'Protein']
+[[u'cd8', [453, 456]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'cd8', [164, 167]], u'Protein']
+[[u'annexin v', [322, 331]], u'Protein']
+[[u'cd8', [346, 349]], u'Protein']
+[[u'cd8', [453, 456]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']
+
+
+total: 5
+[[u'cd8', [164, 167]], u'Protein']
+[[u'annexin v', [322, 331]], u'Protein']
+[[u'cd8', [346, 349]], u'Protein']
+[[u'cd8', [453, 456]], u'Protein']
+[[u'annexin v', [508, 517]], u'Protein']

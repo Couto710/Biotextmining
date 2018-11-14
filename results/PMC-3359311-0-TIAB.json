@@ -1,0 +1,60 @@
+denotations: 35
+[[u'mediated', [13, 21]], u'Positive_regulation']
+[[u'il-1\u03b2', [22, 27]], u'Protein']
+[[u'production', [28, 38]], u'Gene_expression']
+[[u'interleukin-1 beta', [241, 259]], u'Protein']
+[[u'il-1\u03b2', [261, 266]], u'Protein']
+[[u'secretion', [300, 309]], u'Localization']
+[[u'il-1\u03b2', [333, 338]], u'Protein']
+[[u'involves', [339, 347]], u'Regulation']
+[[u'il-1\u03b2', [424, 429]], u'Protein']
+[[u'mediated', [513, 521]], u'Positive_regulation']
+[[u'il-1\u03b2', [522, 527]], u'Protein']
+[[u'production', [528, 538]], u'Gene_expression']
+[[u'produce', [659, 666]], u'Gene_expression']
+[[u'stimulated', [698, 708]], u'Positive_regulation']
+[[u'il-1\u03b2', [709, 714]], u'Protein']
+[[u'produced', [937, 945]], u'Gene_expression']
+[[u'il-1\u03b2', [963, 968]], u'Protein']
+[[u'upon', [1013, 1017]], u'Positive_regulation']
+[[u'il-1\u03b2', [1133, 1138]], u'Protein']
+[[u'production', [1139, 1149]], u'Gene_expression']
+[[u'stimulated', [1155, 1165]], u'Positive_regulation']
+[[u'il-1\u03b2', [1201, 1206]], u'Protein']
+[[u'alter', [1394, 1399]], u'Regulation']
+[[u'il-1\u03b2', [1400, 1405]], u'Protein']
+[[u'production', [1414, 1424]], u'Gene_expression']
+[[u'in response to', [1425, 1439]], u'Positive_regulation']
+[[u'induced', [1538, 1545]], u'Positive_regulation']
+[[u'il-1\u03b2', [1563, 1568]], u'Protein']
+[[u'preserved', [1615, 1624]], u'Positive_regulation']
+[[u'il-1\u03b2', [1653, 1658]], u'Protein']
+[[u'secretion', [1659, 1668]], u'Localization']
+[[u'increased', [1783, 1792]], u'Positive_regulation']
+[[u' il-1\u03b2', [1792, 1798]], u'Protein']
+[[u'production', [1799, 1809]], u'Gene_expression']
+[[u'due', [1828, 1831]], u'Positive_regulation']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'mediated', [13, 21]], u'Positive_regulation']
+[[u'secretion', [300, 309]], u'Localization']
+[[u'mediated', [513, 521]], u'Positive_regulation']
+[[u'induced', [1538, 1545]], u'Positive_regulation']
+[[u'preserved', [1615, 1624]], u'Positive_regulation']
+[[u'secretion', [1659, 1668]], u'Localization']
+
+
+total: 6
+[[u'mediated', [13, 21]], u'Positive_regulation']
+[[u'secretion', [300, 309]], u'Localization']
+[[u'mediated', [513, 521]], u'Positive_regulation']
+[[u'induced', [1538, 1545]], u'Positive_regulation']
+[[u'preserved', [1615, 1624]], u'Positive_regulation']
+[[u'secretion', [1659, 1668]], u'Localization']

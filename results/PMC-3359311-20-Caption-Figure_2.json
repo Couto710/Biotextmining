@@ -1,0 +1,21 @@
+denotations: 8
+[[u'contribute', [45, 55]], u'Positive_regulation']
+[[u'il-1\u03b2', [59, 64]], u'Protein']
+[[u'production', [65, 75]], u'Gene_expression']
+[[u'in response to', [76, 90]], u'Positive_regulation']
+[[u'il-1\u03b2', [287, 292]], u'Protein']
+[[u'il-1\u03b2', [474, 479]], u'Protein']
+[[u'production', [489, 499]], u'Gene_expression']
+[[u'il-1\u03b2', [570, 575]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 0

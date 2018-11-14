@@ -1,0 +1,54 @@
+denotations: 15
+[[u'p65', [6, 9]], u'Protein']
+[[u'transfected', [100, 111]], u'Gene_expression']
+[[u'p65', [186, 189]], u'Protein']
+[[u'p65', [202, 205]], u'Protein']
+[[u'm-csf', [381, 386]], u'Protein']
+[[u'p65', [456, 459]], u'Protein']
+[[u'transfected', [489, 500]], u'Gene_expression']
+[[u'p65', [575, 578]], u'Protein']
+[[u'p65', [589, 592]], u'Protein']
+[[u'p65', [610, 613]], u'Protein']
+[[u'p65', [876, 879]], u'Protein']
+[[u'transfected', [909, 920]], u'Gene_expression']
+[[u'p65', [996, 999]], u'Protein']
+[[u'p65', [1012, 1015]], u'Protein']
+[[u'tnf\u03b1', [1190, 1194]], u'Protein']
+
+
+geniatagger: 4
+[[u'p65', [6, 9]], u'Protein']
+[[u'p65', [202, 205]], u'Protein']
+[[u'm-csf', [381, 386]], u'Protein']
+[[u'p65', [1012, 1015]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'p65', [6, 9]], u'Protein']
+[[u'p65', [186, 189]], u'Protein']
+[[u'p65', [202, 205]], u'Protein']
+[[u'm-csf', [381, 386]], u'Protein']
+[[u'p65', [456, 459]], u'Protein']
+[[u'p65', [575, 578]], u'Protein']
+[[u'p65', [589, 592]], u'Protein']
+[[u'p65', [610, 613]], u'Protein']
+[[u'p65', [876, 879]], u'Protein']
+[[u'p65', [996, 999]], u'Protein']
+[[u'p65', [1012, 1015]], u'Protein']
+
+
+total: 11
+[[u'p65', [6, 9]], u'Protein']
+[[u'p65', [202, 205]], u'Protein']
+[[u'm-csf', [381, 386]], u'Protein']
+[[u'p65', [1012, 1015]], u'Protein']
+[[u'p65', [186, 189]], u'Protein']
+[[u'p65', [456, 459]], u'Protein']
+[[u'p65', [575, 578]], u'Protein']
+[[u'p65', [589, 592]], u'Protein']
+[[u'p65', [610, 613]], u'Protein']
+[[u'p65', [876, 879]], u'Protein']
+[[u'p65', [996, 999]], u'Protein']

@@ -1,0 +1,32 @@
+denotations: 8
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'activates', [6, 15]], u'Positive_regulation']
+[[u'pkc\u03b1', [16, 20]], u'Protein']
+[[u'm-csf', [54, 59]], u'Protein']
+[[u'pkc\u03b1', [429, 433]], u'Protein']
+[[u'pkc\u03b1', [623, 627]], u'Protein']
+[[u'm-csf', [675, 680]], u'Protein']
+[[u'm-csf', [774, 779]], u'Protein']
+
+
+geniatagger: 3
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [54, 59]], u'Protein']
+[[u'm-csf', [675, 680]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [54, 59]], u'Protein']
+[[u'm-csf', [675, 680]], u'Protein']
+[[u'm-csf', [774, 779]], u'Protein']
+
+
+total: 4
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [54, 59]], u'Protein']
+[[u'm-csf', [675, 680]], u'Protein']
+[[u'm-csf', [774, 779]], u'Protein']

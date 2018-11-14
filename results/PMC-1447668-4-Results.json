@@ -1,0 +1,67 @@
+denotations: 18
+[[u'foxp3', [0, 5]], u'Protein']
+[[u'foxp3', [87, 92]], u'Protein']
+[[u'foxp3', [180, 185]], u'Protein']
+[[u'overexpression', [186, 200]], u'Positive_regulation']
+[[u'cd4', [633, 636]], u'Protein']
+[[u'overexpression', [652, 666]], u'Positive_regulation']
+[[u'foxp3', [682, 687]], u'Protein']
+[[u'\u03b4fkh', [697, 701]], u'Protein']
+[[u'foxp3', [950, 955]], u'Protein']
+[[u'\u03b4fkh', [960, 964]], u'Protein']
+[[u'foxp3', [1016, 1021]], u'Protein']
+[[u'interactions', [1072, 1084]], u'Binding']
+[[u'cd4', [1410, 1413]], u'Protein']
+[[u'foxp3', [1485, 1490]], u'Protein']
+[[u'overexpression', [1491, 1505]], u'Positive_regulation']
+[[u'foxp3', [1571, 1576]], u'Protein']
+[[u'foxp3', [1739, 1744]], u'Protein']
+[[u'foxp3', [1905, 1910]], u'Protein']
+
+
+geniatagger: 6
+[[u'foxp3', [0, 5]], u'Protein']
+[[u'foxp3', [180, 185]], u'Protein']
+[[u'foxp3', [682, 687]], u'Protein']
+[[u'foxp3', [1485, 1490]], u'Protein']
+[[u'foxp3', [1571, 1576]], u'Protein']
+[[u'foxp3', [1905, 1910]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 15
+[[u'foxp3', [0, 5]], u'Protein']
+[[u'foxp3', [87, 92]], u'Protein']
+[[u'foxp3', [180, 185]], u'Protein']
+[[u'overexpression', [186, 200]], u'Positive_regulation']
+[[u'cd4', [633, 636]], u'Protein']
+[[u'overexpression', [652, 666]], u'Positive_regulation']
+[[u'foxp3', [682, 687]], u'Protein']
+[[u'foxp3', [950, 955]], u'Protein']
+[[u'foxp3', [1016, 1021]], u'Protein']
+[[u'cd4', [1410, 1413]], u'Protein']
+[[u'foxp3', [1485, 1490]], u'Protein']
+[[u'overexpression', [1491, 1505]], u'Positive_regulation']
+[[u'foxp3', [1571, 1576]], u'Protein']
+[[u'foxp3', [1739, 1744]], u'Protein']
+[[u'foxp3', [1905, 1910]], u'Protein']
+
+
+total: 15
+[[u'foxp3', [0, 5]], u'Protein']
+[[u'foxp3', [180, 185]], u'Protein']
+[[u'foxp3', [682, 687]], u'Protein']
+[[u'foxp3', [1485, 1490]], u'Protein']
+[[u'foxp3', [1571, 1576]], u'Protein']
+[[u'foxp3', [1905, 1910]], u'Protein']
+[[u'foxp3', [87, 92]], u'Protein']
+[[u'overexpression', [186, 200]], u'Positive_regulation']
+[[u'cd4', [633, 636]], u'Protein']
+[[u'overexpression', [652, 666]], u'Positive_regulation']
+[[u'foxp3', [950, 955]], u'Protein']
+[[u'foxp3', [1016, 1021]], u'Protein']
+[[u'cd4', [1410, 1413]], u'Protein']
+[[u'overexpression', [1491, 1505]], u'Positive_regulation']
+[[u'foxp3', [1739, 1744]], u'Protein']

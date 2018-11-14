@@ -1,0 +1,28 @@
+denotations: 4
+[[u'foxp3', [15, 20]], u'Protein']
+[[u'foxp3', [73, 78]], u'Protein']
+[[u'foxp3', [165, 170]], u'Protein']
+[[u'foxp3', [220, 225]], u'Protein']
+
+
+geniatagger: 3
+[[u'foxp3', [15, 20]], u'Protein']
+[[u'foxp3', [73, 78]], u'Protein']
+[[u'foxp3', [165, 170]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'foxp3', [15, 20]], u'Protein']
+[[u'foxp3', [73, 78]], u'Protein']
+[[u'foxp3', [165, 170]], u'Protein']
+[[u'foxp3', [220, 225]], u'Protein']
+
+
+total: 4
+[[u'foxp3', [15, 20]], u'Protein']
+[[u'foxp3', [73, 78]], u'Protein']
+[[u'foxp3', [165, 170]], u'Protein']
+[[u'foxp3', [220, 225]], u'Protein']

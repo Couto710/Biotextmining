@@ -1,0 +1,48 @@
+denotations: 8
+[[u'high', [0, 4]], u'Positive_regulation']
+[[u'lmp1', [5, 9]], u'Protein']
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'lmp1', [65, 69]], u'Protein']
+[[u'expression', [70, 80]], u'Gene_expression']
+[[u'cd19', [133, 137]], u'Protein']
+[[u'lmp1', [219, 223]], u'Protein']
+[[u'lmp1', [311, 315]], u'Protein']
+
+
+geniatagger: 3
+[[u'lmp1', [5, 9]], u'Protein']
+[[u'lmp1', [65, 69]], u'Protein']
+[[u'lmp1', [219, 223]], u'Protein']
+
+
+metamapper: 8
+[[u'high', [0, 4]], u'Positive_regulation']
+[[u'lmp1', [5, 9]], u'Protein']
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'lmp1', [65, 69]], u'Protein']
+[[u'expression', [70, 80]], u'Gene_expression']
+[[u'cd19', [133, 137]], u'Protein']
+[[u'lmp1', [219, 223]], u'Protein']
+[[u'lmp1', [311, 315]], u'Protein']
+
+
+spacy + metamapper: 8
+[[u'high', [0, 4]], u'Positive_regulation']
+[[u'lmp1', [5, 9]], u'Protein']
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'lmp1', [65, 69]], u'Protein']
+[[u'expression', [70, 80]], u'Gene_expression']
+[[u'cd19', [133, 137]], u'Protein']
+[[u'lmp1', [219, 223]], u'Protein']
+[[u'lmp1', [311, 315]], u'Protein']
+
+
+total: 8
+[[u'lmp1', [5, 9]], u'Protein']
+[[u'lmp1', [65, 69]], u'Protein']
+[[u'lmp1', [219, 223]], u'Protein']
+[[u'high', [0, 4]], u'Positive_regulation']
+[[u'expression', [10, 20]], u'Gene_expression']
+[[u'expression', [70, 80]], u'Gene_expression']
+[[u'cd19', [133, 137]], u'Protein']
+[[u'lmp1', [311, 315]], u'Protein']

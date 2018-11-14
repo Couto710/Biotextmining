@@ -1,0 +1,61 @@
+denotations: 14
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'activities', [11, 21]], u'Positive_regulation']
+[[u'a3g', [25, 28]], u'Protein']
+[[u'promoter', [29, 37]], u'Entity']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'luciferase', [161, 171]], u'Protein']
+[[u'a3g', [348, 351]], u'Protein']
+[[u'a3g', [431, 434]], u'Protein']
+[[u'a3g', [465, 468]], u'Protein']
+[[u'a3g', [592, 595]], u'Protein']
+[[u'luciferase', [659, 669]], u'Protein']
+[[u'luciferase', [685, 695]], u'Protein']
+[[u'coexpressed', [726, 737]], u'Gene_expression']
+[[u'luciferase', [746, 756]], u'Protein']
+
+
+geniatagger: 8
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'a3g', [25, 28]], u'Protein']
+[[u'promoter', [29, 37]], u'Entity']
+[[u'luciferase', [161, 171]], u'Protein']
+[[u'a3g', [348, 351]], u'Protein']
+[[u'a3g', [431, 434]], u'Protein']
+[[u'a3g', [592, 595]], u'Protein']
+[[u'luciferase', [659, 669]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'activities', [11, 21]], u'Positive_regulation']
+[[u'a3g', [25, 28]], u'Protein']
+[[u'promoter', [29, 37]], u'Entity']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'luciferase', [161, 171]], u'Protein']
+[[u'a3g', [348, 351]], u'Protein']
+[[u'a3g', [431, 434]], u'Protein']
+[[u'a3g', [465, 468]], u'Protein']
+[[u'a3g', [592, 595]], u'Protein']
+[[u'luciferase', [659, 669]], u'Protein']
+[[u'luciferase', [685, 695]], u'Protein']
+[[u'luciferase', [746, 756]], u'Protein']
+
+
+total: 13
+[[u'luciferase', [0, 10]], u'Protein']
+[[u'a3g', [25, 28]], u'Protein']
+[[u'promoter', [29, 37]], u'Entity']
+[[u'luciferase', [161, 171]], u'Protein']
+[[u'a3g', [348, 351]], u'Protein']
+[[u'a3g', [431, 434]], u'Protein']
+[[u'a3g', [592, 595]], u'Protein']
+[[u'luciferase', [659, 669]], u'Protein']
+[[u'activities', [11, 21]], u'Positive_regulation']
+[[u'a3g', [78, 81]], u'Protein']
+[[u'a3g', [465, 468]], u'Protein']
+[[u'luciferase', [685, 695]], u'Protein']
+[[u'luciferase', [746, 756]], u'Protein']

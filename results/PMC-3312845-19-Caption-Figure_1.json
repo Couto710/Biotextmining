@@ -1,0 +1,17 @@
+denotations: 4
+[[u'tnf-\u03b1', [14, 19]], u'Protein']
+[[u'tnf-\u03b1', [66, 71]], u'Protein']
+[[u'tnfp55r', [131, 138]], u'Protein']
+[[u'tnfp75r', [180, 187]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 0

@@ -1,0 +1,43 @@
+denotations: 9
+[[u'protein g', [887, 896]], u'Protein']
+[[u'protein g', [1229, 1238]], u'Protein']
+[[u'mip-1\u03b1', [2119, 2125]], u'Protein']
+[[u'gapdh', [2127, 2132]], u'Protein']
+[[u'actb', [2137, 2141]], u'Protein']
+[[u'csf3', [2193, 2197]], u'Protein']
+[[u'lta', [2199, 2202]], u'Protein']
+[[u'nfkbia', [2204, 2210]], u'Protein']
+[[u'tlr2', [2215, 2219]], u'Protein']
+
+
+geniatagger: 6
+[[u'gapdh', [2127, 2132]], u'Protein']
+[[u'actb', [2137, 2141]], u'Protein']
+[[u'csf3', [2193, 2197]], u'Protein']
+[[u'lta', [2199, 2202]], u'Protein']
+[[u'nfkbia', [2204, 2210]], u'Protein']
+[[u'tlr2', [2215, 2219]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'protein g', [887, 896]], u'Protein']
+[[u'protein g', [1229, 1238]], u'Protein']
+[[u'gapdh', [2127, 2132]], u'Protein']
+[[u'actb', [2137, 2141]], u'Protein']
+[[u'csf3', [2193, 2197]], u'Protein']
+[[u'lta', [2199, 2202]], u'Protein']
+[[u'nfkbia', [2204, 2210]], u'Protein']
+
+
+total: 8
+[[u'gapdh', [2127, 2132]], u'Protein']
+[[u'actb', [2137, 2141]], u'Protein']
+[[u'csf3', [2193, 2197]], u'Protein']
+[[u'lta', [2199, 2202]], u'Protein']
+[[u'nfkbia', [2204, 2210]], u'Protein']
+[[u'tlr2', [2215, 2219]], u'Protein']
+[[u'protein g', [887, 896]], u'Protein']
+[[u'protein g', [1229, 1238]], u'Protein']

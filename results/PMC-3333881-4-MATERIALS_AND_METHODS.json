@@ -1,0 +1,23 @@
+denotations: 7
+[[u'sirna tat sense', [463, 478]], u'Protein']
+[[u'sirna tat antisense', [506, 525]], u'Protein']
+[[u'interference', [650, 662]], u'Negative_regulation']
+[[u'p65', [666, 669]], u'Protein']
+[[u'i\u03bab-\u03b1', [674, 679]], u'Protein']
+[[u'sirna p65', [710, 719]], u'Protein']
+[[u'i\u03bab-\u03b1', [724, 729]], u'Protein']
+
+
+geniatagger: 1
+[[u'p65', [666, 669]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [666, 669]], u'Protein']
+
+
+total: 1
+[[u'p65', [666, 669]], u'Protein']

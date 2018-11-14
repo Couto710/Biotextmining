@@ -1,0 +1,27 @@
+denotations: 4
+[[u'kc', [442, 444]], u'Protein']
+[[u'mip-2', [446, 451]], u'Protein']
+[[u'mcp-1', [453, 458]], u'Protein']
+[[u'il-6', [460, 464]], u'Protein']
+
+
+geniatagger: 3
+[[u'mip-2', [446, 451]], u'Protein']
+[[u'mcp-1', [453, 458]], u'Protein']
+[[u'il-6', [460, 464]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'kc', [442, 444]], u'Protein']
+[[u'mcp-1', [453, 458]], u'Protein']
+[[u'il-6', [460, 464]], u'Protein']
+
+
+total: 4
+[[u'mip-2', [446, 451]], u'Protein']
+[[u'mcp-1', [453, 458]], u'Protein']
+[[u'il-6', [460, 464]], u'Protein']
+[[u'kc', [442, 444]], u'Protein']

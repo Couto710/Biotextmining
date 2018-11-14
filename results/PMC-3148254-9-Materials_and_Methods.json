@@ -1,0 +1,39 @@
+denotations: 8
+[[u'hoip', [46, 50]], u'Protein']
+[[u'deficient', [51, 60]], u'Negative_regulation']
+[[u'rnf31', [169, 174]], u'Protein']
+[[u'rnf31', [1176, 1181]], u'Protein']
+[[u'disrupted', [1191, 1200]], u'Negative_regulation']
+[[u'rnf31', [1400, 1405]], u'Protein']
+[[u'hoip', [1481, 1485]], u'Protein']
+[[u'expression', [1494, 1504]], u'Gene_expression']
+
+
+geniatagger: 3
+[[u'rnf31', [169, 174]], u'Protein']
+[[u'rnf31', [1176, 1181]], u'Protein']
+[[u'rnf31', [1400, 1405]], u'Protein']
+
+
+metamapper: 3
+[[u'hoip', [46, 50]], u'Protein']
+[[u'deficient', [51, 60]], u'Negative_regulation']
+[[u'hoip', [1481, 1485]], u'Protein']
+
+
+spacy + metamapper: 6
+[[u'hoip', [46, 50]], u'Protein']
+[[u'deficient', [51, 60]], u'Negative_regulation']
+[[u'rnf31', [169, 174]], u'Protein']
+[[u'rnf31', [1176, 1181]], u'Protein']
+[[u'rnf31', [1400, 1405]], u'Protein']
+[[u'hoip', [1481, 1485]], u'Protein']
+
+
+total: 6
+[[u'rnf31', [169, 174]], u'Protein']
+[[u'rnf31', [1176, 1181]], u'Protein']
+[[u'rnf31', [1400, 1405]], u'Protein']
+[[u'hoip', [46, 50]], u'Protein']
+[[u'deficient', [51, 60]], u'Negative_regulation']
+[[u'hoip', [1481, 1485]], u'Protein']

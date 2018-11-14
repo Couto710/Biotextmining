@@ -1,0 +1,25 @@
+denotations: 3
+[[u'il-8', [20, 24]], u'Protein']
+[[u'interleukin-8', [111, 124]], u'Protein']
+[[u'kit', [144, 147]], u'Protein']
+
+
+geniatagger: 1
+[[u'il-8', [20, 24]], u'Protein']
+
+
+metamapper: 3
+[[u'il-8', [20, 24]], u'Protein']
+[[u'interleukin-8', [111, 124]], u'Protein']
+[[u'kit', [144, 147]], u'Protein']
+
+
+spacy + metamapper: 2
+[[u'interleukin-8', [111, 124]], u'Protein']
+[[u'kit', [144, 147]], u'Protein']
+
+
+total: 3
+[[u'il-8', [20, 24]], u'Protein']
+[[u'interleukin-8', [111, 124]], u'Protein']
+[[u'kit', [144, 147]], u'Protein']

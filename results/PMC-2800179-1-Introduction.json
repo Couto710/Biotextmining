@@ -1,0 +1,34 @@
+denotations: 11
+[[u'il-8', [1281, 1285]], u'Protein']
+[[u'production', [1286, 1296]], u'Gene_expression']
+[[u'via', [1351, 1354]], u'Positive_regulation']
+[[u'increased', [2641, 2650]], u'Positive_regulation']
+[[u'icam-1', [2651, 2657]], u'Protein']
+[[u'expression', [2658, 2668]], u'Gene_expression']
+[[u'icam-1', [2681, 2687]], u'Protein']
+[[u'stimulated', [2724, 2734]], u'Positive_regulation']
+[[u'tnf-\u03b1', [2735, 2740]], u'Protein']
+[[u'expression', [2741, 2751]], u'Gene_expression']
+[[u'secretion', [2756, 2765]], u'Localization']
+
+
+geniatagger: 2
+[[u'il-8', [1281, 1285]], u'Protein']
+[[u'icam-1', [2651, 2657]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'expression', [2658, 2668]], u'Gene_expression']
+[[u'expression', [2741, 2751]], u'Gene_expression']
+[[u'secretion', [2756, 2765]], u'Localization']
+
+
+total: 5
+[[u'il-8', [1281, 1285]], u'Protein']
+[[u'icam-1', [2651, 2657]], u'Protein']
+[[u'expression', [2658, 2668]], u'Gene_expression']
+[[u'expression', [2741, 2751]], u'Gene_expression']
+[[u'secretion', [2756, 2765]], u'Localization']

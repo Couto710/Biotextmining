@@ -1,0 +1,20 @@
+denotations: 2
+[[u'gata-3', [521, 527]], u'Protein']
+[[u'localization', [528, 540]], u'Localization']
+
+
+geniatagger: 1
+[[u'gata-3', [521, 527]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'gata-3', [521, 527]], u'Protein']
+[[u'localization', [528, 540]], u'Localization']
+
+
+total: 2
+[[u'gata-3', [521, 527]], u'Protein']
+[[u'localization', [528, 540]], u'Localization']

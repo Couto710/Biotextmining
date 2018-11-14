@@ -1,0 +1,62 @@
+denotations: 22
+[[u'act-ria', [112, 119]], u'Protein']
+[[u'bmp-rib', [121, 128]], u'Protein']
+[[u'bmpr-ii', [130, 137]], u'Protein']
+[[u'act-riia', [139, 147]], u'Protein']
+[[u'act-riib', [152, 160]], u'Protein']
+[[u'bmp-6', [228, 233]], u'Protein']
+[[u'bmp-6', [309, 314]], u'Protein']
+[[u'bmp-6', [371, 376]], u'Protein']
+[[u'bmp-6', [402, 407]], u'Protein']
+[[u'bmp-6', [469, 474]], u'Protein']
+[[u'smad1', [600, 605]], u'Protein']
+[[u'-5', [607, 609]], u'Protein']
+[[u'8', [616, 617]], u'Protein']
+[[u'expression levels', [669, 686]], u'Gene_expression']
+[[u'id1', [690, 693]], u'Protein']
+[[u'3', [694, 695]], u'Protein']
+[[u'blocked', [769, 776]], u'Negative_regulation']
+[[u'\u03b2-actin', [1040, 1047]], u'Protein']
+[[u'cd19', [1125, 1129]], u'Protein']
+[[u'cd19', [1139, 1143]], u'Protein']
+[[u'cd19', [1197, 1201]], u'Protein']
+[[u'cd27', [1254, 1258]], u'Protein']
+
+
+geniatagger: 3
+[[u'bmp-rib', [121, 128]], u'Protein']
+[[u'bmpr-ii', [130, 137]], u'Protein']
+[[u'8', [616, 617]], u'Protein']
+
+
+metamapper: 1
+[[u'bmpr-ii', [130, 137]], u'Protein']
+
+
+spacy + metamapper: 10
+[[u'bmp-6', [228, 233]], u'Protein']
+[[u'bmp-6', [309, 314]], u'Protein']
+[[u'bmp-6', [371, 376]], u'Protein']
+[[u'bmp-6', [402, 407]], u'Protein']
+[[u'bmp-6', [469, 474]], u'Protein']
+[[u'smad1', [600, 605]], u'Protein']
+[[u'id1', [690, 693]], u'Protein']
+[[u'cd19', [1125, 1129]], u'Protein']
+[[u'cd19', [1139, 1143]], u'Protein']
+[[u'cd19', [1197, 1201]], u'Protein']
+
+
+total: 13
+[[u'bmp-rib', [121, 128]], u'Protein']
+[[u'bmpr-ii', [130, 137]], u'Protein']
+[[u'8', [616, 617]], u'Protein']
+[[u'bmp-6', [228, 233]], u'Protein']
+[[u'bmp-6', [309, 314]], u'Protein']
+[[u'bmp-6', [371, 376]], u'Protein']
+[[u'bmp-6', [402, 407]], u'Protein']
+[[u'bmp-6', [469, 474]], u'Protein']
+[[u'smad1', [600, 605]], u'Protein']
+[[u'id1', [690, 693]], u'Protein']
+[[u'cd19', [1125, 1129]], u'Protein']
+[[u'cd19', [1139, 1143]], u'Protein']
+[[u'cd19', [1197, 1201]], u'Protein']

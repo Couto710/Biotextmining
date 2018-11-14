@@ -1,0 +1,46 @@
+denotations: 15
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'cebpb', [57, 62]], u'Protein']
+[[u'luciferase', [120, 130]], u'Protein']
+[[u'\u03b2-actin', [170, 177]], u'Protein']
+[[u'\u03b2-galactosidase', [178, 193]], u'Protein']
+[[u'c/ebp-\u03b2', [506, 513]], u'Protein']
+[[u'c/ebp-\u03b2 phospho-acceptor mutants', [517, 549]], u'Protein']
+[[u't188a', [551, 556]], u'Protein']
+[[u't217a', [558, 563]], u'Protein']
+[[u's64a', [565, 569]], u'Protein']
+[[u'luciferase', [643, 653]], u'Protein']
+[[u'\u03b2-galactosidase', [704, 719]], u'Protein']
+[[u'luciferase', [735, 745]], u'Protein']
+[[u'\u03b2-galactosidase', [763, 778]], u'Protein']
+[[u'c/ebp-\u03b2 phospho-acceptor mutant', [952, 983]], u'Protein']
+
+
+geniatagger: 6
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [120, 130]], u'Protein']
+[[u't217a', [558, 563]], u'Protein']
+[[u's64a', [565, 569]], u'Protein']
+[[u'luciferase', [643, 653]], u'Protein']
+[[u'luciferase', [735, 745]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'cebpb', [57, 62]], u'Protein']
+[[u'luciferase', [120, 130]], u'Protein']
+[[u'luciferase', [643, 653]], u'Protein']
+[[u'luciferase', [735, 745]], u'Protein']
+
+
+total: 7
+[[u'luciferase', [27, 37]], u'Protein']
+[[u'luciferase', [120, 130]], u'Protein']
+[[u't217a', [558, 563]], u'Protein']
+[[u's64a', [565, 569]], u'Protein']
+[[u'luciferase', [643, 653]], u'Protein']
+[[u'luciferase', [735, 745]], u'Protein']
+[[u'cebpb', [57, 62]], u'Protein']

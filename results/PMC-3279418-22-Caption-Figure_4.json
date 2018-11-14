@@ -1,0 +1,30 @@
+denotations: 5
+[[u'expression', [301, 311]], u'Transcription']
+[[u'il12p40', [315, 322]], u'Protein']
+[[u'il6', [330, 333]], u'Protein']
+[[u'gmcsf', [341, 346]], u'Protein']
+[[u'ifnb', [358, 362]], u'Protein']
+
+
+geniatagger: 4
+[[u'il12p40', [315, 322]], u'Protein']
+[[u'il6', [330, 333]], u'Protein']
+[[u'gmcsf', [341, 346]], u'Protein']
+[[u'ifnb', [358, 362]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'expression', [301, 311]], u'Transcription']
+[[u'il6', [330, 333]], u'Protein']
+[[u'ifnb', [358, 362]], u'Protein']
+
+
+total: 5
+[[u'il12p40', [315, 322]], u'Protein']
+[[u'il6', [330, 333]], u'Protein']
+[[u'gmcsf', [341, 346]], u'Protein']
+[[u'ifnb', [358, 362]], u'Protein']
+[[u'expression', [301, 311]], u'Transcription']

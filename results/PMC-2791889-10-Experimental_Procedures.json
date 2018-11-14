@@ -1,0 +1,57 @@
+denotations: 16
+[[u'ova', [83, 86]], u'Protein']
+[[u'rag1', [124, 128]], u'Protein']
+[[u'il-4', [131, 135]], u'Protein']
+[[u'ifn-\u03b3', [138, 143]], u'Protein']
+[[u'stat4', [146, 151]], u'Protein']
+[[u'stat6', [158, 163]], u'Protein']
+[[u'deficient', [164, 173]], u'Negative_regulation']
+[[u'ovalbumin', [910, 919]], u'Protein']
+[[u'ova', [929, 932]], u'Protein']
+[[u'ovalbumin', [975, 984]], u'Protein']
+[[u'mek', [1093, 1096]], u'Protein']
+[[u'inhibitors', [1097, 1107]], u'Negative_regulation']
+[[u'p38', [1120, 1123]], u'Protein']
+[[u'inhibitor', [1124, 1133]], u'Negative_regulation']
+[[u'gsk3\u03b2', [1149, 1154]], u'Protein']
+[[u'inhibitor', [1155, 1164]], u'Negative_regulation']
+
+
+geniatagger: 4
+[[u'ovalbumin', [910, 919]], u'Protein']
+[[u'ova', [929, 932]], u'Protein']
+[[u'mek', [1093, 1096]], u'Protein']
+[[u'p38', [1120, 1123]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'ova', [83, 86]], u'Protein']
+[[u'rag1', [124, 128]], u'Protein']
+[[u'il-4', [131, 135]], u'Protein']
+[[u'stat4', [146, 151]], u'Protein']
+[[u'stat6', [158, 163]], u'Protein']
+[[u'deficient', [164, 173]], u'Negative_regulation']
+[[u'ovalbumin', [910, 919]], u'Protein']
+[[u'ova', [929, 932]], u'Protein']
+[[u'ovalbumin', [975, 984]], u'Protein']
+[[u'inhibitor', [1124, 1133]], u'Negative_regulation']
+[[u'inhibitor', [1155, 1164]], u'Negative_regulation']
+
+
+total: 13
+[[u'ovalbumin', [910, 919]], u'Protein']
+[[u'ova', [929, 932]], u'Protein']
+[[u'mek', [1093, 1096]], u'Protein']
+[[u'p38', [1120, 1123]], u'Protein']
+[[u'ova', [83, 86]], u'Protein']
+[[u'rag1', [124, 128]], u'Protein']
+[[u'il-4', [131, 135]], u'Protein']
+[[u'stat4', [146, 151]], u'Protein']
+[[u'stat6', [158, 163]], u'Protein']
+[[u'deficient', [164, 173]], u'Negative_regulation']
+[[u'ovalbumin', [975, 984]], u'Protein']
+[[u'inhibitor', [1124, 1133]], u'Negative_regulation']
+[[u'inhibitor', [1155, 1164]], u'Negative_regulation']

@@ -1,0 +1,71 @@
+denotations: 17
+[[u'apobec3g', [27, 35]], u'Protein']
+[[u'pwo', [442, 445]], u'Protein']
+[[u'luciferase', [661, 671]], u'Protein']
+[[u'a3g', [835, 838]], u'Protein']
+[[u'apobec3g', [939, 947]], u'Protein']
+[[u'pfu', [1817, 1820]], u'Protein']
+[[u'apobec3g', [2945, 2953]], u'Protein']
+[[u'apobec3g', [3190, 3198]], u'Protein']
+[[u'guanylate-binding protein', [3634, 3659]], u'Protein']
+[[u'gbp', [3661, 3664]], u'Protein']
+[[u'vif', [4053, 4056]], u'Protein']
+[[u'tat', [4214, 4217]], u'Protein']
+[[u'tat', [4277, 4280]], u'Protein']
+[[u'tat', [4391, 4394]], u'Protein']
+[[u'tat', [4448, 4451]], u'Protein']
+[[u'tat', [4505, 4508]], u'Protein']
+[[u'tat', [4570, 4573]], u'Protein']
+
+
+geniatagger: 8
+[[u'apobec3g', [27, 35]], u'Protein']
+[[u'pwo', [442, 445]], u'Protein']
+[[u'luciferase', [661, 671]], u'Protein']
+[[u'a3g', [835, 838]], u'Protein']
+[[u'apobec3g', [939, 947]], u'Protein']
+[[u'apobec3g', [2945, 2953]], u'Protein']
+[[u'apobec3g', [3190, 3198]], u'Protein']
+[[u'tat', [4277, 4280]], u'Protein']
+
+
+metamapper: 4
+[[u'apobec3g', [27, 35]], u'Protein']
+[[u'apobec3g', [939, 947]], u'Protein']
+[[u'apobec3g', [2945, 2953]], u'Protein']
+[[u'apobec3g', [3190, 3198]], u'Protein']
+
+
+spacy + metamapper: 14
+[[u'apobec3g', [27, 35]], u'Protein']
+[[u'luciferase', [661, 671]], u'Protein']
+[[u'a3g', [835, 838]], u'Protein']
+[[u'apobec3g', [939, 947]], u'Protein']
+[[u'pfu', [1817, 1820]], u'Protein']
+[[u'apobec3g', [2945, 2953]], u'Protein']
+[[u'apobec3g', [3190, 3198]], u'Protein']
+[[u'gbp', [3661, 3664]], u'Protein']
+[[u'tat', [4214, 4217]], u'Protein']
+[[u'tat', [4277, 4280]], u'Protein']
+[[u'tat', [4391, 4394]], u'Protein']
+[[u'tat', [4448, 4451]], u'Protein']
+[[u'tat', [4505, 4508]], u'Protein']
+[[u'tat', [4570, 4573]], u'Protein']
+
+
+total: 15
+[[u'apobec3g', [27, 35]], u'Protein']
+[[u'pwo', [442, 445]], u'Protein']
+[[u'luciferase', [661, 671]], u'Protein']
+[[u'a3g', [835, 838]], u'Protein']
+[[u'apobec3g', [939, 947]], u'Protein']
+[[u'apobec3g', [2945, 2953]], u'Protein']
+[[u'apobec3g', [3190, 3198]], u'Protein']
+[[u'tat', [4277, 4280]], u'Protein']
+[[u'pfu', [1817, 1820]], u'Protein']
+[[u'gbp', [3661, 3664]], u'Protein']
+[[u'tat', [4214, 4217]], u'Protein']
+[[u'tat', [4391, 4394]], u'Protein']
+[[u'tat', [4448, 4451]], u'Protein']
+[[u'tat', [4505, 4508]], u'Protein']
+[[u'tat', [4570, 4573]], u'Protein']

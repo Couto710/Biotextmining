@@ -1,0 +1,35 @@
+denotations: 7
+[[u'akt1', [118, 122]], u'Protein']
+[[u'akt2', [144, 148]], u'Protein']
+[[u'akt3', [170, 174]], u'Protein']
+[[u'pdk1', [222, 226]], u'Protein']
+[[u'mapk8', [285, 290]], u'Protein']
+[[u'mapk9', [312, 317]], u'Protein']
+[[u'tnf\u03b1', [511, 515]], u'Protein']
+
+
+geniatagger: 3
+[[u'akt1', [118, 122]], u'Protein']
+[[u'akt2', [144, 148]], u'Protein']
+[[u'akt3', [170, 174]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'akt1', [118, 122]], u'Protein']
+[[u'akt2', [144, 148]], u'Protein']
+[[u'akt3', [170, 174]], u'Protein']
+[[u'pdk1', [222, 226]], u'Protein']
+[[u'mapk8', [285, 290]], u'Protein']
+[[u'mapk9', [312, 317]], u'Protein']
+
+
+total: 6
+[[u'akt1', [118, 122]], u'Protein']
+[[u'akt2', [144, 148]], u'Protein']
+[[u'akt3', [170, 174]], u'Protein']
+[[u'pdk1', [222, 226]], u'Protein']
+[[u'mapk8', [285, 290]], u'Protein']
+[[u'mapk9', [312, 317]], u'Protein']

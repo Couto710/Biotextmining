@@ -1,0 +1,48 @@
+denotations: 20
+[[u'mip-1\u03b1', [9, 15]], u'Protein']
+[[u'transcriptional', [16, 31]], u'Transcription']
+[[u'activation', [32, 42]], u'Positive_regulation']
+[[u'tat', [52, 55]], u'Protein']
+[[u'absence', [64, 71]], u'Negative_regulation']
+[[u'tat', [75, 78]], u'Protein']
+[[u'i\u03bab-\u03b1', [80, 85]], u'Protein']
+[[u'occupies', [86, 94]], u'Binding']
+[[u'nf-\u03bab enhancer', [99, 113]], u'Entity']
+[[u'mip-1\u03b1', [121, 127]], u'Protein']
+[[u'interacts', [148, 157]], u'Binding']
+[[u'tat', [246, 249]], u'Protein']
+[[u'activates', [250, 259]], u'Positive_regulation']
+[[u'mip-1\u03b1', [264, 270]], u'Protein']
+[[u'expression', [271, 281]], u'Gene_expression']
+[[u'removing', [285, 293]], u'Negative_regulation']
+[[u'i\u03bab-\u03b1', [298, 303]], u'Protein']
+[[u'increasing', [346, 356]], u'Positive_regulation']
+[[u'binding', [361, 368]], u'Binding']
+[[u'nf-\u03bab enhancer', [397, 411]], u'Entity']
+
+
+geniatagger: 3
+[[u'tat', [52, 55]], u'Protein']
+[[u'tat', [75, 78]], u'Protein']
+[[u'tat', [246, 249]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'tat', [52, 55]], u'Protein']
+[[u'absence', [64, 71]], u'Negative_regulation']
+[[u'tat', [75, 78]], u'Protein']
+[[u'tat', [246, 249]], u'Protein']
+[[u'expression', [271, 281]], u'Gene_expression']
+[[u'binding', [361, 368]], u'Binding']
+
+
+total: 6
+[[u'tat', [52, 55]], u'Protein']
+[[u'tat', [75, 78]], u'Protein']
+[[u'tat', [246, 249]], u'Protein']
+[[u'absence', [64, 71]], u'Negative_regulation']
+[[u'expression', [271, 281]], u'Gene_expression']
+[[u'binding', [361, 368]], u'Binding']

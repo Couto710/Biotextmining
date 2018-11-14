@@ -1,0 +1,52 @@
+denotations: 13
+[[u'a3g', [21, 24]], u'Protein']
+[[u'a3g', [111, 114]], u'Protein']
+[[u'luciferase', [256, 266]], u'Protein']
+[[u'luciferase', [622, 632]], u'Protein']
+[[u'luciferase', [700, 710]], u'Protein']
+[[u'increased', [738, 747]], u'Positive_regulation']
+[[u'transcriptional activity', [748, 772]], u'Transcription']
+[[u'1025\u2009bp sequence', [780, 796]], u'Entity']
+[[u'a3g', [874, 877]], u'Protein']
+[[u'altered', [955, 962]], u'Regulation']
+[[u'drop', [1056, 1060]], u'Negative_regulation']
+[[u'luciferase', [1064, 1074]], u'Protein']
+[[u'a3g', [1497, 1500]], u'Protein']
+
+
+geniatagger: 8
+[[u'a3g', [21, 24]], u'Protein']
+[[u'a3g', [111, 114]], u'Protein']
+[[u'luciferase', [256, 266]], u'Protein']
+[[u'luciferase', [622, 632]], u'Protein']
+[[u'luciferase', [700, 710]], u'Protein']
+[[u'a3g', [874, 877]], u'Protein']
+[[u'luciferase', [1064, 1074]], u'Protein']
+[[u'a3g', [1497, 1500]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'a3g', [21, 24]], u'Protein']
+[[u'a3g', [111, 114]], u'Protein']
+[[u'luciferase', [256, 266]], u'Protein']
+[[u'luciferase', [622, 632]], u'Protein']
+[[u'luciferase', [700, 710]], u'Protein']
+[[u'a3g', [874, 877]], u'Protein']
+[[u'drop', [1056, 1060]], u'Negative_regulation']
+[[u'luciferase', [1064, 1074]], u'Protein']
+[[u'a3g', [1497, 1500]], u'Protein']
+
+
+total: 9
+[[u'a3g', [21, 24]], u'Protein']
+[[u'a3g', [111, 114]], u'Protein']
+[[u'luciferase', [256, 266]], u'Protein']
+[[u'luciferase', [622, 632]], u'Protein']
+[[u'luciferase', [700, 710]], u'Protein']
+[[u'a3g', [874, 877]], u'Protein']
+[[u'luciferase', [1064, 1074]], u'Protein']
+[[u'a3g', [1497, 1500]], u'Protein']
+[[u'drop', [1056, 1060]], u'Negative_regulation']

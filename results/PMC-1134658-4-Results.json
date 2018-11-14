@@ -1,0 +1,42 @@
+denotations: 15
+[[u'bmp-6', [22, 27]], u'Protein']
+[[u'act-ria', [322, 329]], u'Protein']
+[[u'bmp-rib', [331, 338]], u'Protein']
+[[u'bmp-rii', [365, 372]], u'Protein']
+[[u'act-riib', [377, 385]], u'Protein']
+[[u'expressed', [390, 399]], u'Gene_expression']
+[[u'expressed', [449, 458]], u'Gene_expression']
+[[u'act-ria', [480, 487]], u'Protein']
+[[u'bmp-rib', [496, 503]], u'Protein']
+[[u'bmp-rii', [529, 536]], u'Protein']
+[[u'expressed', [633, 642]], u'Gene_expression']
+[[u'act-ria', [643, 650]], u'Protein']
+[[u'bmp-rii', [655, 662]], u'Protein']
+[[u'bind', [790, 794]], u'Binding']
+[[u'bmp-6', [795, 800]], u'Protein']
+
+
+geniatagger: 7
+[[u'bmp-6', [22, 27]], u'Protein']
+[[u'bmp-rib', [331, 338]], u'Protein']
+[[u'bmp-rii', [365, 372]], u'Protein']
+[[u'bmp-rib', [496, 503]], u'Protein']
+[[u'bmp-rii', [529, 536]], u'Protein']
+[[u'bmp-rii', [655, 662]], u'Protein']
+[[u'bmp-6', [795, 800]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 7
+[[u'bmp-6', [22, 27]], u'Protein']
+[[u'bmp-rib', [331, 338]], u'Protein']
+[[u'bmp-rii', [365, 372]], u'Protein']
+[[u'bmp-rib', [496, 503]], u'Protein']
+[[u'bmp-rii', [529, 536]], u'Protein']
+[[u'bmp-rii', [655, 662]], u'Protein']
+[[u'bmp-6', [795, 800]], u'Protein']

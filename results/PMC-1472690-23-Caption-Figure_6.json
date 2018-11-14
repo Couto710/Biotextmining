@@ -1,0 +1,65 @@
+denotations: 18
+[[u'il-1\u03b2', [10, 15]], u'Protein']
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'tsst-1', [44, 50]], u'Protein']
+[[u'tsst-1', [68, 74]], u'Protein']
+[[u'il-1\u03b2', [102, 107]], u'Protein']
+[[u'il-1ra', [108, 114]], u'Protein']
+[[u'tsst-1', [166, 172]], u'Protein']
+[[u'tsst-1', [203, 209]], u'Protein']
+[[u'tsst-1', [216, 222]], u'Protein']
+[[u'il-1\u03b2', [285, 290]], u'Protein']
+[[u'il-1ra', [296, 302]], u'Protein']
+[[u'il-1\u03b2', [409, 414]], u'Protein']
+[[u'il-1ra', [415, 421]], u'Protein']
+[[u'tsst-1', [455, 461]], u'Protein']
+[[u'tsst-1', [468, 474]], u'Protein']
+[[u'tsst-1', [489, 495]], u'Protein']
+[[u'il-1ra', [653, 659]], u'Protein']
+[[u'il-1\u03b2', [668, 673]], u'Protein']
+
+
+geniatagger: 8
+[[u'tsst-1', [44, 50]], u'Protein']
+[[u'tsst-1', [68, 74]], u'Protein']
+[[u'tsst-1', [166, 172]], u'Protein']
+[[u'tsst-1', [203, 209]], u'Protein']
+[[u'il-1ra', [296, 302]], u'Protein']
+[[u'tsst-1', [455, 461]], u'Protein']
+[[u'tsst-1', [468, 474]], u'Protein']
+[[u'il-1ra', [653, 659]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 13
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'tsst-1', [44, 50]], u'Protein']
+[[u'tsst-1', [68, 74]], u'Protein']
+[[u'il-1ra', [108, 114]], u'Protein']
+[[u'tsst-1', [166, 172]], u'Protein']
+[[u'tsst-1', [203, 209]], u'Protein']
+[[u'tsst-1', [216, 222]], u'Protein']
+[[u'il-1ra', [296, 302]], u'Protein']
+[[u'il-1ra', [415, 421]], u'Protein']
+[[u'tsst-1', [455, 461]], u'Protein']
+[[u'tsst-1', [468, 474]], u'Protein']
+[[u'tsst-1', [489, 495]], u'Protein']
+[[u'il-1ra', [653, 659]], u'Protein']
+
+
+total: 13
+[[u'tsst-1', [44, 50]], u'Protein']
+[[u'tsst-1', [68, 74]], u'Protein']
+[[u'tsst-1', [166, 172]], u'Protein']
+[[u'tsst-1', [203, 209]], u'Protein']
+[[u'il-1ra', [296, 302]], u'Protein']
+[[u'tsst-1', [455, 461]], u'Protein']
+[[u'tsst-1', [468, 474]], u'Protein']
+[[u'il-1ra', [653, 659]], u'Protein']
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'il-1ra', [108, 114]], u'Protein']
+[[u'tsst-1', [216, 222]], u'Protein']
+[[u'il-1ra', [415, 421]], u'Protein']
+[[u'tsst-1', [489, 495]], u'Protein']

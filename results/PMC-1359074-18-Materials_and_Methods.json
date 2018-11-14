@@ -1,0 +1,17 @@
+denotations: 4
+[[u'protein a', [580, 589]], u'Protein']
+[[u'sox6', [751, 755]], u'Protein']
+[[u'\u025by', [1105, 1107]], u'Protein']
+[[u'\u025by', [1210, 1212]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 0

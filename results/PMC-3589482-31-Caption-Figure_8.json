@@ -1,0 +1,66 @@
+denotations: 26
+[[u'c/ebp-\u03b2', [0, 7]], u'Protein']
+[[u'serpinb2', [25, 33]], u'Protein']
+[[u'serpinb2', [70, 78]], u'Protein']
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [167, 172]], u'Protein']
+[[u'serpinb2', [189, 197]], u'Protein']
+[[u'cebpb', [233, 238]], u'Protein']
+[[u'cebpb', [246, 251]], u'Protein']
+[[u'serpinb2 promoter-luciferase reporter', [285, 322]], u'Protein']
+[[u'serpinb2 promoter-luciferase reporter', [415, 452]], u'Protein']
+[[u'\u03b2-galactosidase reporter', [457, 481]], u'Protein']
+[[u'luciferase', [496, 506]], u'Protein']
+[[u'\u03b2-galactosidase', [527, 542]], u'Protein']
+[[u'c/ebp-\u03b2', [557, 564]], u'Protein']
+[[u'c/ebp-\u03b2', [656, 663]], u'Protein']
+[[u'serpinb2', [713, 721]], u'Protein']
+[[u'cebpb', [741, 746]], u'Protein']
+[[u'c/ebp-\u03b2', [819, 826]], u'Protein']
+[[u'c/ebp-\u03b2 phospho-acceptor mutants', [844, 876]], u'Protein']
+[[u'serpinb2 promoter-luciferase reporter', [903, 940]], u'Protein']
+[[u'\u03b2-galactosidase reporter', [945, 969]], u'Protein']
+[[u'luciferase', [1015, 1025]], u'Protein']
+[[u'\u03b2-galactosidase', [1068, 1083]], u'Protein']
+[[u'c/ebp-\u03b2 phospho-acceptor mutants', [1172, 1204]], u'Protein']
+[[u'c/ebp-\u03b2t217a', [1210, 1222]], u'Protein']
+[[u'c/ebp-\u03b2', [1288, 1295]], u'Protein']
+
+
+geniatagger: 5
+[[u'serpinb2', [25, 33]], u'Protein']
+[[u'serpinb2', [189, 197]], u'Protein']
+[[u'luciferase', [496, 506]], u'Protein']
+[[u'serpinb2', [713, 721]], u'Protein']
+[[u'luciferase', [1015, 1025]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'serpinb2', [25, 33]], u'Protein']
+[[u'serpinb2', [70, 78]], u'Protein']
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [167, 172]], u'Protein']
+[[u'serpinb2', [189, 197]], u'Protein']
+[[u'cebpb', [233, 238]], u'Protein']
+[[u'cebpb', [246, 251]], u'Protein']
+[[u'luciferase', [496, 506]], u'Protein']
+[[u'serpinb2', [713, 721]], u'Protein']
+[[u'cebpb', [741, 746]], u'Protein']
+[[u'luciferase', [1015, 1025]], u'Protein']
+
+
+total: 11
+[[u'serpinb2', [25, 33]], u'Protein']
+[[u'serpinb2', [189, 197]], u'Protein']
+[[u'luciferase', [496, 506]], u'Protein']
+[[u'serpinb2', [713, 721]], u'Protein']
+[[u'luciferase', [1015, 1025]], u'Protein']
+[[u'serpinb2', [70, 78]], u'Protein']
+[[u'cebpb', [142, 147]], u'Protein']
+[[u'cebpb', [167, 172]], u'Protein']
+[[u'cebpb', [233, 238]], u'Protein']
+[[u'cebpb', [246, 251]], u'Protein']
+[[u'cebpb', [741, 746]], u'Protein']

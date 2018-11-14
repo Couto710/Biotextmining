@@ -1,0 +1,56 @@
+denotations: 23
+[[u'interleukin-1 beta', [1168, 1186]], u'Protein']
+[[u'il-1\u03b2', [1188, 1193]], u'Protein']
+[[u'il-6', [1483, 1487]], u'Protein']
+[[u'il-1\u03b2', [1598, 1603]], u'Protein']
+[[u'triggers', [2407, 2415]], u'Positive_regulation']
+[[u'increase', [2419, 2427]], u'Positive_regulation']
+[[u'il-1\u03b2', [2441, 2446]], u'Protein']
+[[u'il-6', [2448, 2452]], u'Protein']
+[[u'important', [2595, 2604]], u'Regulation']
+[[u'il-1\u03b2', [2689, 2694]], u'Protein']
+[[u'expression', [2695, 2705]], u'Gene_expression']
+[[u'il-1\u03b2', [2754, 2759]], u'Protein']
+[[u'il-1\u03b2', [2823, 2828]], u'Protein']
+[[u'increased', [2833, 2842]], u'Positive_regulation']
+[[u'il1b', [3020, 3024]], u'Protein']
+[[u'increases', [3179, 3188]], u'Positive_regulation']
+[[u'il-1\u03b2', [3192, 3197]], u'Protein']
+[[u'expression', [3198, 3208]], u'Gene_expression']
+[[u'secretion', [3212, 3221]], u'Localization']
+[[u'increases', [3474, 3483]], u'Positive_regulation']
+[[u'secretion', [3484, 3493]], u'Localization']
+[[u'il-1\u03b2', [3497, 3502]], u'Protein']
+[[u'il-1\u03b2', [3706, 3711]], u'Protein']
+
+
+geniatagger: 3
+[[u'il-6', [1483, 1487]], u'Protein']
+[[u'il-6', [2448, 2452]], u'Protein']
+[[u'il1b', [3020, 3024]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'increase', [2419, 2427]], u'Positive_regulation']
+[[u'expression', [2695, 2705]], u'Gene_expression']
+[[u'increases', [3179, 3188]], u'Positive_regulation']
+[[u'expression', [3198, 3208]], u'Gene_expression']
+[[u'secretion', [3212, 3221]], u'Localization']
+[[u'increases', [3474, 3483]], u'Positive_regulation']
+[[u'secretion', [3484, 3493]], u'Localization']
+
+
+total: 10
+[[u'il-6', [1483, 1487]], u'Protein']
+[[u'il-6', [2448, 2452]], u'Protein']
+[[u'il1b', [3020, 3024]], u'Protein']
+[[u'increase', [2419, 2427]], u'Positive_regulation']
+[[u'expression', [2695, 2705]], u'Gene_expression']
+[[u'increases', [3179, 3188]], u'Positive_regulation']
+[[u'expression', [3198, 3208]], u'Gene_expression']
+[[u'secretion', [3212, 3221]], u'Localization']
+[[u'increases', [3474, 3483]], u'Positive_regulation']
+[[u'secretion', [3484, 3493]], u'Localization']

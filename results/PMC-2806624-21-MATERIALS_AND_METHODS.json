@@ -1,0 +1,30 @@
+denotations: 7
+[[u'hek293t cells', [67, 80]], u'Protein']
+[[u'transfected', [86, 97]], u'Gene_expression']
+[[u'runx1', [103, 108]], u'Protein']
+[[u'runx3', [112, 117]], u'Protein']
+[[u'foxp3', [343, 348]], u'Protein']
+[[u'runx1', [985, 990]], u'Protein']
+[[u'runx3', [1041, 1046]], u'Protein']
+
+
+geniatagger: 3
+[[u'runx1', [103, 108]], u'Protein']
+[[u'runx3', [112, 117]], u'Protein']
+[[u'foxp3', [343, 348]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'runx3', [112, 117]], u'Protein']
+[[u'foxp3', [343, 348]], u'Protein']
+[[u'runx3', [1041, 1046]], u'Protein']
+
+
+total: 4
+[[u'runx1', [103, 108]], u'Protein']
+[[u'runx3', [112, 117]], u'Protein']
+[[u'foxp3', [343, 348]], u'Protein']
+[[u'runx3', [1041, 1046]], u'Protein']

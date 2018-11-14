@@ -1,0 +1,31 @@
+denotations: 5
+[[u'sox6', [52, 56]], u'Protein']
+[[u'sox6', [183, 187]], u'Protein']
+[[u'c-myc', [240, 245]], u'Protein']
+[[u'ha', [250, 252]], u'Protein']
+[[u'sox6', [458, 462]], u'Protein']
+
+
+geniatagger: 4
+[[u'sox6', [52, 56]], u'Protein']
+[[u'sox6', [183, 187]], u'Protein']
+[[u'c-myc', [240, 245]], u'Protein']
+[[u'sox6', [458, 462]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'sox6', [52, 56]], u'Protein']
+[[u'sox6', [183, 187]], u'Protein']
+[[u'ha', [250, 252]], u'Protein']
+[[u'sox6', [458, 462]], u'Protein']
+
+
+total: 5
+[[u'sox6', [52, 56]], u'Protein']
+[[u'sox6', [183, 187]], u'Protein']
+[[u'c-myc', [240, 245]], u'Protein']
+[[u'sox6', [458, 462]], u'Protein']
+[[u'ha', [250, 252]], u'Protein']

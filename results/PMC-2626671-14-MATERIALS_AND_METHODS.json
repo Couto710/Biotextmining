@@ -1,0 +1,18 @@
+denotations: 3
+[[u'cd8', [42, 45]], u'Protein']
+[[u'eomes', [1066, 1071]], u'Protein']
+[[u'runx3', [1093, 1098]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'eomes', [1066, 1071]], u'Protein']
+
+
+total: 1
+[[u'eomes', [1066, 1071]], u'Protein']

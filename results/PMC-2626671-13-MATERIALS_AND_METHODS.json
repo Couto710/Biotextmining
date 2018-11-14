@@ -1,0 +1,19 @@
+denotations: 2
+[[u'cd8', [271, 274]], u'Protein']
+[[u'eomes-vp16', [578, 588]], u'Protein']
+
+
+geniatagger: 1
+[[u'eomes-vp16', [578, 588]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'cd8', [271, 274]], u'Protein']
+
+
+total: 2
+[[u'eomes-vp16', [578, 588]], u'Protein']
+[[u'cd8', [271, 274]], u'Protein']

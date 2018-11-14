@@ -1,0 +1,25 @@
+denotations: 4
+[[u'cd4', [27, 30]], u'Protein']
+[[u'cd4', [41, 44]], u'Protein']
+[[u'cd4', [138, 141]], u'Protein']
+[[u'cd4', [284, 287]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'cd4', [27, 30]], u'Protein']
+[[u'cd4', [41, 44]], u'Protein']
+[[u'cd4', [138, 141]], u'Protein']
+[[u'cd4', [284, 287]], u'Protein']
+
+
+total: 4
+[[u'cd4', [27, 30]], u'Protein']
+[[u'cd4', [41, 44]], u'Protein']
+[[u'cd4', [138, 141]], u'Protein']
+[[u'cd4', [284, 287]], u'Protein']

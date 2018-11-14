@@ -1,0 +1,68 @@
+denotations: 19
+[[u'm-csf', [154, 159]], u'Protein']
+[[u'm-csf', [518, 523]], u'Protein']
+[[u'pkc\u03b1', [681, 685]], u'Protein']
+[[u'\u03b2', [686, 687]], u'Protein']
+[[u'inhibitor', [688, 697]], u'Negative_regulation']
+[[u'm-csf', [790, 795]], u'Protein']
+[[u'm-csf', [850, 855]], u'Protein']
+[[u'm-csf', [940, 945]], u'Protein']
+[[u'm-csf', [1115, 1120]], u'Protein']
+[[u'm-csf', [1389, 1394]], u'Protein']
+[[u'regulated', [1515, 1524]], u'Regulation']
+[[u'p65', [1531, 1534]], u'Protein']
+[[u'c-rel', [1578, 1583]], u'Protein']
+[[u'c-rel', [1603, 1608]], u'Protein']
+[[u'm-csf', [1707, 1712]], u'Protein']
+[[u'expressing', [1761, 1771]], u'Gene_expression']
+[[u'c-rel', [1772, 1777]], u'Protein']
+[[u'functioned', [1828, 1838]], u'Regulation']
+[[u'p65', [1857, 1860]], u'Protein']
+
+
+geniatagger: 8
+[[u'm-csf', [850, 855]], u'Protein']
+[[u'm-csf', [1115, 1120]], u'Protein']
+[[u'p65', [1531, 1534]], u'Protein']
+[[u'c-rel', [1578, 1583]], u'Protein']
+[[u'c-rel', [1603, 1608]], u'Protein']
+[[u'm-csf', [1707, 1712]], u'Protein']
+[[u'c-rel', [1772, 1777]], u'Protein']
+[[u'p65', [1857, 1860]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 14
+[[u'm-csf', [154, 159]], u'Protein']
+[[u'm-csf', [518, 523]], u'Protein']
+[[u'inhibitor', [688, 697]], u'Negative_regulation']
+[[u'm-csf', [790, 795]], u'Protein']
+[[u'm-csf', [850, 855]], u'Protein']
+[[u'm-csf', [940, 945]], u'Protein']
+[[u'm-csf', [1115, 1120]], u'Protein']
+[[u'm-csf', [1389, 1394]], u'Protein']
+[[u'p65', [1531, 1534]], u'Protein']
+[[u'c-rel', [1578, 1583]], u'Protein']
+[[u'c-rel', [1603, 1608]], u'Protein']
+[[u'm-csf', [1707, 1712]], u'Protein']
+[[u'c-rel', [1772, 1777]], u'Protein']
+[[u'p65', [1857, 1860]], u'Protein']
+
+
+total: 14
+[[u'm-csf', [850, 855]], u'Protein']
+[[u'm-csf', [1115, 1120]], u'Protein']
+[[u'p65', [1531, 1534]], u'Protein']
+[[u'c-rel', [1578, 1583]], u'Protein']
+[[u'c-rel', [1603, 1608]], u'Protein']
+[[u'm-csf', [1707, 1712]], u'Protein']
+[[u'c-rel', [1772, 1777]], u'Protein']
+[[u'p65', [1857, 1860]], u'Protein']
+[[u'm-csf', [154, 159]], u'Protein']
+[[u'm-csf', [518, 523]], u'Protein']
+[[u'inhibitor', [688, 697]], u'Negative_regulation']
+[[u'm-csf', [790, 795]], u'Protein']
+[[u'm-csf', [940, 945]], u'Protein']
+[[u'm-csf', [1389, 1394]], u'Protein']

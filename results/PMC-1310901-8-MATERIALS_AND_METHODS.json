@@ -1,0 +1,48 @@
+denotations: 11
+[[u'irf-4', [50, 55]], u'Protein']
+[[u'cpg methylase', [174, 187]], u'Protein']
+[[u'm.sss i', [189, 196]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'expressing', [512, 522]], u'Gene_expression']
+[[u'luciferase', [535, 545]], u'Protein']
+[[u'expressed', [570, 579]], u'Gene_expression']
+[[u'luciferase', [722, 732]], u'Protein']
+[[u'irf-4', [820, 825]], u'Protein']
+[[u'promoter', [826, 834]], u'Entity']
+[[u'activation', [835, 845]], u'Positive_regulation']
+
+
+geniatagger: 6
+[[u'irf-4', [50, 55]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'luciferase', [535, 545]], u'Protein']
+[[u'luciferase', [722, 732]], u'Protein']
+[[u'irf-4', [820, 825]], u'Protein']
+[[u'promoter', [826, 834]], u'Entity']
+
+
+metamapper: 2
+[[u'irf-4', [50, 55]], u'Protein']
+[[u'irf-4', [820, 825]], u'Protein']
+
+
+spacy + metamapper: 8
+[[u'irf-4', [50, 55]], u'Protein']
+[[u'cpg methylase', [174, 187]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'luciferase', [535, 545]], u'Protein']
+[[u'luciferase', [722, 732]], u'Protein']
+[[u'irf-4', [820, 825]], u'Protein']
+[[u'promoter', [826, 834]], u'Entity']
+[[u'activation', [835, 845]], u'Positive_regulation']
+
+
+total: 8
+[[u'irf-4', [50, 55]], u'Protein']
+[[u'luciferase', [357, 367]], u'Protein']
+[[u'luciferase', [535, 545]], u'Protein']
+[[u'luciferase', [722, 732]], u'Protein']
+[[u'irf-4', [820, 825]], u'Protein']
+[[u'promoter', [826, 834]], u'Entity']
+[[u'cpg methylase', [174, 187]], u'Protein']
+[[u'activation', [835, 845]], u'Positive_regulation']

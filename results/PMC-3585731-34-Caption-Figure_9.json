@@ -1,0 +1,22 @@
+denotations: 3
+[[u'rip1', [9, 13]], u'Protein']
+[[u'rip1', [168, 172]], u'Protein']
+[[u'tnf\u03b1', [226, 230]], u'Protein']
+
+
+geniatagger: 2
+[[u'rip1', [9, 13]], u'Protein']
+[[u'rip1', [168, 172]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'rip1', [9, 13]], u'Protein']
+[[u'rip1', [168, 172]], u'Protein']
+
+
+total: 2
+[[u'rip1', [9, 13]], u'Protein']
+[[u'rip1', [168, 172]], u'Protein']

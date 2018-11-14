@@ -1,0 +1,20 @@
+denotations: 3
+[[u'transferrin', [973, 984]], u'Protein']
+[[u'insulin', [993, 1000]], u'Protein']
+[[u'serum albumin', [1658, 1671]], u'Protein']
+
+
+geniatagger: 2
+[[u'transferrin', [973, 984]], u'Protein']
+[[u'insulin', [993, 1000]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 2
+[[u'transferrin', [973, 984]], u'Protein']
+[[u'insulin', [993, 1000]], u'Protein']

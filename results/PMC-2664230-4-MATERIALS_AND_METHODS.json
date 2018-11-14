@@ -1,0 +1,19 @@
+denotations: 4
+[[u'induced', [21, 28]], u'Positive_regulation']
+[[u'tnf-\u03b1', [29, 34]], u'Protein']
+[[u'production', [35, 45]], u'Gene_expression']
+[[u'tnf-\u03b1', [88, 93]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'induced', [21, 28]], u'Positive_regulation']
+
+
+total: 1
+[[u'induced', [21, 28]], u'Positive_regulation']

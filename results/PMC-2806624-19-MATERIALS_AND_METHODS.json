@@ -1,0 +1,28 @@
+denotations: 6
+[[u'runx1', [28, 33]], u'Protein']
+[[u'runx3', [38, 43]], u'Protein']
+[[u'protein level', [60, 73]], u'Gene_expression']
+[[u'runx1', [409, 414]], u'Protein']
+[[u'runx3', [465, 470]], u'Protein']
+[[u'gapdh', [871, 876]], u'Protein']
+
+
+geniatagger: 2
+[[u'runx1', [28, 33]], u'Protein']
+[[u'runx3', [38, 43]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'runx3', [38, 43]], u'Protein']
+[[u'protein level', [60, 73]], u'Gene_expression']
+[[u'runx3', [465, 470]], u'Protein']
+
+
+total: 4
+[[u'runx1', [28, 33]], u'Protein']
+[[u'runx3', [38, 43]], u'Protein']
+[[u'protein level', [60, 73]], u'Gene_expression']
+[[u'runx3', [465, 470]], u'Protein']

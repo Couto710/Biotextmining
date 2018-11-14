@@ -1,0 +1,26 @@
+denotations: 5
+[[u'dnase i', [13, 20]], u'Protein']
+[[u'nfat5', [46, 51]], u'Protein']
+[[u'p50', [258, 261]], u'Protein']
+[[u'p65', [266, 269]], u'Protein']
+[[u'dnase i', [335, 342]], u'Protein']
+
+
+geniatagger: 3
+[[u'nfat5', [46, 51]], u'Protein']
+[[u'p50', [258, 261]], u'Protein']
+[[u'p65', [266, 269]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'nfat5', [46, 51]], u'Protein']
+[[u'p65', [266, 269]], u'Protein']
+
+
+total: 3
+[[u'nfat5', [46, 51]], u'Protein']
+[[u'p50', [258, 261]], u'Protein']
+[[u'p65', [266, 269]], u'Protein']

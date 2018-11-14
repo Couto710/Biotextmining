@@ -1,0 +1,58 @@
+denotations: 17
+[[u'stimulated', [13, 23]], u'Positive_regulation']
+[[u'tnf', [24, 27]], u'Protein']
+[[u'secretion', [28, 37]], u'Localization']
+[[u'tnf', [64, 67]], u'Protein']
+[[u'released', [68, 76]], u'Localization']
+[[u'tnf', [169, 172]], u'Protein']
+[[u'release', [173, 180]], u'Localization']
+[[u'induced', [181, 188]], u'Positive_regulation']
+[[u'tnf', [285, 288]], u'Protein']
+[[u'release', [289, 296]], u'Localization']
+[[u'induced', [297, 304]], u'Positive_regulation']
+[[u'tnf', [458, 461]], u'Protein']
+[[u'release', [462, 469]], u'Localization']
+[[u'induced', [470, 477]], u'Positive_regulation']
+[[u'tnf', [641, 644]], u'Protein']
+[[u'release', [645, 652]], u'Localization']
+[[u'induced', [653, 660]], u'Positive_regulation']
+
+
+geniatagger: 6
+[[u'tnf', [24, 27]], u'Protein']
+[[u'tnf', [64, 67]], u'Protein']
+[[u'tnf', [169, 172]], u'Protein']
+[[u'tnf', [285, 288]], u'Protein']
+[[u'tnf', [458, 461]], u'Protein']
+[[u'tnf', [641, 644]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'tnf', [24, 27]], u'Protein']
+[[u'secretion', [28, 37]], u'Localization']
+[[u'tnf', [64, 67]], u'Protein']
+[[u'tnf', [169, 172]], u'Protein']
+[[u'release', [173, 180]], u'Localization']
+[[u'tnf', [285, 288]], u'Protein']
+[[u'release', [289, 296]], u'Localization']
+[[u'tnf', [458, 461]], u'Protein']
+[[u'release', [462, 469]], u'Localization']
+[[u'tnf', [641, 644]], u'Protein']
+[[u'release', [645, 652]], u'Localization']
+
+
+total: 11
+[[u'tnf', [24, 27]], u'Protein']
+[[u'tnf', [64, 67]], u'Protein']
+[[u'tnf', [169, 172]], u'Protein']
+[[u'tnf', [285, 288]], u'Protein']
+[[u'tnf', [458, 461]], u'Protein']
+[[u'tnf', [641, 644]], u'Protein']
+[[u'secretion', [28, 37]], u'Localization']
+[[u'release', [173, 180]], u'Localization']
+[[u'release', [289, 296]], u'Localization']
+[[u'release', [462, 469]], u'Localization']
+[[u'release', [645, 652]], u'Localization']

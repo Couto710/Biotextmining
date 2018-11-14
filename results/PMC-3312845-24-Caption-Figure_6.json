@@ -1,0 +1,29 @@
+denotations: 8
+[[u'tnfp55r', [11, 18]], u'Protein']
+[[u'mip-2', [59, 64]], u'Protein']
+[[u'mip-2', [164, 169]], u'Protein']
+[[u'mip-2', [236, 241]], u'Protein']
+[[u'mip-2', [636, 641]], u'Protein']
+[[u'mip-2', [765, 770]], u'Protein']
+[[u'tnfp55r', [828, 835]], u'Protein']
+[[u'mip-2', [933, 938]], u'Protein']
+
+
+geniatagger: 4
+[[u'mip-2', [59, 64]], u'Protein']
+[[u'mip-2', [236, 241]], u'Protein']
+[[u'mip-2', [636, 641]], u'Protein']
+[[u'mip-2', [933, 938]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 4
+[[u'mip-2', [59, 64]], u'Protein']
+[[u'mip-2', [236, 241]], u'Protein']
+[[u'mip-2', [636, 641]], u'Protein']
+[[u'mip-2', [933, 938]], u'Protein']

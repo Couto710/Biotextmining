@@ -1,0 +1,30 @@
+denotations: 6
+[[u'pkc\u03b1 sirna', [338, 348]], u'Protein']
+[[u'pkc\u03b1', [447, 451]], u'Protein']
+[[u'p65', [461, 464]], u'Protein']
+[[u'm-csf', [821, 826]], u'Protein']
+[[u'annexin v', [954, 963]], u'Protein']
+[[u'm-csf', [1112, 1117]], u'Protein']
+
+
+geniatagger: 3
+[[u'p65', [461, 464]], u'Protein']
+[[u'm-csf', [821, 826]], u'Protein']
+[[u'm-csf', [1112, 1117]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'p65', [461, 464]], u'Protein']
+[[u'm-csf', [821, 826]], u'Protein']
+[[u'annexin v', [954, 963]], u'Protein']
+[[u'm-csf', [1112, 1117]], u'Protein']
+
+
+total: 4
+[[u'p65', [461, 464]], u'Protein']
+[[u'm-csf', [821, 826]], u'Protein']
+[[u'm-csf', [1112, 1117]], u'Protein']
+[[u'annexin v', [954, 963]], u'Protein']

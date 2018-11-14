@@ -1,0 +1,32 @@
+denotations: 11
+[[u'increase', [37, 45]], u'Positive_regulation']
+[[u'il-1\u03b2', [46, 51]], u'Protein']
+[[u'production', [52, 62]], u'Gene_expression']
+[[u'alters', [249, 255]], u'Regulation']
+[[u'il-1\u03b2', [256, 261]], u'Protein']
+[[u'production', [262, 272]], u'Gene_expression']
+[[u'alter', [463, 468]], u'Regulation']
+[[u'il-1\u03b2', [469, 474]], u'Protein']
+[[u'production', [483, 493]], u'Gene_expression']
+[[u'il-1\u03b2', [553, 558]], u'Protein']
+[[u'production', [559, 569]], u'Gene_expression']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'production', [52, 62]], u'Gene_expression']
+[[u'production', [262, 272]], u'Gene_expression']
+[[u'production', [483, 493]], u'Gene_expression']
+[[u'production', [559, 569]], u'Gene_expression']
+
+
+total: 4
+[[u'production', [52, 62]], u'Gene_expression']
+[[u'production', [262, 272]], u'Gene_expression']
+[[u'production', [483, 493]], u'Gene_expression']
+[[u'production', [559, 569]], u'Gene_expression']

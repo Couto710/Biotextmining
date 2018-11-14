@@ -1,0 +1,60 @@
+denotations: 19
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'regulate', [36, 44]], u'Regulation']
+[[u'i\u03bab\u03b1', [45, 49]], u'Protein']
+[[u'degradation', [50, 61]], u'Protein_catabolism']
+[[u'regulates', [66, 75]], u'Regulation']
+[[u'phosphorylation', [80, 95]], u'Phosphorylation']
+[[u'p65', [105, 108]], u'Protein']
+[[u'ser276', [112, 118]], u'Entity']
+[[u'm-csf', [235, 240]], u'Protein']
+[[u'm-csf', [512, 517]], u'Protein']
+[[u'phospho', [583, 590]], u'Phosphorylation']
+[[u'ser276', [591, 597]], u'Entity']
+[[u'phospho', [601, 608]], u'Phosphorylation']
+[[u'ser536', [609, 615]], u'Entity']
+[[u'p65', [625, 628]], u'Protein']
+[[u'p65', [703, 706]], u'Protein']
+[[u'absence', [800, 807]], u'Negative_regulation']
+[[u'presence', [811, 819]], u'Positive_regulation']
+[[u'm-csf', [823, 828]], u'Protein']
+
+
+geniatagger: 6
+[[u'p65', [105, 108]], u'Protein']
+[[u'm-csf', [235, 240]], u'Protein']
+[[u'm-csf', [512, 517]], u'Protein']
+[[u'p65', [625, 628]], u'Protein']
+[[u'p65', [703, 706]], u'Protein']
+[[u'm-csf', [823, 828]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'degradation', [50, 61]], u'Protein_catabolism']
+[[u'phosphorylation', [80, 95]], u'Phosphorylation']
+[[u'p65', [105, 108]], u'Protein']
+[[u'm-csf', [235, 240]], u'Protein']
+[[u'm-csf', [512, 517]], u'Protein']
+[[u'p65', [625, 628]], u'Protein']
+[[u'p65', [703, 706]], u'Protein']
+[[u'absence', [800, 807]], u'Negative_regulation']
+[[u'presence', [811, 819]], u'Positive_regulation']
+[[u'm-csf', [823, 828]], u'Protein']
+
+
+total: 11
+[[u'p65', [105, 108]], u'Protein']
+[[u'm-csf', [235, 240]], u'Protein']
+[[u'm-csf', [512, 517]], u'Protein']
+[[u'p65', [625, 628]], u'Protein']
+[[u'p65', [703, 706]], u'Protein']
+[[u'm-csf', [823, 828]], u'Protein']
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'degradation', [50, 61]], u'Protein_catabolism']
+[[u'phosphorylation', [80, 95]], u'Phosphorylation']
+[[u'absence', [800, 807]], u'Negative_regulation']
+[[u'presence', [811, 819]], u'Positive_regulation']

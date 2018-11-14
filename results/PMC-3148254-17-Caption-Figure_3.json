@@ -1,0 +1,71 @@
+denotations: 21
+[[u'gl\u03b5', [0, 3]], u'Protein']
+[[u'transcription', [4, 17]], u'Transcription']
+[[u'defective', [21, 30]], u'Negative_regulation']
+[[u'cd40', [34, 38]], u'Protein']
+[[u'hoip', [50, 54]], u'Protein']
+[[u'deficient', [55, 64]], u'Negative_regulation']
+[[u'hoip', [83, 87]], u'Protein']
+[[u'deficient', [88, 97]], u'Negative_regulation']
+[[u'hoip', [166, 170]], u'Protein']
+[[u'hoip', [200, 204]], u'Protein']
+[[u'deficient', [205, 214]], u'Negative_regulation']
+[[u'hoip', [239, 243]], u'Protein']
+[[u'hoip', [265, 269]], u'Protein']
+[[u'hoip', [275, 279]], u'Protein']
+[[u'il-4', [384, 388]], u'Protein']
+[[u'gl\u03b5', [506, 509]], u'Protein']
+[[u'transcripts', [510, 521]], u'Transcription']
+[[u'hprt1', [564, 569]], u'Protein']
+[[u'transcripts', [570, 581]], u'Transcription']
+[[u'hoip', [796, 800]], u'Protein']
+[[u'deficient', [801, 810]], u'Negative_regulation']
+
+
+geniatagger: 4
+[[u'il-4', [384, 388]], u'Protein']
+[[u'transcripts', [510, 521]], u'Transcription']
+[[u'hprt1', [564, 569]], u'Protein']
+[[u'transcripts', [570, 581]], u'Transcription']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 16
+[[u'transcription', [4, 17]], u'Transcription']
+[[u'hoip', [50, 54]], u'Protein']
+[[u'deficient', [55, 64]], u'Negative_regulation']
+[[u'hoip', [83, 87]], u'Protein']
+[[u'deficient', [88, 97]], u'Negative_regulation']
+[[u'hoip', [166, 170]], u'Protein']
+[[u'hoip', [200, 204]], u'Protein']
+[[u'deficient', [205, 214]], u'Negative_regulation']
+[[u'hoip', [239, 243]], u'Protein']
+[[u'hoip', [265, 269]], u'Protein']
+[[u'hoip', [275, 279]], u'Protein']
+[[u'transcripts', [510, 521]], u'Transcription']
+[[u'hprt1', [564, 569]], u'Protein']
+[[u'transcripts', [570, 581]], u'Transcription']
+[[u'hoip', [796, 800]], u'Protein']
+[[u'deficient', [801, 810]], u'Negative_regulation']
+
+
+total: 17
+[[u'il-4', [384, 388]], u'Protein']
+[[u'transcripts', [510, 521]], u'Transcription']
+[[u'hprt1', [564, 569]], u'Protein']
+[[u'transcripts', [570, 581]], u'Transcription']
+[[u'transcription', [4, 17]], u'Transcription']
+[[u'hoip', [50, 54]], u'Protein']
+[[u'deficient', [55, 64]], u'Negative_regulation']
+[[u'hoip', [83, 87]], u'Protein']
+[[u'deficient', [88, 97]], u'Negative_regulation']
+[[u'hoip', [166, 170]], u'Protein']
+[[u'hoip', [200, 204]], u'Protein']
+[[u'deficient', [205, 214]], u'Negative_regulation']
+[[u'hoip', [239, 243]], u'Protein']
+[[u'hoip', [265, 269]], u'Protein']
+[[u'hoip', [275, 279]], u'Protein']
+[[u'hoip', [796, 800]], u'Protein']
+[[u'deficient', [801, 810]], u'Negative_regulation']

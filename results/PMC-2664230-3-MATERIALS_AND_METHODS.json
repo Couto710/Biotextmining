@@ -1,0 +1,22 @@
+denotations: 7
+[[u'induced', [1493, 1500]], u'Positive_regulation']
+[[u'tnf-\u03b1', [1501, 1506]], u'Protein']
+[[u'production', [1507, 1517]], u'Gene_expression']
+[[u'up-regulation', [1670, 1683]], u'Positive_regulation']
+[[u'down-regulation', [1688, 1703]], u'Negative_regulation']
+[[u'tnf-\u03b1', [1707, 1712]], u'Protein']
+[[u'production', [1713, 1723]], u'Gene_expression']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'induced', [1493, 1500]], u'Positive_regulation']
+
+
+total: 1
+[[u'induced', [1493, 1500]], u'Positive_regulation']

@@ -1,0 +1,66 @@
+denotations: 24
+[[u'tlr4', [2484, 2488]], u'Protein']
+[[u'tlr4', [2979, 2983]], u'Protein']
+[[u'tlr4', [3105, 3109]], u'Protein']
+[[u'tlr4', [3166, 3170]], u'Protein']
+[[u'tlr4', [3200, 3204]], u'Protein']
+[[u'tlr4', [3383, 3387]], u'Protein']
+[[u'tlr4', [3608, 3612]], u'Protein']
+[[u'tlr4', [3880, 3884]], u'Protein']
+[[u'tlr4', [4128, 4132]], u'Protein']
+[[u'tlr4', [4288, 4292]], u'Protein']
+[[u'tlr4', [4335, 4339]], u'Protein']
+[[u'i\u03bab\u03b1', [4351, 4355]], u'Protein']
+[[u'tlr4', [4788, 4792]], u'Protein']
+[[u'tlr4', [4849, 4853]], u'Protein']
+[[u'tlr4', [4969, 4973]], u'Protein']
+[[u'tlr4', [5002, 5006]], u'Protein']
+[[u'hsp70', [5329, 5334]], u'Protein']
+[[u'hsp32', [5336, 5341]], u'Protein']
+[[u'hsp27', [5343, 5348]], u'Protein']
+[[u'tlr4', [5653, 5657]], u'Protein']
+[[u'tlr4', [5676, 5680]], u'Protein']
+[[u'tlr4', [5805, 5809]], u'Protein']
+[[u'tlr4', [5996, 6000]], u'Protein']
+[[u'tlr4', [6097, 6101]], u'Protein']
+
+
+geniatagger: 13
+[[u'tlr4', [2484, 2488]], u'Protein']
+[[u'tlr4', [3105, 3109]], u'Protein']
+[[u'tlr4', [3166, 3170]], u'Protein']
+[[u'tlr4', [3200, 3204]], u'Protein']
+[[u'tlr4', [3383, 3387]], u'Protein']
+[[u'tlr4', [3608, 3612]], u'Protein']
+[[u'tlr4', [4288, 4292]], u'Protein']
+[[u'tlr4', [4788, 4792]], u'Protein']
+[[u'tlr4', [4969, 4973]], u'Protein']
+[[u'hsp70', [5329, 5334]], u'Protein']
+[[u'hsp32', [5336, 5341]], u'Protein']
+[[u'hsp27', [5343, 5348]], u'Protein']
+[[u'tlr4', [5805, 5809]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'hsp70', [5329, 5334]], u'Protein']
+[[u'hsp32', [5336, 5341]], u'Protein']
+[[u'hsp27', [5343, 5348]], u'Protein']
+
+
+total: 13
+[[u'tlr4', [2484, 2488]], u'Protein']
+[[u'tlr4', [3105, 3109]], u'Protein']
+[[u'tlr4', [3166, 3170]], u'Protein']
+[[u'tlr4', [3200, 3204]], u'Protein']
+[[u'tlr4', [3383, 3387]], u'Protein']
+[[u'tlr4', [3608, 3612]], u'Protein']
+[[u'tlr4', [4288, 4292]], u'Protein']
+[[u'tlr4', [4788, 4792]], u'Protein']
+[[u'tlr4', [4969, 4973]], u'Protein']
+[[u'hsp70', [5329, 5334]], u'Protein']
+[[u'hsp32', [5336, 5341]], u'Protein']
+[[u'hsp27', [5343, 5348]], u'Protein']
+[[u'tlr4', [5805, 5809]], u'Protein']

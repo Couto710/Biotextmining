@@ -1,0 +1,39 @@
+denotations: 11
+[[u'm-csf', [211, 216]], u'Protein']
+[[u'\u03b2-actin', [446, 453]], u'Protein']
+[[u'active', [501, 507]], u'Positive_regulation']
+[[u'caspase-3', [508, 517]], u'Protein']
+[[u'\u03b2-actin', [545, 552]], u'Protein']
+[[u'annexin v', [734, 743]], u'Protein']
+[[u'annexin v', [851, 860]], u'Protein']
+[[u'negative', [864, 872]], u'Negative_regulation']
+[[u'm-csf', [909, 914]], u'Protein']
+[[u'm-csf', [1045, 1050]], u'Protein']
+[[u'm-csf', [1071, 1076]], u'Protein']
+
+
+geniatagger: 1
+[[u'm-csf', [211, 216]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'm-csf', [211, 216]], u'Protein']
+[[u'active', [501, 507]], u'Positive_regulation']
+[[u'annexin v', [734, 743]], u'Protein']
+[[u'annexin v', [851, 860]], u'Protein']
+[[u'm-csf', [909, 914]], u'Protein']
+[[u'm-csf', [1045, 1050]], u'Protein']
+[[u'm-csf', [1071, 1076]], u'Protein']
+
+
+total: 7
+[[u'm-csf', [211, 216]], u'Protein']
+[[u'active', [501, 507]], u'Positive_regulation']
+[[u'annexin v', [734, 743]], u'Protein']
+[[u'annexin v', [851, 860]], u'Protein']
+[[u'm-csf', [909, 914]], u'Protein']
+[[u'm-csf', [1045, 1050]], u'Protein']
+[[u'm-csf', [1071, 1076]], u'Protein']

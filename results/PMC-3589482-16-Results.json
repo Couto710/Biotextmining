@@ -1,0 +1,50 @@
+denotations: 10
+[[u'serpinb2', [46, 54]], u'Protein']
+[[u'serpinb2 promoter-luciferase reporter gene', [483, 525]], u'Protein']
+[[u'serpinb2', [854, 862]], u'Protein']
+[[u'serpinb2', [978, 986]], u'Protein']
+[[u'serpinb2', [1090, 1098]], u'Protein']
+[[u'serpinb2', [1182, 1190]], u'Protein']
+[[u'serpinb2', [1339, 1347]], u'Protein']
+[[u'luciferase', [1520, 1530]], u'Protein']
+[[u'serpinb2', [1556, 1564]], u'Protein']
+[[u'serpinb2', [1722, 1730]], u'Protein']
+
+
+geniatagger: 9
+[[u'serpinb2', [46, 54]], u'Protein']
+[[u'serpinb2', [854, 862]], u'Protein']
+[[u'serpinb2', [978, 986]], u'Protein']
+[[u'serpinb2', [1090, 1098]], u'Protein']
+[[u'serpinb2', [1182, 1190]], u'Protein']
+[[u'serpinb2', [1339, 1347]], u'Protein']
+[[u'luciferase', [1520, 1530]], u'Protein']
+[[u'serpinb2', [1556, 1564]], u'Protein']
+[[u'serpinb2', [1722, 1730]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'serpinb2', [46, 54]], u'Protein']
+[[u'serpinb2', [854, 862]], u'Protein']
+[[u'serpinb2', [978, 986]], u'Protein']
+[[u'serpinb2', [1090, 1098]], u'Protein']
+[[u'serpinb2', [1182, 1190]], u'Protein']
+[[u'serpinb2', [1339, 1347]], u'Protein']
+[[u'luciferase', [1520, 1530]], u'Protein']
+[[u'serpinb2', [1556, 1564]], u'Protein']
+[[u'serpinb2', [1722, 1730]], u'Protein']
+
+
+total: 9
+[[u'serpinb2', [46, 54]], u'Protein']
+[[u'serpinb2', [854, 862]], u'Protein']
+[[u'serpinb2', [978, 986]], u'Protein']
+[[u'serpinb2', [1090, 1098]], u'Protein']
+[[u'serpinb2', [1182, 1190]], u'Protein']
+[[u'serpinb2', [1339, 1347]], u'Protein']
+[[u'luciferase', [1520, 1530]], u'Protein']
+[[u'serpinb2', [1556, 1564]], u'Protein']
+[[u'serpinb2', [1722, 1730]], u'Protein']

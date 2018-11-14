@@ -1,0 +1,29 @@
+denotations: 9
+[[u'sp1', [789, 792]], u'Protein']
+[[u'sp1', [880, 883]], u'Protein']
+[[u'sp1', [1111, 1114]], u'Protein']
+[[u't4 polynucleotide kinase', [1263, 1287]], u'Protein']
+[[u'bovine serum albumin', [1534, 1554]], u'Protein']
+[[u'sp1', [1995, 1998]], u'Protein']
+[[u'sp1', [2008, 2011]], u'Protein']
+[[u'sp1', [2107, 2110]], u'Protein']
+[[u'sp3', [2158, 2161]], u'Protein']
+
+
+geniatagger: 2
+[[u'sp1', [2107, 2110]], u'Protein']
+[[u'sp3', [2158, 2161]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'bovine serum albumin', [1534, 1554]], u'Protein']
+[[u'sp3', [2158, 2161]], u'Protein']
+
+
+total: 3
+[[u'sp1', [2107, 2110]], u'Protein']
+[[u'sp3', [2158, 2161]], u'Protein']
+[[u'bovine serum albumin', [1534, 1554]], u'Protein']

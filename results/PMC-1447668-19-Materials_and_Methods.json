@@ -1,0 +1,44 @@
+denotations: 10
+[[u'foxp3', [28, 33]], u'Protein']
+[[u'expression', [42, 52]], u'Gene_expression']
+[[u'foxp3', [630, 635]], u'Protein']
+[[u'foxp3', [658, 663]], u'Protein']
+[[u'cd4', [968, 971]], u'Protein']
+[[u'expression', [972, 982]], u'Gene_expression']
+[[u'cd4', [1004, 1007]], u'Protein']
+[[u'cd25', [1017, 1021]], u'Protein']
+[[u'expression', [1022, 1032]], u'Gene_expression']
+[[u'cd25', [1056, 1060]], u'Protein']
+
+
+geniatagger: 4
+[[u'foxp3', [630, 635]], u'Protein']
+[[u'foxp3', [658, 663]], u'Protein']
+[[u'cd4', [968, 971]], u'Protein']
+[[u'cd25', [1017, 1021]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 8
+[[u'foxp3', [28, 33]], u'Protein']
+[[u'expression', [42, 52]], u'Gene_expression']
+[[u'foxp3', [630, 635]], u'Protein']
+[[u'foxp3', [658, 663]], u'Protein']
+[[u'cd4', [968, 971]], u'Protein']
+[[u'expression', [972, 982]], u'Gene_expression']
+[[u'cd4', [1004, 1007]], u'Protein']
+[[u'expression', [1022, 1032]], u'Gene_expression']
+
+
+total: 9
+[[u'foxp3', [630, 635]], u'Protein']
+[[u'foxp3', [658, 663]], u'Protein']
+[[u'cd4', [968, 971]], u'Protein']
+[[u'cd25', [1017, 1021]], u'Protein']
+[[u'foxp3', [28, 33]], u'Protein']
+[[u'expression', [42, 52]], u'Gene_expression']
+[[u'expression', [972, 982]], u'Gene_expression']
+[[u'cd4', [1004, 1007]], u'Protein']
+[[u'expression', [1022, 1032]], u'Gene_expression']

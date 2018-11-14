@@ -1,0 +1,36 @@
+denotations: 9
+[[u'inhibition', [0, 10]], u'Negative_regulation']
+[[u'm-csf', [14, 19]], u'Protein']
+[[u'm-csf', [215, 220]], u'Protein']
+[[u'i\u03bab\u03b1', [353, 357]], u'Protein']
+[[u'bcl-xl', [359, 365]], u'Protein']
+[[u'increase', [412, 420]], u'Positive_regulation']
+[[u'i\u03bab\u03b1', [424, 428]], u'Protein']
+[[u'bcl-xl', [432, 438]], u'Protein']
+[[u'expression', [444, 454]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'm-csf', [215, 220]], u'Protein']
+[[u'bcl-xl', [359, 365]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'inhibition', [0, 10]], u'Negative_regulation']
+[[u'm-csf', [14, 19]], u'Protein']
+[[u'm-csf', [215, 220]], u'Protein']
+[[u'bcl-xl', [359, 365]], u'Protein']
+[[u'increase', [412, 420]], u'Positive_regulation']
+[[u'bcl-xl', [432, 438]], u'Protein']
+
+
+total: 6
+[[u'm-csf', [215, 220]], u'Protein']
+[[u'bcl-xl', [359, 365]], u'Protein']
+[[u'inhibition', [0, 10]], u'Negative_regulation']
+[[u'm-csf', [14, 19]], u'Protein']
+[[u'increase', [412, 420]], u'Positive_regulation']
+[[u'bcl-xl', [432, 438]], u'Protein']

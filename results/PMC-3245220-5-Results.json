@@ -1,0 +1,30 @@
+denotations: 7
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'pkc\u03b1', [14, 18]], u'Protein']
+[[u'm-csf', [132, 137]], u'Protein']
+[[u'pkc\u03b1', [219, 223]], u'Protein']
+[[u'downstream target', [230, 247]], u'Regulation']
+[[u'm-csf', [251, 256]], u'Protein']
+[[u'm-csf', [691, 696]], u'Protein']
+
+
+geniatagger: 2
+[[u'm-csf', [132, 137]], u'Protein']
+[[u'm-csf', [251, 256]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [132, 137]], u'Protein']
+[[u'm-csf', [251, 256]], u'Protein']
+[[u'm-csf', [691, 696]], u'Protein']
+
+
+total: 4
+[[u'm-csf', [132, 137]], u'Protein']
+[[u'm-csf', [251, 256]], u'Protein']
+[[u'm-csf', [0, 5]], u'Protein']
+[[u'm-csf', [691, 696]], u'Protein']

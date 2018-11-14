@@ -1,0 +1,30 @@
+denotations: 10
+[[u'ikk1', [237, 241]], u'Protein']
+[[u'2', [242, 243]], u'Protein']
+[[u'i\u03bab\u03b1', [254, 258]], u'Protein']
+[[u'i\u03bab\u03b1', [268, 272]], u'Protein']
+[[u'tbk1', [284, 288]], u'Protein']
+[[u'erk1', [327, 331]], u'Protein']
+[[u'2', [332, 333]], u'Protein']
+[[u'erk1', [347, 351]], u'Protein']
+[[u'2', [352, 353]], u'Protein']
+[[u'beta-actin', [363, 373]], u'Protein']
+
+
+geniatagger: 1
+[[u'beta-actin', [363, 373]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'ikk1', [237, 241]], u'Protein']
+[[u'tbk1', [284, 288]], u'Protein']
+[[u'beta-actin', [363, 373]], u'Protein']
+
+
+total: 3
+[[u'beta-actin', [363, 373]], u'Protein']
+[[u'ikk1', [237, 241]], u'Protein']
+[[u'tbk1', [284, 288]], u'Protein']

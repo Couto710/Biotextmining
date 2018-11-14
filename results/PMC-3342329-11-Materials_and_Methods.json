@@ -1,0 +1,23 @@
+denotations: 3
+[[u'p65', [779, 782]], u'Protein']
+[[u'p50', [787, 790]], u'Protein']
+[[u'c-iap-1', [1000, 1007]], u'Protein']
+
+
+geniatagger: 3
+[[u'p65', [779, 782]], u'Protein']
+[[u'p50', [787, 790]], u'Protein']
+[[u'c-iap-1', [1000, 1007]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [779, 782]], u'Protein']
+
+
+total: 3
+[[u'p65', [779, 782]], u'Protein']
+[[u'p50', [787, 790]], u'Protein']
+[[u'c-iap-1', [1000, 1007]], u'Protein']

@@ -1,0 +1,24 @@
+denotations: 4
+[[u'binding', [1291, 1298]], u'Binding']
+[[u'p65', [1302, 1305]], u'Protein']
+[[u'p50', [1307, 1310]], u'Protein']
+[[u'flag-tat', [1315, 1323]], u'Protein']
+
+
+geniatagger: 3
+[[u'p65', [1302, 1305]], u'Protein']
+[[u'p50', [1307, 1310]], u'Protein']
+[[u'flag-tat', [1315, 1323]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'p65', [1302, 1305]], u'Protein']
+
+
+total: 3
+[[u'p65', [1302, 1305]], u'Protein']
+[[u'p50', [1307, 1310]], u'Protein']
+[[u'flag-tat', [1315, 1323]], u'Protein']

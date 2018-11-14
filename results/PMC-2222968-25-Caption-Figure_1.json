@@ -1,0 +1,32 @@
+denotations: 11
+[[u'induce', [17, 23]], u'Positive_regulation']
+[[u'foxp3', [24, 29]], u'Protein']
+[[u'expression', [30, 40]], u'Gene_expression']
+[[u'cd3', [96, 99]], u'Protein']
+[[u'cd28', [100, 104]], u'Protein']
+[[u'tgf-\u03b2', [121, 126]], u'Protein']
+[[u'foxp3', [200, 205]], u'Protein']
+[[u'cd3', [376, 379]], u'Protein']
+[[u'cd28', [380, 384]], u'Protein']
+[[u'tgf-\u03b2', [386, 391]], u'Protein']
+[[u'il-4', [401, 405]], u'Protein']
+
+
+geniatagger: 2
+[[u'foxp3', [24, 29]], u'Protein']
+[[u'foxp3', [200, 205]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'foxp3', [24, 29]], u'Protein']
+[[u'expression', [30, 40]], u'Gene_expression']
+[[u'foxp3', [200, 205]], u'Protein']
+
+
+total: 3
+[[u'foxp3', [24, 29]], u'Protein']
+[[u'foxp3', [200, 205]], u'Protein']
+[[u'expression', [30, 40]], u'Gene_expression']

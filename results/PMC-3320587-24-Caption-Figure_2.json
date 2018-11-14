@@ -1,0 +1,72 @@
+denotations: 16
+[[u'nfat5', [12, 17]], u'Protein']
+[[u'nfat5', [51, 56]], u'Protein']
+[[u'nfat5', [140, 145]], u'Protein']
+[[u'nfat5', [465, 470]], u'Protein']
+[[u'nfat5', [549, 554]], u'Protein']
+[[u'nfat5', [763, 768]], u'Protein']
+[[u'nfat5', [807, 812]], u'Protein']
+[[u'nfat5', [991, 996]], u'Protein']
+[[u'gfp', [1015, 1018]], u'Protein']
+[[u'nfat5', [1173, 1178]], u'Protein']
+[[u'nfat5', [1268, 1273]], u'Protein']
+[[u'nfat5', [1360, 1365]], u'Protein']
+[[u'nfat5', [1515, 1520]], u'Protein']
+[[u'nfat5', [1609, 1614]], u'Protein']
+[[u'env', [1706, 1709]], u'Protein']
+[[u'nfat5', [1902, 1907]], u'Protein']
+
+
+geniatagger: 11
+[[u'nfat5', [12, 17]], u'Protein']
+[[u'nfat5', [51, 56]], u'Protein']
+[[u'nfat5', [140, 145]], u'Protein']
+[[u'nfat5', [465, 470]], u'Protein']
+[[u'nfat5', [549, 554]], u'Protein']
+[[u'nfat5', [763, 768]], u'Protein']
+[[u'nfat5', [991, 996]], u'Protein']
+[[u'gfp', [1015, 1018]], u'Protein']
+[[u'nfat5', [1173, 1178]], u'Protein']
+[[u'nfat5', [1268, 1273]], u'Protein']
+[[u'nfat5', [1515, 1520]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 16
+[[u'nfat5', [12, 17]], u'Protein']
+[[u'nfat5', [51, 56]], u'Protein']
+[[u'nfat5', [140, 145]], u'Protein']
+[[u'nfat5', [465, 470]], u'Protein']
+[[u'nfat5', [549, 554]], u'Protein']
+[[u'nfat5', [763, 768]], u'Protein']
+[[u'nfat5', [807, 812]], u'Protein']
+[[u'nfat5', [991, 996]], u'Protein']
+[[u'gfp', [1015, 1018]], u'Protein']
+[[u'nfat5', [1173, 1178]], u'Protein']
+[[u'nfat5', [1268, 1273]], u'Protein']
+[[u'nfat5', [1360, 1365]], u'Protein']
+[[u'nfat5', [1515, 1520]], u'Protein']
+[[u'nfat5', [1609, 1614]], u'Protein']
+[[u'env', [1706, 1709]], u'Protein']
+[[u'nfat5', [1902, 1907]], u'Protein']
+
+
+total: 16
+[[u'nfat5', [12, 17]], u'Protein']
+[[u'nfat5', [51, 56]], u'Protein']
+[[u'nfat5', [140, 145]], u'Protein']
+[[u'nfat5', [465, 470]], u'Protein']
+[[u'nfat5', [549, 554]], u'Protein']
+[[u'nfat5', [763, 768]], u'Protein']
+[[u'nfat5', [991, 996]], u'Protein']
+[[u'gfp', [1015, 1018]], u'Protein']
+[[u'nfat5', [1173, 1178]], u'Protein']
+[[u'nfat5', [1268, 1273]], u'Protein']
+[[u'nfat5', [1515, 1520]], u'Protein']
+[[u'nfat5', [807, 812]], u'Protein']
+[[u'nfat5', [1360, 1365]], u'Protein']
+[[u'nfat5', [1609, 1614]], u'Protein']
+[[u'env', [1706, 1709]], u'Protein']
+[[u'nfat5', [1902, 1907]], u'Protein']

@@ -1,0 +1,23 @@
+denotations: 4
+[[u'p65', [491, 494]], u'Protein']
+[[u'p65', [611, 614]], u'Protein']
+[[u'tnfp55r', [727, 734]], u'Protein']
+[[u'p65', [767, 770]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'p65', [491, 494]], u'Protein']
+[[u'p65', [611, 614]], u'Protein']
+[[u'p65', [767, 770]], u'Protein']
+
+
+total: 3
+[[u'p65', [491, 494]], u'Protein']
+[[u'p65', [611, 614]], u'Protein']
+[[u'p65', [767, 770]], u'Protein']

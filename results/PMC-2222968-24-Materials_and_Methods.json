@@ -1,0 +1,17 @@
+denotations: 2
+[[u'cd4', [17, 20]], u'Protein']
+[[u'gata3', [900, 905]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'gata3', [900, 905]], u'Protein']
+
+
+total: 1
+[[u'gata3', [900, 905]], u'Protein']

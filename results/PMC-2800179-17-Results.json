@@ -1,0 +1,67 @@
+denotations: 19
+[[u'icam-1', [0, 6]], u'Protein']
+[[u'expression', [7, 17]], u'Gene_expression']
+[[u'induced', [21, 28]], u'Positive_regulation']
+[[u'stimulated', [407, 417]], u'Positive_regulation']
+[[u'expression', [418, 428]], u'Gene_expression']
+[[u'icam-1', [432, 438]], u'Protein']
+[[u'cd54', [440, 444]], u'Protein']
+[[u'increase', [484, 492]], u'Positive_regulation']
+[[u'icam-1', [496, 502]], u'Protein']
+[[u'expression', [503, 513]], u'Gene_expression']
+[[u'lymphocyte function-associated antigen 3', [605, 645]], u'Protein']
+[[u'cd58', [647, 651]], u'Protein']
+[[u'reduced', [666, 673]], u'Negative_regulation']
+[[u'expression', [740, 750]], u'Gene_expression']
+[[u'monocyte marker', [859, 874]], u'Protein']
+[[u'cd14', [875, 879]], u'Protein']
+[[u'reduced', [894, 901]], u'Negative_regulation']
+[[u'icam-1', [1318, 1324]], u'Protein']
+[[u'icam-1', [1712, 1718]], u'Protein']
+
+
+geniatagger: 8
+[[u'icam-1', [0, 6]], u'Protein']
+[[u'icam-1', [432, 438]], u'Protein']
+[[u'cd54', [440, 444]], u'Protein']
+[[u'icam-1', [496, 502]], u'Protein']
+[[u'cd58', [647, 651]], u'Protein']
+[[u'cd14', [875, 879]], u'Protein']
+[[u'icam-1', [1318, 1324]], u'Protein']
+[[u'icam-1', [1712, 1718]], u'Protein']
+
+
+metamapper: 5
+[[u'expression', [7, 17]], u'Gene_expression']
+[[u'induced', [21, 28]], u'Positive_regulation']
+[[u'expression', [418, 428]], u'Gene_expression']
+[[u'expression', [503, 513]], u'Gene_expression']
+[[u'expression', [740, 750]], u'Gene_expression']
+
+
+spacy + metamapper: 7
+[[u'expression', [7, 17]], u'Gene_expression']
+[[u'stimulated', [407, 417]], u'Positive_regulation']
+[[u'expression', [418, 428]], u'Gene_expression']
+[[u'increase', [484, 492]], u'Positive_regulation']
+[[u'expression', [503, 513]], u'Gene_expression']
+[[u'expression', [740, 750]], u'Gene_expression']
+[[u'cd14', [875, 879]], u'Protein']
+
+
+total: 15
+[[u'icam-1', [0, 6]], u'Protein']
+[[u'icam-1', [432, 438]], u'Protein']
+[[u'cd54', [440, 444]], u'Protein']
+[[u'icam-1', [496, 502]], u'Protein']
+[[u'cd58', [647, 651]], u'Protein']
+[[u'cd14', [875, 879]], u'Protein']
+[[u'icam-1', [1318, 1324]], u'Protein']
+[[u'icam-1', [1712, 1718]], u'Protein']
+[[u'expression', [7, 17]], u'Gene_expression']
+[[u'induced', [21, 28]], u'Positive_regulation']
+[[u'expression', [418, 428]], u'Gene_expression']
+[[u'expression', [503, 513]], u'Gene_expression']
+[[u'expression', [740, 750]], u'Gene_expression']
+[[u'stimulated', [407, 417]], u'Positive_regulation']
+[[u'increase', [484, 492]], u'Positive_regulation']

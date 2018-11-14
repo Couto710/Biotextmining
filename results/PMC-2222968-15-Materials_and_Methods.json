@@ -1,0 +1,33 @@
+denotations: 6
+[[u'foxp3', [132, 137]], u'Protein']
+[[u'luciferase', [147, 157]], u'Protein']
+[[u'cd4', [215, 218]], u'Protein']
+[[u'luciferase', [444, 454]], u'Protein']
+[[u'luciferase', [489, 499]], u'Protein']
+[[u'luciferase', [625, 635]], u'Protein']
+
+
+geniatagger: 4
+[[u'foxp3', [132, 137]], u'Protein']
+[[u'luciferase', [444, 454]], u'Protein']
+[[u'luciferase', [489, 499]], u'Protein']
+[[u'luciferase', [625, 635]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'foxp3', [132, 137]], u'Protein']
+[[u'luciferase', [147, 157]], u'Protein']
+[[u'luciferase', [444, 454]], u'Protein']
+[[u'luciferase', [489, 499]], u'Protein']
+[[u'luciferase', [625, 635]], u'Protein']
+
+
+total: 5
+[[u'foxp3', [132, 137]], u'Protein']
+[[u'luciferase', [444, 454]], u'Protein']
+[[u'luciferase', [489, 499]], u'Protein']
+[[u'luciferase', [625, 635]], u'Protein']
+[[u'luciferase', [147, 157]], u'Protein']

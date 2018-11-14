@@ -1,0 +1,30 @@
+denotations: 7
+[[u'dependent', [42, 51]], u'Regulation']
+[[u'bcl10', [52, 57]], u'Protein']
+[[u'degradation', [58, 69]], u'Protein_catabolism']
+[[u'bcl10', [356, 361]], u'Protein']
+[[u'activation', [362, 372]], u'Positive_regulation']
+[[u'inhibited', [377, 386]], u'Negative_regulation']
+[[u'\u03b2-actin', [494, 501]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 5
+[[u'dependent', [42, 51]], u'Regulation']
+[[u'bcl10', [52, 57]], u'Protein']
+[[u'degradation', [58, 69]], u'Protein_catabolism']
+[[u'bcl10', [356, 361]], u'Protein']
+[[u'activation', [362, 372]], u'Positive_regulation']
+
+
+total: 5
+[[u'dependent', [42, 51]], u'Regulation']
+[[u'bcl10', [52, 57]], u'Protein']
+[[u'degradation', [58, 69]], u'Protein_catabolism']
+[[u'bcl10', [356, 361]], u'Protein']
+[[u'activation', [362, 372]], u'Positive_regulation']

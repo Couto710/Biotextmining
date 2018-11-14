@@ -1,0 +1,17 @@
+denotations: 2
+[[u'cd8', [776, 779]], u'Protein']
+[[u'il-2', [869, 873]], u'Protein']
+
+
+geniatagger: 1
+[[u'il-2', [869, 873]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'il-2', [869, 873]], u'Protein']

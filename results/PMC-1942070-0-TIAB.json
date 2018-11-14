@@ -1,0 +1,22 @@
+denotations: 4
+[[u'required', [667, 675]], u'Positive_regulation']
+[[u'regulate', [679, 687]], u'Regulation']
+[[u'hsp27', [688, 693]], u'Protein']
+[[u'phosphorylation', [694, 709]], u'Phosphorylation']
+
+
+geniatagger: 1
+[[u'hsp27', [688, 693]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 2
+[[u'hsp27', [688, 693]], u'Protein']
+[[u'phosphorylation', [694, 709]], u'Phosphorylation']
+
+
+total: 2
+[[u'hsp27', [688, 693]], u'Protein']
+[[u'phosphorylation', [694, 709]], u'Phosphorylation']

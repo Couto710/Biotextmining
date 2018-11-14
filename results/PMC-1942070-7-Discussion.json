@@ -1,0 +1,42 @@
+denotations: 12
+[[u'serine', [18, 24]], u'Entity']
+[[u'regulate', [55, 63]], u'Regulation']
+[[u'phosphorylation', [172, 187]], u'Phosphorylation']
+[[u'hsp27', [191, 196]], u'Protein']
+[[u'regulating', [988, 998]], u'Regulation']
+[[u'phosphorylation', [1003, 1018]], u'Phosphorylation']
+[[u'hsp27', [1022, 1027]], u'Protein']
+[[u'serine 82', [1031, 1040]], u'Entity']
+[[u'target', [1076, 1082]], u'Regulation']
+[[u'mapkapk2', [1095, 1103]], u'Protein']
+[[u'pkd1', [1485, 1489]], u'Protein']
+[[u'2', [1490, 1491]], u'Protein']
+
+
+geniatagger: 3
+[[u'serine', [18, 24]], u'Entity']
+[[u'hsp27', [191, 196]], u'Protein']
+[[u'hsp27', [1022, 1027]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'serine', [18, 24]], u'Entity']
+[[u'phosphorylation', [172, 187]], u'Phosphorylation']
+[[u'hsp27', [191, 196]], u'Protein']
+[[u'phosphorylation', [1003, 1018]], u'Phosphorylation']
+[[u'hsp27', [1022, 1027]], u'Protein']
+[[u'target', [1076, 1082]], u'Regulation']
+[[u'mapkapk2', [1095, 1103]], u'Protein']
+
+
+total: 7
+[[u'serine', [18, 24]], u'Entity']
+[[u'hsp27', [191, 196]], u'Protein']
+[[u'hsp27', [1022, 1027]], u'Protein']
+[[u'phosphorylation', [172, 187]], u'Phosphorylation']
+[[u'phosphorylation', [1003, 1018]], u'Phosphorylation']
+[[u'target', [1076, 1082]], u'Regulation']
+[[u'mapkapk2', [1095, 1103]], u'Protein']

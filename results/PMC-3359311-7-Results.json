@@ -1,0 +1,18 @@
+denotations: 3
+[[u'inhibit', [569, 576]], u'Negative_regulation']
+[[u'i\u03bab\u03b1', [577, 581]], u'Protein']
+[[u'degradation', [582, 593]], u'Protein_catabolism']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'degradation', [582, 593]], u'Protein_catabolism']
+
+
+total: 1
+[[u'degradation', [582, 593]], u'Protein_catabolism']

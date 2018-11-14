@@ -1,0 +1,26 @@
+denotations: 4
+[[u'tat', [121, 124]], u'Protein']
+[[u'env', [158, 161]], u'Protein']
+[[u'env', [389, 392]], u'Protein']
+[[u'p24', [424, 427]], u'Protein']
+
+
+geniatagger: 1
+[[u'p24', [424, 427]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'tat', [121, 124]], u'Protein']
+[[u'env', [158, 161]], u'Protein']
+[[u'env', [389, 392]], u'Protein']
+[[u'p24', [424, 427]], u'Protein']
+
+
+total: 4
+[[u'p24', [424, 427]], u'Protein']
+[[u'tat', [121, 124]], u'Protein']
+[[u'env', [158, 161]], u'Protein']
+[[u'env', [389, 392]], u'Protein']

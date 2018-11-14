@@ -1,0 +1,38 @@
+denotations: 8
+[[u'runx1', [374, 379]], u'Protein']
+[[u'runx3', [453, 458]], u'Protein']
+[[u'runx1', [561, 566]], u'Protein']
+[[u'binding', [567, 574]], u'Binding']
+[[u'runx3', [661, 666]], u'Protein']
+[[u'binding', [667, 674]], u'Binding']
+[[u'runx3', [813, 818]], u'Protein']
+[[u'foxp3', [981, 986]], u'Protein']
+
+
+geniatagger: 4
+[[u'runx1', [374, 379]], u'Protein']
+[[u'runx3', [453, 458]], u'Protein']
+[[u'runx3', [813, 818]], u'Protein']
+[[u'foxp3', [981, 986]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'runx3', [453, 458]], u'Protein']
+[[u'binding', [567, 574]], u'Binding']
+[[u'runx3', [661, 666]], u'Protein']
+[[u'binding', [667, 674]], u'Binding']
+[[u'runx3', [813, 818]], u'Protein']
+[[u'foxp3', [981, 986]], u'Protein']
+
+
+total: 7
+[[u'runx1', [374, 379]], u'Protein']
+[[u'runx3', [453, 458]], u'Protein']
+[[u'runx3', [813, 818]], u'Protein']
+[[u'foxp3', [981, 986]], u'Protein']
+[[u'binding', [567, 574]], u'Binding']
+[[u'runx3', [661, 666]], u'Protein']
+[[u'binding', [667, 674]], u'Binding']

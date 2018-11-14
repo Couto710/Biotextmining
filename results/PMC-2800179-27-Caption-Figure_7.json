@@ -1,0 +1,45 @@
+denotations: 10
+[[u'driving', [117, 124]], u'Positive_regulation']
+[[u'expression', [125, 135]], u'Gene_expression']
+[[u'luciferase', [139, 149]], u'Protein']
+[[u'i\u03bab\u03b1', [470, 474]], u'Protein']
+[[u'p50', [839, 842]], u'Protein']
+[[u'p50', [852, 855]], u'Protein']
+[[u'p65', [866, 869]], u'Protein']
+[[u'p65', [879, 882]], u'Protein']
+[[u'p50', [1171, 1174]], u'Protein']
+[[u'p65', [1192, 1195]], u'Protein']
+
+
+geniatagger: 7
+[[u'luciferase', [139, 149]], u'Protein']
+[[u'p50', [839, 842]], u'Protein']
+[[u'p50', [852, 855]], u'Protein']
+[[u'p65', [866, 869]], u'Protein']
+[[u'p65', [879, 882]], u'Protein']
+[[u'p50', [1171, 1174]], u'Protein']
+[[u'p65', [1192, 1195]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'driving', [117, 124]], u'Positive_regulation']
+[[u'expression', [125, 135]], u'Gene_expression']
+[[u'luciferase', [139, 149]], u'Protein']
+[[u'p65', [866, 869]], u'Protein']
+[[u'p65', [879, 882]], u'Protein']
+[[u'p65', [1192, 1195]], u'Protein']
+
+
+total: 9
+[[u'luciferase', [139, 149]], u'Protein']
+[[u'p50', [839, 842]], u'Protein']
+[[u'p50', [852, 855]], u'Protein']
+[[u'p65', [866, 869]], u'Protein']
+[[u'p65', [879, 882]], u'Protein']
+[[u'p50', [1171, 1174]], u'Protein']
+[[u'p65', [1192, 1195]], u'Protein']
+[[u'driving', [117, 124]], u'Positive_regulation']
+[[u'expression', [125, 135]], u'Gene_expression']

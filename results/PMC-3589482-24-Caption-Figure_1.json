@@ -1,0 +1,30 @@
+denotations: 5
+[[u'serpinb2', [17, 25]], u'Protein']
+[[u'serpinb2', [188, 196]], u'Protein']
+[[u'\u03b2-actin', [222, 229]], u'Protein']
+[[u'serpinb2', [350, 358]], u'Protein']
+[[u'gapdh', [423, 428]], u'Protein']
+
+
+geniatagger: 4
+[[u'serpinb2', [17, 25]], u'Protein']
+[[u'serpinb2', [188, 196]], u'Protein']
+[[u'serpinb2', [350, 358]], u'Protein']
+[[u'gapdh', [423, 428]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'serpinb2', [17, 25]], u'Protein']
+[[u'serpinb2', [188, 196]], u'Protein']
+[[u'serpinb2', [350, 358]], u'Protein']
+[[u'gapdh', [423, 428]], u'Protein']
+
+
+total: 4
+[[u'serpinb2', [17, 25]], u'Protein']
+[[u'serpinb2', [188, 196]], u'Protein']
+[[u'serpinb2', [350, 358]], u'Protein']
+[[u'gapdh', [423, 428]], u'Protein']

@@ -1,0 +1,28 @@
+denotations: 3
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'nfat5', [482, 487]], u'Protein']
+[[u'nfat5', [1706, 1711]], u'Protein']
+
+
+geniatagger: 3
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'nfat5', [482, 487]], u'Protein']
+[[u'nfat5', [1706, 1711]], u'Protein']
+
+
+metamapper: 3
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'nfat5', [482, 487]], u'Protein']
+[[u'nfat5', [1706, 1711]], u'Protein']
+
+
+spacy + metamapper: 3
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'nfat5', [482, 487]], u'Protein']
+[[u'nfat5', [1706, 1711]], u'Protein']
+
+
+total: 3
+[[u'nfat5', [0, 5]], u'Protein']
+[[u'nfat5', [482, 487]], u'Protein']
+[[u'nfat5', [1706, 1711]], u'Protein']

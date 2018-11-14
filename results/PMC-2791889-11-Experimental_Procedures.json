@@ -1,0 +1,63 @@
+denotations: 23
+[[u'cd4', [13, 16]], u'Protein']
+[[u'cd4', [122, 125]], u'Protein']
+[[u'cd62l', [126, 131]], u'Protein']
+[[u'cd4', [135, 138]], u'Protein']
+[[u'cd62l', [139, 144]], u'Protein']
+[[u'cd25', [146, 150]], u'Protein']
+[[u'cd4', [156, 159]], u'Protein']
+[[u'cd44', [160, 164]], u'Protein']
+[[u'cd25', [166, 170]], u'Protein']
+[[u'cd4', [343, 346]], u'Protein']
+[[u'cd11c', [477, 482]], u'Protein']
+[[u'cd4', [541, 544]], u'Protein']
+[[u'ova', [739, 742]], u'Protein']
+[[u'il-12', [750, 755]], u'Protein']
+[[u'cd4', [798, 801]], u'Protein']
+[[u'cd3', [861, 864]], u'Protein']
+[[u'cd28', [874, 878]], u'Protein']
+[[u'mek', [1371, 1374]], u'Protein']
+[[u'inhibitors', [1375, 1385]], u'Negative_regulation']
+[[u'p38', [1398, 1401]], u'Protein']
+[[u'inhibitor', [1402, 1411]], u'Negative_regulation']
+[[u'gsk3\u03b2', [1423, 1428]], u'Protein']
+[[u'inhibitor', [1429, 1438]], u'Negative_regulation']
+
+
+geniatagger: 4
+[[u'ova', [739, 742]], u'Protein']
+[[u'il-12', [750, 755]], u'Protein']
+[[u'mek', [1371, 1374]], u'Protein']
+[[u'p38', [1398, 1401]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 10
+[[u'cd4', [13, 16]], u'Protein']
+[[u'cd4', [122, 125]], u'Protein']
+[[u'cd4', [135, 138]], u'Protein']
+[[u'cd4', [156, 159]], u'Protein']
+[[u'cd4', [343, 346]], u'Protein']
+[[u'cd4', [541, 544]], u'Protein']
+[[u'ova', [739, 742]], u'Protein']
+[[u'cd4', [798, 801]], u'Protein']
+[[u'inhibitor', [1402, 1411]], u'Negative_regulation']
+[[u'inhibitor', [1429, 1438]], u'Negative_regulation']
+
+
+total: 13
+[[u'ova', [739, 742]], u'Protein']
+[[u'il-12', [750, 755]], u'Protein']
+[[u'mek', [1371, 1374]], u'Protein']
+[[u'p38', [1398, 1401]], u'Protein']
+[[u'cd4', [13, 16]], u'Protein']
+[[u'cd4', [122, 125]], u'Protein']
+[[u'cd4', [135, 138]], u'Protein']
+[[u'cd4', [156, 159]], u'Protein']
+[[u'cd4', [343, 346]], u'Protein']
+[[u'cd4', [541, 544]], u'Protein']
+[[u'cd4', [798, 801]], u'Protein']
+[[u'inhibitor', [1402, 1411]], u'Negative_regulation']
+[[u'inhibitor', [1429, 1438]], u'Negative_regulation']

@@ -1,0 +1,33 @@
+denotations: 6
+[[u'luciferase', [25, 35]], u'Protein']
+[[u'cd4', [524, 527]], u'Protein']
+[[u'luciferase', [866, 876]], u'Protein']
+[[u'luciferase', [914, 924]], u'Protein']
+[[u'cd4', [1206, 1209]], u'Protein']
+[[u'cd4', [1600, 1603]], u'Protein']
+
+
+geniatagger: 2
+[[u'luciferase', [25, 35]], u'Protein']
+[[u'luciferase', [866, 876]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'luciferase', [25, 35]], u'Protein']
+[[u'cd4', [524, 527]], u'Protein']
+[[u'luciferase', [866, 876]], u'Protein']
+[[u'luciferase', [914, 924]], u'Protein']
+[[u'cd4', [1206, 1209]], u'Protein']
+[[u'cd4', [1600, 1603]], u'Protein']
+
+
+total: 6
+[[u'luciferase', [25, 35]], u'Protein']
+[[u'luciferase', [866, 876]], u'Protein']
+[[u'cd4', [524, 527]], u'Protein']
+[[u'luciferase', [914, 924]], u'Protein']
+[[u'cd4', [1206, 1209]], u'Protein']
+[[u'cd4', [1600, 1603]], u'Protein']

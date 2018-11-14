@@ -1,0 +1,30 @@
+denotations: 7
+[[u'cxcl8', [174, 179]], u'Protein']
+[[u'expression', [180, 190]], u'Gene_expression']
+[[u'inhibited', [195, 204]], u'Negative_regulation']
+[[u'dependent', [215, 224]], u'Regulation']
+[[u'inhibitory effect', [282, 299]], u'Negative_regulation']
+[[u'il-6', [303, 307]], u'Protein']
+[[u'expression', [308, 318]], u'Gene_expression']
+
+
+geniatagger: 2
+[[u'cxcl8', [174, 179]], u'Protein']
+[[u'il-6', [303, 307]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'cxcl8', [174, 179]], u'Protein']
+[[u'expression', [180, 190]], u'Gene_expression']
+[[u'il-6', [303, 307]], u'Protein']
+[[u'expression', [308, 318]], u'Gene_expression']
+
+
+total: 4
+[[u'cxcl8', [174, 179]], u'Protein']
+[[u'il-6', [303, 307]], u'Protein']
+[[u'expression', [180, 190]], u'Gene_expression']
+[[u'expression', [308, 318]], u'Gene_expression']

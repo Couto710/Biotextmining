@@ -1,0 +1,24 @@
+denotations: 5
+[[u'm-csf', [19, 24]], u'Protein']
+[[u'activating', [73, 83]], u'Positive_regulation']
+[[u'p65', [90, 93]], u'Protein']
+[[u'phosphorylation', [94, 109]], u'Phosphorylation']
+[[u'ser276', [113, 119]], u'Entity']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'm-csf', [19, 24]], u'Protein']
+[[u'p65', [90, 93]], u'Protein']
+[[u'phosphorylation', [94, 109]], u'Phosphorylation']
+
+
+total: 3
+[[u'm-csf', [19, 24]], u'Protein']
+[[u'p65', [90, 93]], u'Protein']
+[[u'phosphorylation', [94, 109]], u'Phosphorylation']

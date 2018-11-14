@@ -1,0 +1,65 @@
+denotations: 16
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'ccr5', [50, 54]], u'Protein']
+[[u'ccr5', [160, 164]], u'Protein']
+[[u'ccr5', [172, 176]], u'Protein']
+[[u'il-1ra', [305, 311]], u'Protein']
+[[u'mig', [313, 316]], u'Protein']
+[[u'mip-1\u03b1', [318, 324]], u'Protein']
+[[u'ccr5', [377, 381]], u'Protein']
+[[u'ccr5', [402, 406]], u'Protein']
+[[u'ccr5', [496, 500]], u'Protein']
+[[u'ccr5', [517, 521]], u'Protein']
+[[u'ccr5', [604, 608]], u'Protein']
+[[u'il-1ra', [640, 646]], u'Protein']
+[[u'il-1ra', [708, 714]], u'Protein']
+[[u'il-1ra', [818, 824]], u'Protein']
+[[u'ccr5', [876, 880]], u'Protein']
+
+
+geniatagger: 6
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'il-1ra', [305, 311]], u'Protein']
+[[u'mig', [313, 316]], u'Protein']
+[[u'il-1ra', [640, 646]], u'Protein']
+[[u'il-1ra', [708, 714]], u'Protein']
+[[u'il-1ra', [818, 824]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 15
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'ccr5', [50, 54]], u'Protein']
+[[u'ccr5', [160, 164]], u'Protein']
+[[u'ccr5', [172, 176]], u'Protein']
+[[u'il-1ra', [305, 311]], u'Protein']
+[[u'mig', [313, 316]], u'Protein']
+[[u'ccr5', [377, 381]], u'Protein']
+[[u'ccr5', [402, 406]], u'Protein']
+[[u'ccr5', [496, 500]], u'Protein']
+[[u'ccr5', [517, 521]], u'Protein']
+[[u'ccr5', [604, 608]], u'Protein']
+[[u'il-1ra', [640, 646]], u'Protein']
+[[u'il-1ra', [708, 714]], u'Protein']
+[[u'il-1ra', [818, 824]], u'Protein']
+[[u'ccr5', [876, 880]], u'Protein']
+
+
+total: 15
+[[u'il-1ra', [16, 22]], u'Protein']
+[[u'il-1ra', [305, 311]], u'Protein']
+[[u'mig', [313, 316]], u'Protein']
+[[u'il-1ra', [640, 646]], u'Protein']
+[[u'il-1ra', [708, 714]], u'Protein']
+[[u'il-1ra', [818, 824]], u'Protein']
+[[u'ccr5', [50, 54]], u'Protein']
+[[u'ccr5', [160, 164]], u'Protein']
+[[u'ccr5', [172, 176]], u'Protein']
+[[u'ccr5', [377, 381]], u'Protein']
+[[u'ccr5', [402, 406]], u'Protein']
+[[u'ccr5', [496, 500]], u'Protein']
+[[u'ccr5', [517, 521]], u'Protein']
+[[u'ccr5', [604, 608]], u'Protein']
+[[u'ccr5', [876, 880]], u'Protein']

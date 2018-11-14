@@ -1,0 +1,24 @@
+denotations: 3
+[[u'sox6', [77, 81]], u'Protein']
+[[u'\u025by globin', [664, 673]], u'Protein']
+[[u'sox6', [680, 684]], u'Protein']
+
+
+geniatagger: 2
+[[u'sox6', [77, 81]], u'Protein']
+[[u'sox6', [680, 684]], u'Protein']
+
+
+metamapper: 2
+[[u'sox6', [77, 81]], u'Protein']
+[[u'sox6', [680, 684]], u'Protein']
+
+
+spacy + metamapper: 2
+[[u'sox6', [77, 81]], u'Protein']
+[[u'sox6', [680, 684]], u'Protein']
+
+
+total: 2
+[[u'sox6', [77, 81]], u'Protein']
+[[u'sox6', [680, 684]], u'Protein']

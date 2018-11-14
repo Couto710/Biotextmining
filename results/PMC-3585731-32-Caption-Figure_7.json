@@ -1,0 +1,18 @@
+denotations: 3
+[[u'tnf\u03b1', [772, 776]], u'Protein']
+[[u'18s', [843, 846]], u'Protein']
+[[u'tnf\u03b1', [1074, 1078]], u'Protein']
+
+
+geniatagger: 1
+[[u'18s', [843, 846]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 1
+[[u'18s', [843, 846]], u'Protein']

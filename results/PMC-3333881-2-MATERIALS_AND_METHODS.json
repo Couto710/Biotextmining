@@ -1,0 +1,38 @@
+denotations: 17
+[[u'3xha-i\u03bab-\u03b1', [28, 38]], u'Protein']
+[[u'tat', [52, 55]], u'Protein']
+[[u'tat c(22,25,27)a', [69, 85]], u'Protein']
+[[u'tat r(49,52,53,55,56,57)a', [99, 124]], u'Protein']
+[[u'tat', [134, 137]], u'Protein']
+[[u'tat c(22,25,27)a', [147, 163]], u'Protein']
+[[u'tat r(49,52,53,55,56,57)a', [176, 201]], u'Protein']
+[[u'env', [273, 276]], u'Protein']
+[[u'\u03b2-gal', [393, 398]], u'Protein']
+[[u'3xha-p65', [468, 476]], u'Protein']
+[[u'3xha-p65\u03b4c', [486, 496]], u'Protein']
+[[u'3xha-p65\u03b4n', [513, 523]], u'Protein']
+[[u'tat t,n(23,24)a', [546, 561]], u'Protein']
+[[u'tat k(50,51)a', [575, 588]], u'Protein']
+[[u'tat t,n(23,24)a', [598, 613]], u'Protein']
+[[u'tat k(50,51)a', [623, 636]], u'Protein']
+[[u'tat', [653, 656]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 4
+[[u'tat', [52, 55]], u'Protein']
+[[u'tat', [134, 137]], u'Protein']
+[[u'env', [273, 276]], u'Protein']
+[[u'tat', [653, 656]], u'Protein']
+
+
+total: 4
+[[u'tat', [52, 55]], u'Protein']
+[[u'tat', [134, 137]], u'Protein']
+[[u'env', [273, 276]], u'Protein']
+[[u'tat', [653, 656]], u'Protein']

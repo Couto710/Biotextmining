@@ -1,0 +1,57 @@
+denotations: 13
+[[u'akt', [0, 3]], u'Protein']
+[[u'stat3', [15, 20]], u'Protein']
+[[u'lmp1', [146, 150]], u'Protein']
+[[u'lmp1', [186, 190]], u'Protein']
+[[u'inhibitors', [257, 267]], u'Negative_regulation']
+[[u'mtor', [285, 289]], u'Protein']
+[[u'akt', [303, 306]], u'Protein']
+[[u'mek1', [322, 326]], u'Protein']
+[[u'2', [327, 328]], u'Protein']
+[[u'stat3', [357, 362]], u'Protein']
+[[u'lmp1', [538, 542]], u'Protein']
+[[u'lmp1', [595, 599]], u'Protein']
+[[u'lmp1', [658, 662]], u'Protein']
+
+
+geniatagger: 9
+[[u'akt', [0, 3]], u'Protein']
+[[u'stat3', [15, 20]], u'Protein']
+[[u'lmp1', [146, 150]], u'Protein']
+[[u'lmp1', [186, 190]], u'Protein']
+[[u'akt', [303, 306]], u'Protein']
+[[u'stat3', [357, 362]], u'Protein']
+[[u'lmp1', [538, 542]], u'Protein']
+[[u'lmp1', [595, 599]], u'Protein']
+[[u'lmp1', [658, 662]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 11
+[[u'akt', [0, 3]], u'Protein']
+[[u'stat3', [15, 20]], u'Protein']
+[[u'lmp1', [146, 150]], u'Protein']
+[[u'lmp1', [186, 190]], u'Protein']
+[[u'inhibitors', [257, 267]], u'Negative_regulation']
+[[u'akt', [303, 306]], u'Protein']
+[[u'mek1', [322, 326]], u'Protein']
+[[u'stat3', [357, 362]], u'Protein']
+[[u'lmp1', [538, 542]], u'Protein']
+[[u'lmp1', [595, 599]], u'Protein']
+[[u'lmp1', [658, 662]], u'Protein']
+
+
+total: 11
+[[u'akt', [0, 3]], u'Protein']
+[[u'stat3', [15, 20]], u'Protein']
+[[u'lmp1', [146, 150]], u'Protein']
+[[u'lmp1', [186, 190]], u'Protein']
+[[u'akt', [303, 306]], u'Protein']
+[[u'stat3', [357, 362]], u'Protein']
+[[u'lmp1', [538, 542]], u'Protein']
+[[u'lmp1', [595, 599]], u'Protein']
+[[u'lmp1', [658, 662]], u'Protein']
+[[u'inhibitors', [257, 267]], u'Negative_regulation']
+[[u'mek1', [322, 326]], u'Protein']

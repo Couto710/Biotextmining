@@ -1,0 +1,38 @@
+denotations: 13
+[[u'role', [0, 4]], u'Regulation']
+[[u'induced', [19, 26]], u'Positive_regulation']
+[[u'tnf-\u03b1', [44, 49]], u'Protein']
+[[u'production', [50, 60]], u'Gene_expression']
+[[u'role', [77, 81]], u'Regulation']
+[[u'tnf-\u03b1', [92, 97]], u'Protein']
+[[u'production', [98, 108]], u'Gene_expression']
+[[u'involvement', [138, 149]], u'Regulation']
+[[u'attenuation', [157, 168]], u'Negative_regulation']
+[[u'induced', [176, 183]], u'Positive_regulation']
+[[u'tnf-\u03b1', [184, 189]], u'Protein']
+[[u'production', [190, 200]], u'Gene_expression']
+[[u'tnf-\u03b1', [776, 781]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 6
+[[u'role', [0, 4]], u'Regulation']
+[[u'induced', [19, 26]], u'Positive_regulation']
+[[u'role', [77, 81]], u'Regulation']
+[[u'involvement', [138, 149]], u'Regulation']
+[[u'attenuation', [157, 168]], u'Negative_regulation']
+[[u'induced', [176, 183]], u'Positive_regulation']
+
+
+total: 6
+[[u'role', [0, 4]], u'Regulation']
+[[u'induced', [19, 26]], u'Positive_regulation']
+[[u'role', [77, 81]], u'Regulation']
+[[u'involvement', [138, 149]], u'Regulation']
+[[u'attenuation', [157, 168]], u'Negative_regulation']
+[[u'induced', [176, 183]], u'Positive_regulation']

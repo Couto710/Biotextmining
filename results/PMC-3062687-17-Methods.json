@@ -1,0 +1,19 @@
+denotations: 4
+[[u'ikk\u03b1', [56, 60]], u'Protein']
+[[u'ikk\u03b2', [96, 100]], u'Protein']
+[[u'i\u03bab\u03b1', [136, 140]], u'Protein']
+[[u'rps3', [176, 180]], u'Protein']
+
+
+geniatagger: 0
+
+
+metamapper: 0
+
+
+spacy + metamapper: 1
+[[u'rps3', [176, 180]], u'Protein']
+
+
+total: 1
+[[u'rps3', [176, 180]], u'Protein']

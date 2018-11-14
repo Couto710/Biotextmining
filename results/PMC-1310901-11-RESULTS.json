@@ -1,0 +1,63 @@
+denotations: 14
+[[u'irf-4', [63, 68]], u'Protein']
+[[u'irf-4', [174, 179]], u'Protein']
+[[u'expression', [185, 195]], u'Gene_expression']
+[[u'irf-4', [567, 572]], u'Protein']
+[[u'irf-4', [856, 861]], u'Protein']
+[[u'negative', [862, 870]], u'Gene_expression']
+[[u'irf-4', [1046, 1051]], u'Protein']
+[[u'positive', [1052, 1060]], u'Gene_expression']
+[[u'irf-4', [1173, 1178]], u'Protein']
+[[u'positive', [1179, 1187]], u'Gene_expression']
+[[u'irf-4', [1385, 1390]], u'Protein']
+[[u'transcription', [1391, 1404]], u'Transcription']
+[[u'irf-4', [1541, 1546]], u'Protein']
+[[u'negative', [1547, 1555]], u'Gene_expression']
+
+
+geniatagger: 4
+[[u'irf-4', [63, 68]], u'Protein']
+[[u'irf-4', [174, 179]], u'Protein']
+[[u'irf-4', [567, 572]], u'Protein']
+[[u'irf-4', [1385, 1390]], u'Protein']
+
+
+metamapper: 9
+[[u'irf-4', [63, 68]], u'Protein']
+[[u'irf-4', [174, 179]], u'Protein']
+[[u'expression', [185, 195]], u'Gene_expression']
+[[u'irf-4', [567, 572]], u'Protein']
+[[u'irf-4', [856, 861]], u'Protein']
+[[u'irf-4', [1046, 1051]], u'Protein']
+[[u'irf-4', [1173, 1178]], u'Protein']
+[[u'irf-4', [1385, 1390]], u'Protein']
+[[u'irf-4', [1541, 1546]], u'Protein']
+
+
+spacy + metamapper: 11
+[[u'irf-4', [63, 68]], u'Protein']
+[[u'irf-4', [174, 179]], u'Protein']
+[[u'irf-4', [567, 572]], u'Protein']
+[[u'irf-4', [856, 861]], u'Protein']
+[[u'negative', [862, 870]], u'Gene_expression']
+[[u'irf-4', [1046, 1051]], u'Protein']
+[[u'irf-4', [1173, 1178]], u'Protein']
+[[u'irf-4', [1385, 1390]], u'Protein']
+[[u'transcription', [1391, 1404]], u'Transcription']
+[[u'irf-4', [1541, 1546]], u'Protein']
+[[u'negative', [1547, 1555]], u'Gene_expression']
+
+
+total: 12
+[[u'irf-4', [63, 68]], u'Protein']
+[[u'irf-4', [174, 179]], u'Protein']
+[[u'irf-4', [567, 572]], u'Protein']
+[[u'irf-4', [1385, 1390]], u'Protein']
+[[u'expression', [185, 195]], u'Gene_expression']
+[[u'irf-4', [856, 861]], u'Protein']
+[[u'irf-4', [1046, 1051]], u'Protein']
+[[u'irf-4', [1173, 1178]], u'Protein']
+[[u'irf-4', [1541, 1546]], u'Protein']
+[[u'negative', [862, 870]], u'Gene_expression']
+[[u'transcription', [1391, 1404]], u'Transcription']
+[[u'negative', [1547, 1555]], u'Gene_expression']

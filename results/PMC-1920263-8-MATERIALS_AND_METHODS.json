@@ -1,0 +1,52 @@
+denotations: 12
+[[u'sp1', [43, 46]], u'Protein']
+[[u'sp3', [51, 54]], u'Protein']
+[[u'detection', [492, 501]], u'Gene_expression']
+[[u'sp1', [505, 508]], u'Protein']
+[[u'sp3', [513, 516]], u'Protein']
+[[u'sp1', [896, 899]], u'Protein']
+[[u'sp3', [904, 907]], u'Protein']
+[[u'detected', [922, 930]], u'Gene_expression']
+[[u'sp1', [939, 942]], u'Protein']
+[[u'sp3', [983, 986]], u'Protein']
+[[u'tubulin', [1105, 1112]], u'Protein']
+[[u'tubulin', [1116, 1123]], u'Protein']
+
+
+geniatagger: 6
+[[u'sp1', [43, 46]], u'Protein']
+[[u'sp3', [51, 54]], u'Protein']
+[[u'sp1', [505, 508]], u'Protein']
+[[u'sp3', [513, 516]], u'Protein']
+[[u'sp1', [896, 899]], u'Protein']
+[[u'sp3', [904, 907]], u'Protein']
+
+
+metamapper: 4
+[[u'sp3', [51, 54]], u'Protein']
+[[u'sp3', [513, 516]], u'Protein']
+[[u'sp3', [904, 907]], u'Protein']
+[[u'sp3', [983, 986]], u'Protein']
+
+
+spacy + metamapper: 7
+[[u'sp3', [51, 54]], u'Protein']
+[[u'detection', [492, 501]], u'Gene_expression']
+[[u'sp3', [513, 516]], u'Protein']
+[[u'sp3', [904, 907]], u'Protein']
+[[u'sp3', [983, 986]], u'Protein']
+[[u'tubulin', [1105, 1112]], u'Protein']
+[[u'tubulin', [1116, 1123]], u'Protein']
+
+
+total: 10
+[[u'sp1', [43, 46]], u'Protein']
+[[u'sp3', [51, 54]], u'Protein']
+[[u'sp1', [505, 508]], u'Protein']
+[[u'sp3', [513, 516]], u'Protein']
+[[u'sp1', [896, 899]], u'Protein']
+[[u'sp3', [904, 907]], u'Protein']
+[[u'sp3', [983, 986]], u'Protein']
+[[u'detection', [492, 501]], u'Gene_expression']
+[[u'tubulin', [1105, 1112]], u'Protein']
+[[u'tubulin', [1116, 1123]], u'Protein']

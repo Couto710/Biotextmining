@@ -1,0 +1,26 @@
+denotations: 4
+[[u'tnfaip3', [5, 12]], u'Protein']
+[[u'pathogen recognition receptor', [373, 402]], u'Protein']
+[[u'rig-i', [403, 408]], u'Protein']
+[[u'irf3', [932, 936]], u'Protein']
+
+
+geniatagger: 2
+[[u'tnfaip3', [5, 12]], u'Protein']
+[[u'irf3', [932, 936]], u'Protein']
+
+
+metamapper: 1
+[[u'tnfaip3', [5, 12]], u'Protein']
+
+
+spacy + metamapper: 3
+[[u'tnfaip3', [5, 12]], u'Protein']
+[[u'rig-i', [403, 408]], u'Protein']
+[[u'irf3', [932, 936]], u'Protein']
+
+
+total: 3
+[[u'tnfaip3', [5, 12]], u'Protein']
+[[u'irf3', [932, 936]], u'Protein']
+[[u'rig-i', [403, 408]], u'Protein']

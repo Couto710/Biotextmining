@@ -1,0 +1,42 @@
+denotations: 10
+[[u'expression', [84, 94]], u'Gene_expression']
+[[u'il-6', [105, 109]], u'Protein']
+[[u'cxcl8', [114, 119]], u'Protein']
+[[u'in response to', [120, 134]], u'Positive_regulation']
+[[u'following', [139, 148]], u'Positive_regulation']
+[[u'il-6', [225, 229]], u'Protein']
+[[u'cxcl8', [301, 306]], u'Protein']
+[[u'expression', [808, 818]], u'Gene_expression']
+[[u'il-6', [832, 836]], u'Protein']
+[[u'cxcl8', [841, 846]], u'Protein']
+
+
+geniatagger: 5
+[[u'il-6', [105, 109]], u'Protein']
+[[u'cxcl8', [114, 119]], u'Protein']
+[[u'il-6', [225, 229]], u'Protein']
+[[u'il-6', [832, 836]], u'Protein']
+[[u'cxcl8', [841, 846]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'il-6', [105, 109]], u'Protein']
+[[u'cxcl8', [114, 119]], u'Protein']
+[[u'following', [139, 148]], u'Positive_regulation']
+[[u'il-6', [225, 229]], u'Protein']
+[[u'cxcl8', [301, 306]], u'Protein']
+[[u'il-6', [832, 836]], u'Protein']
+[[u'cxcl8', [841, 846]], u'Protein']
+
+
+total: 7
+[[u'il-6', [105, 109]], u'Protein']
+[[u'cxcl8', [114, 119]], u'Protein']
+[[u'il-6', [225, 229]], u'Protein']
+[[u'il-6', [832, 836]], u'Protein']
+[[u'cxcl8', [841, 846]], u'Protein']
+[[u'following', [139, 148]], u'Positive_regulation']
+[[u'cxcl8', [301, 306]], u'Protein']

@@ -1,0 +1,57 @@
+denotations: 17
+[[u'a3g', [44, 47]], u'Protein']
+[[u'luciferase', [165, 175]], u'Protein']
+[[u'the (g/t)gggcgg(g/a)(g/a)(c/t) consensus motif', [483, 529]], u'Entity']
+[[u'recognized', [530, 540]], u'Binding']
+[[u'sp1', [544, 547]], u'Protein']
+[[u'sp3', [552, 555]], u'Protein']
+[[u'luciferase', [985, 995]], u'Protein']
+[[u'a3g', [1105, 1108]], u'Protein']
+[[u'luciferase', [1477, 1487]], u'Protein']
+[[u'under the control', [1502, 1519]], u'Regulation']
+[[u'luciferase', [1661, 1671]], u'Protein']
+[[u'30\u2009nt', [1785, 1790]], u'Entity']
+[[u'enhanced', [1797, 1805]], u'Positive_regulation']
+[[u'transcriptional activity', [1810, 1834]], u'Transcription']
+[[u'responsible', [1934, 1945]], u'Positive_regulation']
+[[u'enhanced', [1963, 1971]], u'Positive_regulation']
+[[u'transcriptional activity', [1972, 1996]], u'Positive_regulation']
+
+
+geniatagger: 8
+[[u'a3g', [44, 47]], u'Protein']
+[[u'luciferase', [165, 175]], u'Protein']
+[[u'sp1', [544, 547]], u'Protein']
+[[u'sp3', [552, 555]], u'Protein']
+[[u'luciferase', [985, 995]], u'Protein']
+[[u'a3g', [1105, 1108]], u'Protein']
+[[u'luciferase', [1477, 1487]], u'Protein']
+[[u'luciferase', [1661, 1671]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 9
+[[u'a3g', [44, 47]], u'Protein']
+[[u'luciferase', [165, 175]], u'Protein']
+[[u'sp3', [552, 555]], u'Protein']
+[[u'luciferase', [985, 995]], u'Protein']
+[[u'a3g', [1105, 1108]], u'Protein']
+[[u'luciferase', [1477, 1487]], u'Protein']
+[[u'luciferase', [1661, 1671]], u'Protein']
+[[u'enhanced', [1797, 1805]], u'Positive_regulation']
+[[u'enhanced', [1963, 1971]], u'Positive_regulation']
+
+
+total: 10
+[[u'a3g', [44, 47]], u'Protein']
+[[u'luciferase', [165, 175]], u'Protein']
+[[u'sp1', [544, 547]], u'Protein']
+[[u'sp3', [552, 555]], u'Protein']
+[[u'luciferase', [985, 995]], u'Protein']
+[[u'a3g', [1105, 1108]], u'Protein']
+[[u'luciferase', [1477, 1487]], u'Protein']
+[[u'luciferase', [1661, 1671]], u'Protein']
+[[u'enhanced', [1797, 1805]], u'Positive_regulation']
+[[u'enhanced', [1963, 1971]], u'Positive_regulation']

@@ -1,0 +1,46 @@
+denotations: 7
+[[u'pdk1', [15, 19]], u'Protein']
+[[u'3-phosphoinositide dependent protein kinase-1', [407, 452]], u'Protein']
+[[u'pdk1', [454, 458]], u'Protein']
+[[u'pdk1', [657, 661]], u'Protein']
+[[u'pdk1', [686, 690]], u'Protein']
+[[u'pdk1', [870, 874]], u'Protein']
+[[u'pdk1', [976, 980]], u'Protein']
+
+
+geniatagger: 6
+[[u'pdk1', [15, 19]], u'Protein']
+[[u'pdk1', [454, 458]], u'Protein']
+[[u'pdk1', [657, 661]], u'Protein']
+[[u'pdk1', [686, 690]], u'Protein']
+[[u'pdk1', [870, 874]], u'Protein']
+[[u'pdk1', [976, 980]], u'Protein']
+
+
+metamapper: 6
+[[u'pdk1', [15, 19]], u'Protein']
+[[u'pdk1', [454, 458]], u'Protein']
+[[u'pdk1', [657, 661]], u'Protein']
+[[u'pdk1', [686, 690]], u'Protein']
+[[u'pdk1', [870, 874]], u'Protein']
+[[u'pdk1', [976, 980]], u'Protein']
+
+
+spacy + metamapper: 7
+[[u'pdk1', [15, 19]], u'Protein']
+[[u'3-phosphoinositide dependent protein kinase-1', [407, 452]], u'Protein']
+[[u'pdk1', [454, 458]], u'Protein']
+[[u'pdk1', [657, 661]], u'Protein']
+[[u'pdk1', [686, 690]], u'Protein']
+[[u'pdk1', [870, 874]], u'Protein']
+[[u'pdk1', [976, 980]], u'Protein']
+
+
+total: 7
+[[u'pdk1', [15, 19]], u'Protein']
+[[u'pdk1', [454, 458]], u'Protein']
+[[u'pdk1', [657, 661]], u'Protein']
+[[u'pdk1', [686, 690]], u'Protein']
+[[u'pdk1', [870, 874]], u'Protein']
+[[u'pdk1', [976, 980]], u'Protein']
+[[u'3-phosphoinositide dependent protein kinase-1', [407, 452]], u'Protein']

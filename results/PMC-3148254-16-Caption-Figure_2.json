@@ -1,0 +1,63 @@
+denotations: 17
+[[u'cd40', [0, 4]], u'Protein']
+[[u'mediated', [5, 13]], u'Positive_regulation']
+[[u'cd80', [14, 18]], u'Protein']
+[[u'upregulation', [19, 31]], u'Positive_regulation']
+[[u'defective', [35, 44]], u'Negative_regulation']
+[[u'hoip', [48, 52]], u'Protein']
+[[u'deficient', [53, 62]], u'Negative_regulation']
+[[u'expression', [193, 203]], u'Gene_expression']
+[[u'cd80', [207, 211]], u'Protein']
+[[u'hoip', [355, 359]], u'Protein']
+[[u'deficient', [360, 369]], u'Negative_regulation']
+[[u'hoip', [371, 375]], u'Protein']
+[[u'hoip', [419, 423]], u'Protein']
+[[u'reversed', [424, 432]], u'Negative_regulation']
+[[u'defective', [433, 442]], u'Negative_regulation']
+[[u'cd80', [443, 447]], u'Protein']
+[[u'upregulation', [448, 460]], u'Positive_regulation']
+
+
+geniatagger: 3
+[[u'cd80', [14, 18]], u'Protein']
+[[u'cd80', [207, 211]], u'Protein']
+[[u'cd80', [443, 447]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 15
+[[u'mediated', [5, 13]], u'Positive_regulation']
+[[u'cd80', [14, 18]], u'Protein']
+[[u'upregulation', [19, 31]], u'Positive_regulation']
+[[u'defective', [35, 44]], u'Negative_regulation']
+[[u'hoip', [48, 52]], u'Protein']
+[[u'deficient', [53, 62]], u'Negative_regulation']
+[[u'expression', [193, 203]], u'Gene_expression']
+[[u'cd80', [207, 211]], u'Protein']
+[[u'hoip', [355, 359]], u'Protein']
+[[u'deficient', [360, 369]], u'Negative_regulation']
+[[u'hoip', [371, 375]], u'Protein']
+[[u'hoip', [419, 423]], u'Protein']
+[[u'defective', [433, 442]], u'Negative_regulation']
+[[u'cd80', [443, 447]], u'Protein']
+[[u'upregulation', [448, 460]], u'Positive_regulation']
+
+
+total: 15
+[[u'cd80', [14, 18]], u'Protein']
+[[u'cd80', [207, 211]], u'Protein']
+[[u'cd80', [443, 447]], u'Protein']
+[[u'mediated', [5, 13]], u'Positive_regulation']
+[[u'upregulation', [19, 31]], u'Positive_regulation']
+[[u'defective', [35, 44]], u'Negative_regulation']
+[[u'hoip', [48, 52]], u'Protein']
+[[u'deficient', [53, 62]], u'Negative_regulation']
+[[u'expression', [193, 203]], u'Gene_expression']
+[[u'hoip', [355, 359]], u'Protein']
+[[u'deficient', [360, 369]], u'Negative_regulation']
+[[u'hoip', [371, 375]], u'Protein']
+[[u'hoip', [419, 423]], u'Protein']
+[[u'defective', [433, 442]], u'Negative_regulation']
+[[u'upregulation', [448, 460]], u'Positive_regulation']

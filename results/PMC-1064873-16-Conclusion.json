@@ -1,0 +1,70 @@
+denotations: 17
+[[u'd4', [1, 3]], u'Protein']
+[[u'il-10', [78, 83]], u'Protein']
+[[u'ifn-\u03b3', [98, 103]], u'Protein']
+[[u'stat3', [136, 141]], u'Protein']
+[[u'il-10', [171, 176]], u'Protein']
+[[u'stat3', [186, 191]], u'Protein']
+[[u'stat3', [218, 223]], u'Protein']
+[[u'socs1', [262, 267]], u'Protein']
+[[u'socs3', [286, 291]], u'Protein']
+[[u'il-6', [408, 412]], u'Protein']
+[[u'il-10', [438, 443]], u'Protein']
+[[u'il-10', [526, 531]], u'Protein']
+[[u'il-6 receptor', [624, 637]], u'Protein']
+[[u'il-6', [779, 783]], u'Protein']
+[[u'stat3', [794, 799]], u'Protein']
+[[u'stat3', [844, 849]], u'Protein']
+[[u'socs3', [912, 917]], u'Protein']
+
+
+geniatagger: 12
+[[u'il-10', [78, 83]], u'Protein']
+[[u'stat3', [136, 141]], u'Protein']
+[[u'stat3', [186, 191]], u'Protein']
+[[u'stat3', [218, 223]], u'Protein']
+[[u'socs1', [262, 267]], u'Protein']
+[[u'socs3', [286, 291]], u'Protein']
+[[u'il-6', [408, 412]], u'Protein']
+[[u'il-10', [438, 443]], u'Protein']
+[[u'il-10', [526, 531]], u'Protein']
+[[u'stat3', [794, 799]], u'Protein']
+[[u'stat3', [844, 849]], u'Protein']
+[[u'socs3', [912, 917]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 14
+[[u'il-10', [78, 83]], u'Protein']
+[[u'stat3', [136, 141]], u'Protein']
+[[u'il-10', [171, 176]], u'Protein']
+[[u'stat3', [186, 191]], u'Protein']
+[[u'stat3', [218, 223]], u'Protein']
+[[u'socs1', [262, 267]], u'Protein']
+[[u'socs3', [286, 291]], u'Protein']
+[[u'il-6', [408, 412]], u'Protein']
+[[u'il-10', [438, 443]], u'Protein']
+[[u'il-10', [526, 531]], u'Protein']
+[[u'il-6', [779, 783]], u'Protein']
+[[u'stat3', [794, 799]], u'Protein']
+[[u'stat3', [844, 849]], u'Protein']
+[[u'socs3', [912, 917]], u'Protein']
+
+
+total: 14
+[[u'il-10', [78, 83]], u'Protein']
+[[u'stat3', [136, 141]], u'Protein']
+[[u'stat3', [186, 191]], u'Protein']
+[[u'stat3', [218, 223]], u'Protein']
+[[u'socs1', [262, 267]], u'Protein']
+[[u'socs3', [286, 291]], u'Protein']
+[[u'il-6', [408, 412]], u'Protein']
+[[u'il-10', [438, 443]], u'Protein']
+[[u'il-10', [526, 531]], u'Protein']
+[[u'stat3', [794, 799]], u'Protein']
+[[u'stat3', [844, 849]], u'Protein']
+[[u'socs3', [912, 917]], u'Protein']
+[[u'il-10', [171, 176]], u'Protein']
+[[u'il-6', [779, 783]], u'Protein']

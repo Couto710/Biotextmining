@@ -1,0 +1,28 @@
+denotations: 7
+[[u'serpinb2', [84, 92]], u'Protein']
+[[u'serpinb2', [246, 254]], u'Protein']
+[[u'oct1', [387, 391]], u'Protein']
+[[u'octamer transcription factor 1', [395, 425]], u'Protein']
+[[u'pou2f1', [426, 432]], u'Protein']
+[[u'pu.1', [434, 438]], u'Protein']
+[[u'purine box binding protein 1', [442, 470]], u'Protein']
+
+
+geniatagger: 2
+[[u'serpinb2', [84, 92]], u'Protein']
+[[u'serpinb2', [246, 254]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 3
+[[u'serpinb2', [84, 92]], u'Protein']
+[[u'serpinb2', [246, 254]], u'Protein']
+[[u'oct1', [387, 391]], u'Protein']
+
+
+total: 3
+[[u'serpinb2', [84, 92]], u'Protein']
+[[u'serpinb2', [246, 254]], u'Protein']
+[[u'oct1', [387, 391]], u'Protein']

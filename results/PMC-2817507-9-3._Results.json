@@ -1,0 +1,28 @@
+denotations: 5
+[[u'tlr4', [5, 9]], u'Protein']
+[[u'tlr4', [51, 55]], u'Protein']
+[[u'tlr4', [110, 114]], u'Protein']
+[[u'tlr4', [194, 198]], u'Protein']
+[[u'tlr4', [292, 296]], u'Protein']
+
+
+geniatagger: 5
+[[u'tlr4', [5, 9]], u'Protein']
+[[u'tlr4', [51, 55]], u'Protein']
+[[u'tlr4', [110, 114]], u'Protein']
+[[u'tlr4', [194, 198]], u'Protein']
+[[u'tlr4', [292, 296]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 0
+
+
+total: 5
+[[u'tlr4', [5, 9]], u'Protein']
+[[u'tlr4', [51, 55]], u'Protein']
+[[u'tlr4', [110, 114]], u'Protein']
+[[u'tlr4', [194, 198]], u'Protein']
+[[u'tlr4', [292, 296]], u'Protein']

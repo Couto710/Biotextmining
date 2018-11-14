@@ -1,0 +1,46 @@
+denotations: 16
+[[u'cd4', [33, 36]], u'Protein']
+[[u'cd45ra', [38, 44]], u'Protein']
+[[u'cd45ro', [67, 73]], u'Protein']
+[[u'depletion', [74, 83]], u'Negative_regulation']
+[[u'cd3', [194, 197]], u'Protein']
+[[u'cd28', [229, 233]], u'Protein']
+[[u'il-12', [272, 277]], u'Protein']
+[[u'il-4', [292, 296]], u'Protein']
+[[u'il-4', [340, 344]], u'Protein']
+[[u'ifn-\u03b3', [359, 364]], u'Protein']
+[[u'il-12', [379, 384]], u'Protein']
+[[u'tgf-\u03b2', [432, 437]], u'Protein']
+[[u'ifn-\u03b3', [452, 457]], u'Protein']
+[[u'il-12', [472, 477]], u'Protein']
+[[u'il-4', [492, 496]], u'Protein']
+[[u'il-2', [553, 557]], u'Protein']
+
+
+geniatagger: 2
+[[u'il-12', [272, 277]], u'Protein']
+[[u'il-2', [553, 557]], u'Protein']
+
+
+metamapper: 0
+
+
+spacy + metamapper: 7
+[[u'cd4', [33, 36]], u'Protein']
+[[u'il-12', [272, 277]], u'Protein']
+[[u'il-4', [292, 296]], u'Protein']
+[[u'il-4', [340, 344]], u'Protein']
+[[u'il-12', [379, 384]], u'Protein']
+[[u'il-12', [472, 477]], u'Protein']
+[[u'il-4', [492, 496]], u'Protein']
+
+
+total: 8
+[[u'il-12', [272, 277]], u'Protein']
+[[u'il-2', [553, 557]], u'Protein']
+[[u'cd4', [33, 36]], u'Protein']
+[[u'il-4', [292, 296]], u'Protein']
+[[u'il-4', [340, 344]], u'Protein']
+[[u'il-12', [379, 384]], u'Protein']
+[[u'il-12', [472, 477]], u'Protein']
+[[u'il-4', [492, 496]], u'Protein']
